@@ -1,0 +1,2501 @@
+Car ID,Brand,Year,Engine Size,Fuel Type,Transmission,Condition,Model,Price
+1,Honda,2021,0.0,Electric,Manual,Used,City,31694.0
+2,Toyota,2020,2.5,Diesel,Manual,Used,Camry,44213.0
+3,Toyota,2019,3.0,Diesel,Manual,Like New,Corolla,48350.0
+4,Kia,2009,1.8,Diesel,Automatic,Used,Carens,23028.0
+5,Mercedes,2019,0.0,Electric,Automatic,New,GLA,45702.0
+6,Tesla,2018,1.5,Diesel,Automatic,Used,Model S,45506.0
+7,Honda,2022,2.0,Petrol,Automatic,Used,Civic,41916.0
+8,Mahindra,2016,2.5,Diesel,Automatic,Like New,Scorpio,41678.0
+9,Ford,2024,2.0,Petrol,Manual,Used,EcoSport,43838.0
+10,Kia,2024,1.8,Petrol,Manual,New,Carens,49410.0
+11,Hyundai,2019,0.0,Electric,Automatic,Used,Creta,29760.0
+12,Hyundai,2025,1.8,Petrol,Automatic,Used,i20,43671.0
+13,Mahindra,2025,2.0,Petrol,Automatic,New,Scorpio,54252.0
+14,BMW,2021,1.0,Petrol,Manual,Used,X1,41014.0
+15,Honda,2024,1.0,Diesel,Automatic,Used,Civic,38660.0
+16,Honda,2008,1.5,Petrol,Automatic,Used,Civic,20395.0
+17,Tata,2010,1.2,Diesel,Automatic,Like New,Altroz,24710.0
+18,Tata,2015,1.5,Diesel,Manual,Used,Safari,29766.0
+19,Audi,2015,1.5,Diesel,Manual,New,A4,42402.0
+20,Maruti,2024,1.0,Diesel,Automatic,Like New,Dzire,41553.0
+21,Tata,2012,1.8,Diesel,Manual,New,Safari,33109.0
+22,Maruti,2024,2.5,Petrol,Automatic,New,Swift,53824.0
+23,Tata,2011,1.2,Petrol,Manual,Used,Altroz,19200.0
+24,Mercedes,2023,0.0,Electric,Automatic,New,E-Class,51623.0
+25,Mercedes,2020,1.8,Petrol,Automatic,Used,GLC,48011.0
+26,Ford,2018,1.0,Diesel,Manual,Used,Explorer,29505.0
+27,Audi,2011,3.0,Diesel,Automatic,Used,A3,42785.0
+28,Maruti,2024,2.0,Diesel,Manual,Used,Dzire,43141.0
+29,Toyota,2008,3.0,Petrol,Manual,Used,Corolla,27853.0
+30,BMW,2011,2.0,Petrol,Manual,Used,X1,35873.0
+31,Mahindra,2022,1.5,Diesel,Automatic,New,Bolero,46939.0
+32,Tata,2025,1.8,Diesel,Manual,Like New,Nexon,48027.0
+33,BMW,2012,1.5,Petrol,Automatic,Used,X3,34412.0
+34,Honda,2023,2.0,Diesel,Automatic,Used,City,45836.0
+35,BMW,2014,2.0,Diesel,Automatic,Used,X5,42581.0
+36,Ford,2014,0.0,Electric,Automatic,New,Fiesta,29783.0
+37,Tata,2017,2.0,Diesel,Manual,Used,Altroz,36272.0
+38,Kia,2009,0.0,Electric,Manual,Used,Carens,12702.0
+39,Toyota,2016,2.0,Petrol,Automatic,Used,Innova,34780.0
+40,Hyundai,2012,0.0,Electric,Automatic,Like New,Tucson,22471.0
+41,Tata,2009,3.0,Petrol,Automatic,Used,Harrier,30512.0
+42,Audi,2023,0.0,Electric,Manual,Used,A4,41804.0
+43,Mercedes,2013,2.0,Petrol,Automatic,Like New,C-Class,42787.0
+44,Maruti,2020,1.2,Petrol,Automatic,Used,Swift,33381.0
+45,Audi,2017,1.8,Petrol,Automatic,Like New,Q5,45461.0
+46,BMW,2016,2.5,Petrol,Manual,Used,X3,44513.0
+47,Toyota,2016,1.8,Diesel,Automatic,New,Fortuner,40863.0
+48,Hyundai,2021,1.5,Petrol,Manual,New,Tucson,43036.0
+49,Tesla,2024,3.0,Petrol,Automatic,New,Model 3,71215.0
+50,Mahindra,2022,1.0,Diesel,Manual,Used,Bolero,37069.0
+51,Kia,2013,0.0,Electric,Manual,Used,Seltos,19663.0
+52,Tata,2024,1.2,Diesel,Manual,Used,Harrier,38919.0
+53,Mercedes,2008,1.8,Petrol,Manual,Used,GLC,30630.0
+54,Honda,2024,2.0,Diesel,Manual,Used,City,45832.0
+55,Toyota,2017,2.0,Diesel,Automatic,Used,Corolla,36714.0
+56,Maruti,2018,1.5,Petrol,Manual,Used,Swift,31561.0
+57,Toyota,2015,1.0,Diesel,Automatic,New,Camry,33176.0
+58,Mahindra,2008,3.0,Petrol,Manual,Used,Bolero,29192.0
+59,Tata,2012,1.2,Diesel,Manual,New,Safari,29128.0
+60,Honda,2010,1.8,Diesel,Automatic,Used,City,24252.0
+61,Tesla,2011,1.0,Diesel,Manual,Used,Model S,32062.0
+62,Audi,2022,1.2,Petrol,Manual,Like New,A4,46840.0
+63,Tesla,2008,1.8,Petrol,Manual,Used,Model X,32128.0
+64,Audi,2013,1.8,Petrol,Manual,Used,A4,35640.0
+65,Tata,2025,2.0,Diesel,Manual,Like New,Harrier,48678.0
+66,Tesla,2020,2.0,Diesel,Automatic,Used,Model S,53648.0
+67,Tata,2008,2.0,Petrol,Manual,Used,Nexon,21609.0
+68,Mahindra,2015,3.0,Diesel,Manual,New,Scorpio,47546.0
+69,Hyundai,2024,0.0,Electric,Manual,Used,Creta,34251.0
+70,Maruti,2009,0.0,Electric,Automatic,Used,Baleno,14621.0
+71,Maruti,2021,0.0,Electric,Automatic,Used,Swift,32054.0
+72,Mahindra,2012,0.0,Electric,Automatic,New,Scorpio,25886.0
+73,Honda,2023,3.0,Petrol,Automatic,Used,Amaze,51054.0
+74,Ford,2025,0.0,Electric,Manual,Used,Mustang,37510.0
+75,Honda,2017,1.8,Petrol,Manual,Like New,Civic,34112.0
+76,Audi,2010,2.0,Petrol,Automatic,Like New,Q5,37115.0
+77,Ford,2022,1.8,Diesel,Automatic,Used,Fiesta,43835.0
+78,Hyundai,2011,1.2,Petrol,Automatic,Used,Verna,19859.0
+79,Kia,2024,2.5,Petrol,Automatic,Used,Carnival,47541.0
+80,BMW,2017,3.0,Diesel,Automatic,Like New,X3,55240.0
+81,Kia,2019,1.2,Petrol,Manual,Used,Carnival,31132.0
+82,Mercedes,2009,2.5,Petrol,Automatic,Like New,GLC,39567.0
+83,Ford,2015,0.0,Electric,Manual,Used,Explorer,23316.0
+84,BMW,2011,1.0,Petrol,Manual,Like New,X1,30935.0
+85,Kia,2025,0.0,Electric,Automatic,Used,Carens,38090.0
+86,Mercedes,2023,1.0,Petrol,Automatic,New,E-Class,52262.0
+87,Ford,2009,1.2,Petrol,Automatic,Used,EcoSport,19231.0
+88,Kia,2012,1.2,Diesel,Automatic,Used,Carens,22548.0
+89,Mahindra,2009,1.5,Petrol,Manual,Like New,Bolero,23352.0
+90,Maruti,2016,1.5,Petrol,Automatic,New,Brezza,36553.0
+91,Tata,2010,0.0,Electric,Manual,Like New,Safari,19113.0
+92,Toyota,2008,0.0,Electric,Manual,Used,Innova,13035.0
+93,Kia,2022,1.2,Petrol,Automatic,Used,Carens,35652.0
+94,Ford,2022,1.8,Petrol,Manual,Used,Explorer,39977.0
+95,Mercedes,2025,3.0,Diesel,Manual,Used,GLC,63860.0
+96,Maruti,2023,1.8,Diesel,Automatic,Used,Dzire,42009.0
+97,Tesla,2016,1.0,Petrol,Automatic,Used,Model X,38890.0
+98,Mahindra,2010,1.0,Petrol,Manual,Used,Thar,18102.0
+99,Tesla,2009,3.0,Petrol,Manual,New,Model X,49005.0
+100,Mahindra,2016,1.2,Petrol,Manual,Used,Bolero,28211.0
+101,Mahindra,2024,1.5,Petrol,Automatic,Used,XUV700,44214.0
+102,Mahindra,2016,0.0,Electric,Manual,Used,XUV700,25092.0
+103,Tesla,2013,0.0,Electric,Automatic,Like New,Model S,35282.0
+104,Kia,2010,1.8,Diesel,Automatic,Used,Carens,24363.0
+105,Toyota,2019,1.8,Petrol,Manual,Like New,Fortuner,39218.0
+106,Tata,2013,1.8,Diesel,Automatic,Like New,Safari,32250.0
+107,Honda,2021,1.8,Diesel,Manual,Like New,Amaze,41763.0
+108,Mahindra,2014,2.0,Diesel,Manual,Like New,XUV700,35720.0
+109,Mercedes,2015,1.8,Petrol,Automatic,Used,GLA,41921.0
+110,Mahindra,2020,2.5,Diesel,Automatic,Used,XUV700,46566.0
+111,BMW,2021,1.8,Petrol,Automatic,Like New,X3,51255.0
+112,Kia,2023,1.8,Petrol,Automatic,Like New,Carnival,44164.0
+113,Toyota,2024,1.2,Diesel,Manual,Used,Innova,40645.0
+114,Hyundai,2015,2.0,Diesel,Automatic,New,i20,39381.0
+115,Mercedes,2023,1.8,Petrol,Manual,New,GLA,58149.0
+116,Mahindra,2013,2.0,Diesel,Manual,Used,Thar,31157.0
+117,Tata,2009,1.5,Diesel,Manual,Like New,Safari,22433.0
+118,Toyota,2009,0.0,Electric,Automatic,New,Fortuner,21640.0
+119,Mahindra,2017,1.0,Diesel,Automatic,Used,Scorpio,31783.0
+120,BMW,2011,1.2,Petrol,Automatic,Like New,3 Series,34001.0
+121,Ford,2020,1.5,Petrol,Manual,Used,EcoSport,36375.0
+122,Toyota,2024,3.0,Petrol,Manual,Used,Innova,51266.0
+123,Kia,2021,3.0,Petrol,Automatic,New,Carens,53657.0
+124,Honda,2020,1.2,Petrol,Manual,Like New,CR-V,36111.0
+125,Honda,2010,1.5,Petrol,Manual,Used,City,20254.0
+126,Hyundai,2015,1.8,Petrol,Manual,Used,Tucson,30655.0
+127,BMW,2019,0.0,Electric,Automatic,New,X1,44515.0
+128,Hyundai,2015,0.0,Electric,Automatic,New,Verna,29064.0
+129,Ford,2024,1.2,Diesel,Automatic,Used,Explorer,41024.0
+130,BMW,2019,0.0,Electric,Manual,Used,X1,36378.0
+131,Mahindra,2019,3.0,Petrol,Manual,Used,Bolero,45693.0
+132,Audi,2022,0.0,Electric,Manual,Used,Q7,40602.0
+133,Hyundai,2020,1.0,Petrol,Automatic,Used,Verna,31100.0
+134,Kia,2011,1.8,Petrol,Automatic,New,Seltos,30965.0
+135,Maruti,2008,1.8,Petrol,Automatic,Like New,Brezza,23057.0
+136,Ford,2010,3.0,Petrol,Manual,Like New,Mustang,33839.0
+137,Ford,2009,2.5,Diesel,Manual,Like New,EcoSport,30780.0
+138,Hyundai,2021,1.8,Petrol,Manual,Used,Tucson,37458.0
+139,Maruti,2025,1.8,Petrol,Manual,Used,Swift,43480.0
+140,Maruti,2014,3.0,Diesel,Manual,New,Baleno,42955.0
+141,BMW,2010,1.8,Diesel,Manual,Used,X3,32316.0
+142,Maruti,2011,2.0,Diesel,Automatic,Like New,Baleno,29567.0
+143,Tata,2009,2.0,Diesel,Automatic,New,Nexon,31180.0
+144,Hyundai,2015,0.0,Electric,Manual,New,Creta,27687.0
+145,Audi,2016,1.5,Petrol,Manual,Used,A4,37515.0
+146,Audi,2024,1.8,Petrol,Automatic,Used,A4,53280.0
+147,BMW,2024,1.2,Diesel,Manual,Like New,X1,50923.0
+148,Audi,2008,1.5,Petrol,Automatic,Like New,Q5,31021.0
+149,Mahindra,2008,0.0,Electric,Automatic,Used,Thar,14056.0
+150,Tata,2013,1.0,Petrol,Manual,Used,Harrier,21144.0
+151,Ford,2024,1.0,Petrol,Manual,Like New,Mustang,40003.0
+152,Mercedes,2009,2.5,Diesel,Manual,New,E-Class,43009.0
+153,Honda,2012,1.2,Petrol,Manual,Used,Amaze,21596.0
+154,Tata,2016,2.0,Petrol,Automatic,Like New,Nexon,36450.0
+155,Toyota,2009,2.0,Petrol,Manual,Used,Fortuner,23172.0
+156,Honda,2012,1.5,Petrol,Automatic,New,Amaze,31928.0
+157,Audi,2022,2.5,Diesel,Automatic,Like New,A3,57278.0
+158,Maruti,2025,1.5,Petrol,Manual,New,Brezza,47337.0
+159,Tata,2012,1.5,Petrol,Automatic,New,Nexon,31667.0
+160,Toyota,2012,2.0,Petrol,Automatic,New,Fortuner,34373.0
+161,Tesla,2010,1.5,Diesel,Manual,Used,Model S,35303.0
+162,Kia,2011,1.2,Diesel,Automatic,New,Carnival,29167.0
+163,Ford,2019,2.5,Petrol,Manual,Like New,EcoSport,42964.0
+164,Audi,2016,0.0,Electric,Manual,New,Q5,37413.0
+165,Ford,2011,0.0,Electric,Manual,Used,Explorer,17763.0
+166,Honda,2020,3.0,Diesel,Manual,Used,Civic,45477.0
+167,Toyota,2019,2.0,Petrol,Automatic,Like New,Fortuner,41287.0
+168,BMW,2008,3.0,Diesel,Manual,Like New,X5,42252.0
+169,Tata,2025,1.8,Diesel,Manual,New,Altroz,50551.0
+170,Toyota,2020,2.5,Diesel,Manual,Used,Innova,43669.0
+171,Mahindra,2012,1.0,Petrol,Automatic,Used,Thar,22438.0
+172,Honda,2018,1.2,Petrol,Automatic,Used,CR-V,31687.0
+173,Mahindra,2019,2.0,Petrol,Manual,Like New,Scorpio,41799.0
+174,Maruti,2017,1.8,Diesel,Manual,Used,Baleno,33483.0
+175,Tesla,2017,1.2,Petrol,Manual,Like New,Model S,43632.0
+176,Mercedes,2009,2.0,Diesel,Manual,New,E-Class,40968.0
+177,Hyundai,2009,1.2,Diesel,Automatic,Used,i20,19763.0
+178,Hyundai,2025,2.5,Diesel,Manual,Used,Tucson,49311.0
+179,BMW,2011,1.5,Petrol,Manual,Used,X5,31565.0
+180,BMW,2023,1.0,Petrol,Manual,Like New,X3,46810.0
+181,Ford,2011,1.5,Diesel,Automatic,Used,Explorer,25775.0
+182,Maruti,2020,0.0,Electric,Manual,New,Dzire,35763.0
+183,Kia,2011,1.2,Petrol,Automatic,Like New,Carnival,23243.0
+184,Ford,2015,1.5,Petrol,Automatic,Used,Fiesta,30278.0
+185,Tesla,2008,2.0,Petrol,Manual,Like New,Model X,36529.0
+186,Kia,2014,1.5,Petrol,Automatic,Like New,Carens,29263.0
+187,Mahindra,2023,1.5,Petrol,Manual,New,Scorpio,47498.0
+188,Audi,2025,1.2,Diesel,Manual,New,A3,54963.0
+189,Toyota,2022,1.0,Petrol,Automatic,Used,Corolla,36999.0
+190,Honda,2020,1.8,Diesel,Manual,Like New,Amaze,39983.0
+191,BMW,2016,3.0,Petrol,Manual,Used,X1,50178.0
+192,Honda,2014,2.5,Petrol,Manual,Used,Amaze,32599.0
+193,Honda,2010,0.0,Electric,Automatic,Like New,CR-V,18362.0
+194,Hyundai,2013,1.2,Petrol,Manual,Used,Tucson,23345.0
+195,Kia,2009,1.0,Petrol,Automatic,Used,Sonet,15735.0
+196,Toyota,2018,1.0,Diesel,Manual,Like New,Corolla,32691.0
+197,Kia,2013,3.0,Petrol,Manual,Used,Carnival,36422.0
+198,Tesla,2010,2.0,Diesel,Manual,Used,Model Y,37765.0
+199,Hyundai,2024,1.0,Diesel,Automatic,Like New,Tucson,42418.0
+200,Toyota,2024,1.2,Diesel,Manual,Like New,Camry,42303.0
+201,Audi,2023,1.8,Diesel,Manual,New,Q7,57740.0
+202,Tesla,2019,1.0,Diesel,Manual,Like New,Model S,45326.0
+203,Toyota,2023,1.5,Petrol,Automatic,New,Camry,46427.0
+204,Mercedes,2015,1.8,Petrol,Manual,New,E-Class,47032.0
+205,BMW,2013,1.8,Petrol,Manual,Like New,X5,40254.0
+206,Audi,2011,1.2,Petrol,Automatic,New,A3,35217.0
+207,Kia,2021,1.2,Petrol,Manual,Used,Sonet,32962.0
+208,Tesla,2025,1.5,Diesel,Automatic,Used,Model 3,55972.0
+209,BMW,2023,0.0,Electric,Automatic,Used,X1,44737.0
+210,Tata,2009,3.0,Diesel,Manual,Used,Safari,31066.0
+211,Tata,2008,2.0,Petrol,Automatic,New,Safari,29490.0
+212,Tesla,2008,3.0,Diesel,Automatic,Like New,Model X,45724.0
+213,Mahindra,2025,2.5,Petrol,Manual,Like New,Bolero,52759.0
+214,Maruti,2025,1.5,Diesel,Manual,Used,Brezza,41267.0
+215,BMW,2020,1.0,Petrol,Automatic,Used,X3,42625.0
+216,Mahindra,2015,1.5,Petrol,Automatic,Used,Thar,30045.0
+217,Mercedes,2024,1.2,Diesel,Manual,New,GLC,55504.0
+218,BMW,2025,1.0,Diesel,Manual,Used,X3,49377.0
+219,BMW,2025,3.0,Diesel,Automatic,New,3 Series,70371.0
+220,Ford,2025,1.2,Diesel,Manual,Like New,EcoSport,44338.0
+221,Toyota,2022,1.8,Petrol,Manual,Used,Camry,40927.0
+222,Tesla,2018,1.5,Diesel,Manual,Used,Model X,45721.0
+223,Mahindra,2013,2.0,Petrol,Automatic,Like New,Thar,34436.0
+224,Tata,2012,3.0,Petrol,Automatic,New,Harrier,41160.0
+225,Maruti,2019,3.0,Petrol,Automatic,Used,Baleno,45240.0
+226,Maruti,2023,0.0,Electric,Automatic,New,Brezza,40123.0
+227,Ford,2017,1.8,Petrol,Automatic,New,Explorer,41336.0
+228,Mercedes,2008,0.0,Electric,Automatic,Used,C-Class,23881.0
+229,BMW,2021,0.0,Electric,Automatic,Used,X5,41930.0
+230,Ford,2009,1.0,Diesel,Manual,Used,Fiesta,17470.0
+231,Mercedes,2013,1.5,Diesel,Automatic,Used,GLC,38251.0
+232,Mahindra,2011,1.5,Petrol,Automatic,Like New,Scorpio,26344.0
+233,Kia,2019,0.0,Electric,Automatic,Used,Carens,27705.0
+234,Honda,2008,2.0,Diesel,Automatic,New,City,28863.0
+235,Kia,2016,1.8,Diesel,Manual,Used,Carens,33216.0
+236,Mahindra,2011,1.0,Petrol,Manual,Like New,Thar,23264.0
+237,Honda,2010,3.0,Diesel,Manual,Like New,CR-V,34194.0
+238,Mahindra,2024,1.0,Petrol,Manual,Used,Thar,39385.0
+239,Toyota,2016,2.0,Diesel,Automatic,Used,Camry,35112.0
+240,Audi,2021,1.2,Diesel,Manual,New,A4,48937.0
+241,Kia,2011,0.0,Electric,Manual,New,Carens,22449.0
+242,Ford,2013,2.5,Diesel,Manual,Like New,Mustang,37408.0
+243,Toyota,2021,1.5,Petrol,Manual,New,Innova,42785.0
+244,Tesla,2012,2.5,Diesel,Automatic,Used,Model 3,44337.0
+245,Kia,2021,1.2,Petrol,Manual,Like New,Carnival,36250.0
+246,Ford,2017,1.5,Diesel,Automatic,Like New,Mustang,35677.0
+247,Audi,2025,2.0,Diesel,Manual,Used,Q7,54433.0
+248,Mahindra,2021,0.0,Electric,Manual,Used,Scorpio,31707.0
+249,Honda,2018,1.5,Diesel,Manual,Used,City,32472.0
+250,Tata,2019,1.5,Petrol,Manual,New,Altroz,39533.0
+251,Maruti,2014,1.0,Diesel,Automatic,Used,Swift,23276.0
+252,Kia,2021,1.2,Petrol,Manual,Used,Carens,33914.0
+253,Mahindra,2012,1.2,Diesel,Manual,Like New,Bolero,26472.0
+254,Tesla,2013,1.0,Petrol,Automatic,New,Model S,42330.0
+255,Kia,2020,1.2,Petrol,Manual,Used,Sonet,33068.0
+256,Tata,2010,1.8,Petrol,Manual,Used,Altroz,22967.0
+257,Toyota,2020,2.0,Diesel,Automatic,Used,Fortuner,40849.0
+258,Honda,2011,2.0,Petrol,Manual,New,CR-V,31985.0
+259,Hyundai,2015,1.8,Petrol,Automatic,Used,i20,30617.0
+260,Hyundai,2012,1.8,Diesel,Automatic,Used,Creta,27488.0
+261,Hyundai,2015,1.8,Petrol,Manual,New,Tucson,36078.0
+262,Mercedes,2013,2.0,Diesel,Manual,Used,C-Class,41119.0
+263,Tesla,2023,1.2,Petrol,Automatic,Like New,Model 3,53709.0
+264,BMW,2019,0.0,Electric,Manual,Like New,X3,41067.0
+265,Audi,2024,1.2,Petrol,Automatic,New,Q7,52879.0
+266,Tesla,2010,2.0,Diesel,Manual,New,Model X,43605.0
+267,Honda,2009,0.0,Electric,Automatic,Used,City,15266.0
+268,Tesla,2022,1.0,Petrol,Automatic,Like New,Model S,49436.0
+269,Ford,2016,2.5,Petrol,Automatic,New,Explorer,43985.0
+270,Kia,2018,1.2,Diesel,Manual,Used,Carens,29596.0
+271,Honda,2021,1.5,Petrol,Manual,New,CR-V,43022.0
+272,Mercedes,2020,1.2,Petrol,Automatic,New,GLC,49714.0
+273,Hyundai,2013,2.0,Diesel,Manual,Used,Verna,28293.0
+274,Tata,2016,1.0,Diesel,Automatic,Like New,Altroz,29706.0
+275,BMW,2021,0.0,Electric,Automatic,New,X1,47440.0
+276,Toyota,2024,2.5,Diesel,Automatic,Like New,Camry,52818.0
+277,Maruti,2025,1.0,Diesel,Automatic,Used,Baleno,39988.0
+278,Mercedes,2014,1.2,Diesel,Automatic,Like New,GLA,40442.0
+279,Kia,2023,1.5,Petrol,Automatic,Like New,Sonet,43351.0
+280,Tesla,2018,0.0,Electric,Automatic,New,Model S,45540.0
+281,Audi,2016,3.0,Diesel,Manual,Used,Q5,49252.0
+282,Toyota,2019,1.0,Petrol,Automatic,Like New,Corolla,33928.0
+283,Tesla,2014,2.0,Petrol,Automatic,Used,Model 3,44217.0
+284,Toyota,2022,1.8,Petrol,Automatic,New,Corolla,48095.0
+285,Tata,2014,0.0,Electric,Automatic,Like New,Harrier,24336.0
+286,Honda,2009,1.8,Petrol,Automatic,Used,CR-V,23295.0
+287,Mahindra,2010,1.5,Diesel,Automatic,Used,Thar,24906.0
+288,Maruti,2018,1.8,Diesel,Manual,Used,Baleno,34167.0
+289,Ford,2015,3.0,Petrol,Manual,Used,Mustang,39843.0
+290,Maruti,2021,2.5,Diesel,Automatic,Used,Baleno,45584.0
+291,Audi,2016,3.0,Diesel,Manual,Like New,Q5,50858.0
+292,Tesla,2015,3.0,Diesel,Manual,New,Model S,58255.0
+293,Kia,2015,2.0,Petrol,Automatic,Used,Sonet,32085.0
+294,Tata,2011,1.2,Petrol,Manual,New,Harrier,27151.0
+295,Audi,2019,1.0,Petrol,Automatic,Used,Q7,39042.0
+296,Toyota,2019,2.0,Diesel,Manual,Like New,Corolla,40894.0
+297,Tesla,2022,1.8,Diesel,Manual,Used,Model S,52551.0
+298,Ford,2014,0.0,Electric,Manual,Used,Explorer,20956.0
+299,Ford,2025,0.0,Electric,Manual,Like New,Explorer,38762.0
+300,Kia,2025,3.0,Petrol,Automatic,Like New,Sonet,56269.0
+301,Audi,2023,0.0,Electric,Automatic,Used,Q5,42089.0
+302,Honda,2012,1.5,Diesel,Manual,New,CR-V,29530.0
+303,Ford,2010,2.0,Diesel,Automatic,Like New,Explorer,29745.0
+304,Mahindra,2021,1.2,Petrol,Manual,Used,XUV700,35914.0
+305,Tata,2024,3.0,Petrol,Automatic,New,Nexon,57918.0
+306,Toyota,2010,1.8,Diesel,Manual,Used,Fortuner,23604.0
+307,Toyota,2023,1.0,Petrol,Automatic,New,Fortuner,43666.0
+308,BMW,2009,1.8,Diesel,Manual,New,X5,38051.0
+309,Honda,2010,0.0,Electric,Manual,Used,Amaze,15745.0
+310,Mahindra,2023,3.0,Petrol,Manual,Used,Scorpio,49902.0
+311,Honda,2014,3.0,Diesel,Automatic,Like New,City,42475.0
+312,Audi,2025,3.0,Petrol,Manual,Like New,Q7,62817.0
+313,Tesla,2012,3.0,Diesel,Manual,Used,Model Y,47679.0
+314,Honda,2021,3.0,Petrol,Automatic,Used,Civic,49073.0
+315,Ford,2019,1.8,Diesel,Automatic,New,Fiesta,45549.0
+316,Mercedes,2022,2.5,Petrol,Automatic,Used,E-Class,56391.0
+317,BMW,2024,1.0,Petrol,Automatic,New,X1,52795.0
+318,Tata,2021,1.5,Petrol,Automatic,New,Altroz,43126.0
+319,Toyota,2024,1.2,Petrol,Manual,New,Corolla,44384.0
+320,Ford,2021,2.5,Petrol,Automatic,Used,EcoSport,44367.0
+321,Ford,2022,1.2,Petrol,Automatic,Used,Fiesta,38222.0
+322,Tesla,2017,1.8,Diesel,Automatic,Like New,Model Y,48783.0
+323,Audi,2022,1.2,Diesel,Automatic,Used,Q5,46997.0
+324,BMW,2013,2.5,Petrol,Automatic,Used,3 Series,43194.0
+325,BMW,2025,1.0,Petrol,Automatic,Like New,X5,51505.0
+326,Ford,2012,1.8,Diesel,Automatic,Used,Explorer,28187.0
+327,Tata,2023,1.2,Diesel,Manual,Like New,Nexon,41865.0
+328,Honda,2015,3.0,Diesel,Manual,Used,CR-V,40230.0
+329,Ford,2021,1.2,Diesel,Automatic,Used,EcoSport,38409.0
+330,Honda,2025,1.5,Petrol,Manual,New,Civic,48602.0
+331,Tata,2012,1.5,Diesel,Automatic,New,Nexon,32035.0
+332,Hyundai,2020,1.2,Diesel,Manual,Like New,Creta,35383.0
+333,Hyundai,2024,3.0,Petrol,Automatic,New,Tucson,58779.0
+334,Mercedes,2016,0.0,Electric,Manual,Used,GLA,33424.0
+335,Toyota,2014,1.2,Diesel,Automatic,Used,Corolla,27000.0
+336,Toyota,2009,2.0,Diesel,Automatic,New,Camry,32734.0
+337,Toyota,2011,1.0,Diesel,Manual,Used,Fortuner,20280.0
+338,Audi,2017,2.5,Petrol,Automatic,Like New,A4,48913.0
+339,Mahindra,2013,0.0,Electric,Manual,New,XUV700,27631.0
+340,BMW,2017,1.5,Petrol,Automatic,Used,X1,40107.0
+341,Honda,2012,2.5,Petrol,Manual,Used,Civic,29980.0
+342,Toyota,2012,0.0,Electric,Manual,Used,Camry,17829.0
+343,Audi,2022,1.8,Diesel,Automatic,Used,A3,51078.0
+344,Tata,2008,1.2,Petrol,Manual,New,Nexon,21904.0
+345,Audi,2024,1.0,Petrol,Automatic,Like New,Q5,50181.0
+346,Hyundai,2018,0.0,Electric,Automatic,Like New,Creta,29348.0
+347,Mercedes,2020,1.5,Diesel,Automatic,Like New,GLC,51192.0
+348,Toyota,2024,1.0,Petrol,Automatic,New,Corolla,45121.0
+349,Mercedes,2024,0.0,Electric,Manual,New,GLA,51249.0
+350,Audi,2015,1.5,Petrol,Automatic,Used,Q7,36585.0
+351,BMW,2011,0.0,Electric,Automatic,New,3 Series,34321.0
+352,Hyundai,2008,1.5,Petrol,Manual,Like New,i20,20133.0
+353,Mahindra,2015,1.0,Petrol,Automatic,New,Thar,33543.0
+354,Hyundai,2021,1.8,Petrol,Automatic,Used,Tucson,39781.0
+355,Tesla,2011,0.0,Electric,Automatic,Used,Model X,29616.0
+356,Tata,2012,1.0,Petrol,Automatic,Used,Safari,21412.0
+357,Tata,2013,1.5,Petrol,Automatic,Used,Safari,27292.0
+358,Tata,2015,3.0,Petrol,Manual,Used,Altroz,37814.0
+359,Tata,2010,1.5,Diesel,Automatic,Used,Safari,24385.0
+360,Hyundai,2012,1.5,Petrol,Automatic,New,i20,29870.0
+361,Mercedes,2020,1.0,Diesel,Manual,Used,GLA,42618.0
+362,Honda,2009,1.0,Diesel,Automatic,Used,Amaze,17048.0
+363,Audi,2009,2.5,Petrol,Manual,Used,A3,35965.0
+364,Tata,2013,1.5,Diesel,Manual,Used,Altroz,26559.0
+365,Hyundai,2018,1.8,Petrol,Automatic,Like New,Tucson,37874.0
+366,Maruti,2020,1.5,Diesel,Automatic,Like New,Baleno,38399.0
+367,Tesla,2011,0.0,Electric,Automatic,Like New,Model S,33450.0
+368,Audi,2019,3.0,Diesel,Manual,Used,A4,52565.0
+369,Toyota,2014,0.0,Electric,Manual,Like New,Fortuner,24589.0
+370,Mahindra,2020,1.2,Diesel,Manual,Used,XUV700,35876.0
+371,BMW,2014,2.5,Petrol,Manual,Like New,X5,45123.0
+372,Toyota,2022,0.0,Electric,Automatic,Used,Camry,32947.0
+373,Tata,2023,2.5,Petrol,Manual,New,Harrier,51470.0
+374,Ford,2022,2.5,Petrol,Manual,New,Mustang,51264.0
+375,Maruti,2021,1.5,Petrol,Automatic,Used,Swift,37703.0
+376,Mercedes,2017,1.2,Diesel,Manual,New,E-Class,45337.0
+377,Maruti,2010,2.0,Diesel,Manual,New,Baleno,30766.0
+378,Mahindra,2011,0.0,Electric,Manual,Used,Bolero,18026.0
+379,Toyota,2016,0.0,Electric,Automatic,Used,Camry,25061.0
+380,Mercedes,2012,2.0,Petrol,Manual,Used,GLC,37529.0
+381,Tesla,2013,2.0,Petrol,Manual,New,Model Y,48189.0
+382,Toyota,2023,3.0,Diesel,Automatic,Used,Corolla,51213.0
+383,Mahindra,2016,1.2,Diesel,Manual,Used,Thar,28569.0
+384,Toyota,2014,1.5,Petrol,Manual,Used,Innova,26650.0
+385,Audi,2022,2.5,Petrol,Automatic,Like New,A3,57873.0
+386,Honda,2020,0.0,Electric,Manual,Like New,City,31401.0
+387,Mercedes,2016,1.0,Petrol,Manual,Used,C-Class,36953.0
+388,Mahindra,2013,1.2,Diesel,Automatic,Used,XUV700,26003.0
+389,Mahindra,2009,1.2,Petrol,Automatic,Like New,Thar,22276.0
+390,Hyundai,2025,1.5,Diesel,Automatic,Used,Verna,42540.0
+391,Ford,2018,0.0,Electric,Manual,Used,EcoSport,28011.0
+392,Mahindra,2025,1.0,Petrol,Automatic,Used,XUV700,40642.0
+393,BMW,2015,1.8,Petrol,Manual,New,X3,45527.0
+394,Toyota,2017,1.8,Petrol,Manual,Used,Innova,33357.0
+395,Tesla,2016,0.0,Electric,Automatic,Used,Model Y,38594.0
+396,BMW,2020,2.5,Petrol,Manual,Used,X5,51473.0
+397,Tata,2015,1.2,Petrol,Automatic,Used,Nexon,26449.0
+398,Ford,2025,2.5,Diesel,Automatic,New,Explorer,58020.0
+399,Audi,2011,2.0,Petrol,Automatic,Used,A3,35674.0
+400,Tata,2022,3.0,Petrol,Automatic,New,Nexon,54453.0
+401,Mahindra,2010,0.0,Electric,Automatic,Used,XUV700,17235.0
+402,Mercedes,2020,1.5,Petrol,Manual,Like New,E-Class,47164.0
+403,Honda,2012,0.0,Electric,Manual,Like New,CR-V,20691.0
+404,BMW,2010,1.8,Petrol,Automatic,Used,X1,34371.0
+405,Mahindra,2013,2.5,Petrol,Automatic,Like New,Thar,38274.0
+406,Maruti,2013,1.0,Petrol,Manual,Used,Swift,19968.0
+407,Audi,2020,1.5,Petrol,Manual,Like New,A3,46761.0
+408,Audi,2019,0.0,Electric,Manual,New,Q7,42554.0
+409,Kia,2023,2.0,Petrol,Manual,Used,Carnival,42316.0
+410,Tesla,2021,2.5,Petrol,Manual,Used,Model Y,55816.0
+411,Audi,2023,0.0,Electric,Manual,Used,A4,41802.0
+412,Kia,2011,2.5,Diesel,Automatic,Used,Seltos,30757.0
+413,Tata,2013,1.0,Diesel,Manual,Used,Nexon,23517.0
+414,Toyota,2009,1.0,Petrol,Automatic,New,Innova,23554.0
+415,Kia,2015,1.8,Petrol,Automatic,Like New,Carnival,33999.0
+416,Maruti,2016,1.8,Petrol,Automatic,New,Baleno,38123.0
+417,Mahindra,2025,2.5,Petrol,Manual,Like New,XUV700,52398.0
+418,Toyota,2021,2.0,Diesel,Automatic,Like New,Innova,45908.0
+419,Hyundai,2013,2.5,Diesel,Manual,Like New,Creta,36101.0
+420,Audi,2012,1.5,Petrol,Automatic,Used,Q5,34377.0
+421,Ford,2014,0.0,Electric,Manual,Used,Mustang,22101.0
+422,Mercedes,2014,1.5,Diesel,Automatic,New,E-Class,45308.0
+423,Mahindra,2019,0.0,Electric,Automatic,Used,XUV700,31041.0
+424,Ford,2010,2.5,Petrol,Automatic,Used,Fiesta,29274.0
+425,Audi,2010,2.0,Petrol,Automatic,Used,A3,33029.0
+426,Kia,2015,2.0,Diesel,Manual,Used,Carens,32191.0
+427,BMW,2008,1.8,Petrol,Automatic,Used,X5,30100.0
+428,Tesla,2009,1.5,Diesel,Automatic,New,Model 3,39647.0
+429,Kia,2022,0.0,Electric,Manual,Used,Seltos,32219.0
+430,Audi,2014,1.2,Petrol,Manual,Used,Q5,32653.0
+431,Ford,2025,1.2,Diesel,Automatic,Used,Mustang,42327.0
+432,Ford,2009,0.0,Electric,Automatic,Used,Mustang,15322.0
+433,Mercedes,2016,1.0,Petrol,Automatic,Used,E-Class,38577.0
+434,Kia,2021,0.0,Electric,Automatic,New,Sonet,38003.0
+435,Toyota,2014,2.5,Petrol,Automatic,Used,Innova,35806.0
+436,Hyundai,2010,2.5,Petrol,Manual,Like New,Verna,29410.0
+437,Maruti,2010,1.8,Diesel,Manual,New,Brezza,28126.0
+438,Maruti,2010,1.2,Diesel,Manual,Used,Baleno,19274.0
+439,Toyota,2011,3.0,Petrol,Manual,Used,Camry,34252.0
+440,Ford,2013,1.8,Petrol,Manual,Used,Explorer,27975.0
+441,Honda,2018,1.8,Petrol,Manual,Used,Amaze,35075.0
+442,Toyota,2015,2.0,Diesel,Manual,New,Camry,39672.0
+443,Audi,2011,1.2,Petrol,Automatic,New,A3,34751.0
+444,Mahindra,2015,3.0,Diesel,Automatic,Like New,Bolero,45592.0
+445,BMW,2019,1.8,Petrol,Automatic,Like New,X1,49132.0
+446,Toyota,2024,0.0,Electric,Automatic,New,Innova,43590.0
+447,Toyota,2017,1.5,Petrol,Manual,Like New,Camry,32994.0
+448,Kia,2018,1.0,Petrol,Automatic,Used,Sonet,29965.0
+449,Mahindra,2022,2.5,Petrol,Manual,New,XUV700,51655.0
+450,Honda,2019,1.2,Petrol,Manual,New,City,37764.0
+451,Toyota,2012,1.0,Petrol,Manual,Used,Fortuner,21516.0
+452,Ford,2016,1.5,Petrol,Manual,New,Mustang,35363.0
+453,BMW,2025,2.0,Diesel,Automatic,Used,3 Series,55837.0
+454,BMW,2012,2.0,Diesel,Manual,Used,X1,37553.0
+455,Hyundai,2020,2.5,Petrol,Automatic,Like New,Verna,45250.0
+456,Kia,2008,0.0,Electric,Automatic,Used,Carnival,13516.0
+457,Mahindra,2016,1.5,Diesel,Automatic,Used,Thar,33331.0
+458,Audi,2008,1.5,Diesel,Manual,Used,Q7,27487.0
+459,Tesla,2023,0.0,Electric,Automatic,Used,Model S,46519.0
+460,Tata,2015,3.0,Diesel,Automatic,Used,Harrier,40647.0
+461,Kia,2020,1.2,Diesel,Automatic,Used,Carens,35898.0
+462,Mahindra,2008,1.5,Diesel,Automatic,New,Scorpio,28513.0
+463,Ford,2023,0.0,Electric,Automatic,New,Mustang,42105.0
+464,Toyota,2019,1.2,Petrol,Manual,New,Innova,37073.0
+465,Hyundai,2019,0.0,Electric,Manual,Like New,Creta,29591.0
+466,Mahindra,2021,2.0,Diesel,Automatic,Used,Bolero,44264.0
+467,BMW,2017,1.5,Diesel,Manual,Used,X5,41355.0
+468,Tesla,2021,2.5,Diesel,Automatic,Used,Model X,58839.0
+469,Toyota,2008,3.0,Petrol,Automatic,Used,Camry,29397.0
+470,Mercedes,2010,1.0,Diesel,Manual,Used,GLA,28351.0
+471,Ford,2009,1.5,Petrol,Automatic,Like New,Fiesta,24920.0
+472,Tesla,2012,2.0,Diesel,Manual,Used,Model S,39484.0
+473,Mahindra,2020,1.5,Petrol,Automatic,New,Scorpio,42568.0
+474,Audi,2012,1.8,Diesel,Manual,Used,Q5,35477.0
+475,Tesla,2013,2.5,Petrol,Automatic,Used,Model S,46384.0
+476,Audi,2025,0.0,Electric,Manual,Like New,Q5,47761.0
+477,Hyundai,2017,1.8,Petrol,Manual,Used,Creta,33286.0
+478,Tata,2012,1.8,Diesel,Manual,Used,Nexon,26135.0
+479,Kia,2020,2.0,Diesel,Manual,Like New,Carnival,42156.0
+480,Tata,2017,1.2,Petrol,Automatic,Used,Safari,29024.0
+481,Mercedes,2013,3.0,Petrol,Automatic,Used,E-Class,47275.0
+482,Mercedes,2017,1.5,Petrol,Automatic,New,GLA,47563.0
+483,Maruti,2025,1.8,Petrol,Automatic,Like New,Dzire,46361.0
+484,Tata,2016,1.2,Diesel,Automatic,New,Safari,36131.0
+485,Mahindra,2016,1.0,Petrol,Automatic,Used,XUV700,27427.0
+486,Tesla,2012,1.0,Petrol,Manual,Used,Model S,31669.0
+487,Toyota,2008,1.5,Diesel,Automatic,New,Corolla,27420.0
+488,BMW,2011,1.5,Petrol,Manual,Used,3 Series,30511.0
+489,Maruti,2020,0.0,Electric,Manual,New,Baleno,33488.0
+490,Toyota,2009,2.5,Petrol,Manual,Used,Innova,26297.0
+491,Maruti,2023,1.5,Diesel,Automatic,Like New,Baleno,43823.0
+492,Mercedes,2018,1.8,Petrol,Automatic,New,GLA,51877.0
+493,BMW,2011,1.0,Diesel,Manual,Used,X3,28586.0
+494,Kia,2015,2.0,Diesel,Automatic,Used,Carens,34405.0
+495,Ford,2018,1.5,Petrol,Automatic,Like New,EcoSport,36491.0
+496,Kia,2017,1.2,Petrol,Automatic,Like New,Carens,32551.0
+497,Kia,2014,1.5,Petrol,Manual,Used,Seltos,26013.0
+498,BMW,2014,2.0,Petrol,Manual,Like New,X3,42641.0
+499,Hyundai,2020,1.8,Petrol,Automatic,New,Creta,44236.0
+500,Hyundai,2014,3.0,Diesel,Manual,Used,Verna,38345.0
+501,Mahindra,2020,1.2,Petrol,Manual,New,Scorpio,39355.0
+502,Ford,2009,1.8,Diesel,Manual,Like New,EcoSport,25329.0
+503,Kia,2011,1.0,Petrol,Manual,Used,Carens,19393.0
+504,Audi,2024,2.0,Petrol,Manual,Like New,Q7,53810.0
+505,Ford,2012,0.0,Electric,Automatic,Used,Mustang,20099.0
+506,Honda,2013,0.0,Electric,Automatic,Used,Civic,20507.0
+507,Maruti,2013,2.0,Diesel,Manual,New,Baleno,34364.0
+508,Honda,2016,1.0,Diesel,Manual,Used,CR-V,26787.0
+509,Mercedes,2020,2.5,Petrol,Manual,Used,GLA,52312.0
+510,Hyundai,2010,1.2,Diesel,Automatic,Like New,i20,24126.0
+511,Tata,2009,0.0,Electric,Manual,Used,Nexon,14748.0
+512,Hyundai,2016,2.0,Diesel,Automatic,Used,i20,34548.0
+513,BMW,2011,0.0,Electric,Automatic,New,X3,32781.0
+514,Maruti,2014,0.0,Electric,Automatic,New,Brezza,27792.0
+515,Hyundai,2018,1.0,Diesel,Automatic,Like New,Tucson,32020.0
+516,Audi,2013,1.5,Petrol,Automatic,Used,A4,35006.0
+517,Audi,2025,3.0,Petrol,Manual,Like New,Q7,62883.0
+518,Honda,2023,1.5,Petrol,Automatic,Used,Civic,39598.0
+519,Hyundai,2013,0.0,Electric,Manual,Like New,Verna,21468.0
+520,Kia,2021,3.0,Diesel,Manual,Used,Carnival,47140.0
+521,Tesla,2009,2.0,Petrol,Automatic,New,Model 3,43671.0
+522,BMW,2021,3.0,Petrol,Manual,New,X1,63346.0
+523,Toyota,2014,2.0,Diesel,Automatic,Like New,Corolla,35794.0
+524,Mercedes,2018,1.0,Petrol,Manual,Like New,C-Class,41993.0
+525,Mahindra,2021,0.0,Electric,Automatic,New,Scorpio,38940.0
+526,Maruti,2018,1.2,Diesel,Automatic,New,Baleno,36358.0
+527,Ford,2017,1.5,Petrol,Automatic,Like New,Explorer,35428.0
+528,Tata,2020,2.0,Petrol,Automatic,Used,Nexon,40741.0
+529,Kia,2019,2.0,Diesel,Automatic,Used,Sonet,37819.0
+530,Honda,2023,1.8,Petrol,Automatic,New,CR-V,47723.0
+531,Ford,2014,2.5,Petrol,Manual,Used,Explorer,33658.0
+532,Maruti,2025,0.0,Electric,Manual,Used,Swift,35361.0
+533,Ford,2010,1.2,Diesel,Automatic,Used,Fiesta,20949.0
+534,Ford,2014,2.0,Petrol,Manual,New,Explorer,36039.0
+535,Tesla,2014,1.2,Petrol,Automatic,Like New,Model X,39655.0
+536,Mercedes,2011,3.0,Diesel,Automatic,Used,GLC,44694.0
+537,BMW,2022,1.5,Diesel,Automatic,Like New,X3,51131.0
+538,Mahindra,2020,1.2,Diesel,Automatic,Used,Scorpio,36504.0
+539,Audi,2013,1.5,Petrol,Manual,New,A4,38536.0
+540,Mercedes,2023,1.2,Petrol,Manual,Like New,GLA,49679.0
+541,Mahindra,2016,1.2,Diesel,Automatic,New,Thar,36845.0
+542,BMW,2011,1.8,Diesel,Manual,Like New,X5,38247.0
+543,Audi,2023,1.0,Petrol,Manual,Like New,A3,46722.0
+544,Tesla,2023,2.5,Petrol,Automatic,New,Model Y,65111.0
+545,Tata,2010,1.0,Diesel,Manual,Used,Altroz,18121.0
+546,Hyundai,2015,1.0,Petrol,Manual,Used,Verna,24029.0
+547,Hyundai,2020,3.0,Petrol,Automatic,Like New,Tucson,48715.0
+548,Toyota,2019,2.5,Petrol,Automatic,Like New,Camry,45623.0
+549,Mahindra,2019,2.0,Petrol,Manual,Like New,Scorpio,41680.0
+550,Maruti,2015,1.5,Diesel,Manual,New,Dzire,34011.0
+551,Honda,2013,1.0,Diesel,Automatic,Used,Civic,23888.0
+552,Honda,2019,1.5,Diesel,Automatic,Used,Civic,36479.0
+553,BMW,2025,0.0,Electric,Automatic,Like New,X5,48415.0
+554,Maruti,2009,1.5,Petrol,Manual,Used,Brezza,19517.0
+555,Maruti,2015,2.0,Diesel,Manual,Used,Brezza,31311.0
+556,Tata,2017,2.0,Petrol,Manual,Used,Safari,35005.0
+557,Audi,2022,2.0,Petrol,Manual,New,Q7,56698.0
+558,Ford,2010,2.5,Diesel,Automatic,Used,Explorer,30018.0
+559,Honda,2015,3.0,Diesel,Manual,Like New,Civic,42850.0
+560,BMW,2018,1.8,Petrol,Automatic,New,3 Series,49642.0
+561,Honda,2010,1.2,Diesel,Manual,New,Civic,26094.0
+562,Kia,2012,1.8,Petrol,Manual,Used,Carens,26231.0
+563,Tesla,2022,0.0,Electric,Automatic,New,Model Y,52854.0
+564,Toyota,2012,1.2,Petrol,Automatic,Used,Corolla,22437.0
+565,Toyota,2009,2.5,Diesel,Manual,Like New,Camry,30933.0
+566,Honda,2012,3.0,Petrol,Manual,Like New,Civic,36294.0
+567,Toyota,2018,1.0,Petrol,Manual,Like New,Corolla,32580.0
+568,Audi,2016,1.0,Diesel,Manual,Used,A4,34006.0
+569,Hyundai,2023,1.2,Diesel,Automatic,Used,Creta,39433.0
+570,Honda,2025,2.5,Diesel,Manual,Used,Amaze,49174.0
+571,Hyundai,2010,1.2,Petrol,Automatic,Used,Creta,20736.0
+572,Ford,2022,0.0,Electric,Automatic,Used,EcoSport,34785.0
+573,Honda,2020,2.0,Diesel,Manual,Like New,Amaze,42694.0
+574,Tata,2010,1.0,Petrol,Automatic,Used,Nexon,19495.0
+575,Maruti,2013,2.0,Petrol,Manual,New,Swift,33493.0
+576,Audi,2024,1.0,Petrol,Automatic,Like New,A4,48599.0
+577,Audi,2018,1.0,Petrol,Manual,Used,Q7,37057.0
+578,Honda,2012,2.5,Diesel,Manual,Used,Amaze,31618.0
+579,Hyundai,2012,3.0,Petrol,Manual,New,Creta,40647.0
+580,Mahindra,2024,3.0,Diesel,Automatic,New,Bolero,61399.0
+581,Mercedes,2009,2.5,Petrol,Automatic,Like New,C-Class,41240.0
+582,Tesla,2025,2.0,Diesel,Manual,Used,Model X,57851.0
+583,Mercedes,2024,2.0,Diesel,Manual,New,GLA,60319.0
+584,BMW,2018,2.5,Petrol,Automatic,New,X3,55411.0
+585,Honda,2013,1.8,Diesel,Automatic,New,Civic,34757.0
+586,Toyota,2025,3.0,Petrol,Automatic,Used,Innova,55029.0
+587,Maruti,2016,0.0,Electric,Automatic,New,Dzire,30918.0
+588,Kia,2020,1.2,Diesel,Automatic,New,Sonet,40047.0
+589,Audi,2017,1.5,Diesel,Manual,Like New,A3,43449.0
+590,Honda,2015,1.5,Petrol,Automatic,Used,CR-V,28211.0
+591,Tata,2012,2.0,Diesel,Manual,Like New,Nexon,30934.0
+592,Ford,2014,1.0,Petrol,Manual,New,Mustang,30698.0
+593,Ford,2017,2.0,Petrol,Automatic,Used,Explorer,36036.0
+594,Tata,2016,1.2,Diesel,Manual,Used,Altroz,27787.0
+595,Honda,2012,2.0,Petrol,Automatic,Used,City,28616.0
+596,Ford,2024,1.5,Petrol,Manual,New,Explorer,48043.0
+597,Ford,2008,1.0,Petrol,Manual,Like New,EcoSport,18709.0
+598,Mahindra,2017,3.0,Petrol,Manual,New,XUV700,47686.0
+599,Kia,2017,1.5,Petrol,Manual,Used,Carnival,30953.0
+600,Mercedes,2017,2.5,Diesel,Automatic,Like New,GLA,53497.0
+601,Honda,2013,1.8,Petrol,Manual,Used,CR-V,28134.0
+602,Ford,2017,0.0,Electric,Manual,Like New,Fiesta,29120.0
+603,Mahindra,2011,2.5,Diesel,Manual,Used,Thar,30534.0
+604,Tata,2013,1.2,Diesel,Manual,Used,Altroz,25203.0
+605,BMW,2020,3.0,Diesel,Manual,Used,X5,55239.0
+606,Honda,2017,2.5,Diesel,Automatic,New,City,45791.0
+607,Maruti,2021,3.0,Petrol,Manual,New,Dzire,51628.0
+608,Audi,2011,3.0,Diesel,Manual,Used,A3,42575.0
+609,Mahindra,2012,1.0,Petrol,Automatic,Like New,Bolero,24141.0
+610,Toyota,2017,1.0,Diesel,Automatic,Used,Fortuner,29296.0
+611,Toyota,2024,2.0,Diesel,Manual,New,Corolla,50562.0
+612,Maruti,2021,0.0,Electric,Automatic,Used,Baleno,31305.0
+613,Ford,2014,1.5,Petrol,Automatic,Used,EcoSport,28065.0
+614,Hyundai,2013,2.0,Diesel,Automatic,Like New,i20,31986.0
+615,BMW,2014,1.5,Diesel,Automatic,Used,X5,37121.0
+616,Ford,2017,2.0,Petrol,Manual,Used,Explorer,36056.0
+617,Kia,2023,0.0,Electric,Automatic,New,Carens,39584.0
+618,Kia,2009,1.8,Diesel,Manual,Like New,Seltos,23734.0
+619,Maruti,2009,2.5,Petrol,Manual,Like New,Baleno,27512.0
+620,Mahindra,2015,2.5,Petrol,Manual,Used,Scorpio,35114.0
+621,Tesla,2008,1.8,Petrol,Automatic,Used,Model 3,33756.0
+622,Hyundai,2018,3.0,Petrol,Automatic,New,Creta,50060.0
+623,BMW,2018,2.5,Petrol,Manual,Used,3 Series,48981.0
+624,Mahindra,2013,0.0,Electric,Manual,Like New,Thar,23068.0
+625,Mercedes,2022,3.0,Petrol,Automatic,Like New,GLC,62252.0
+626,BMW,2019,3.0,Petrol,Manual,Used,X3,52542.0
+627,Mahindra,2023,1.5,Diesel,Automatic,Used,Thar,41866.0
+628,Tesla,2018,2.0,Petrol,Automatic,Used,Model X,48282.0
+629,Tesla,2013,0.0,Electric,Manual,Used,Model S,30844.0
+630,Toyota,2021,1.8,Petrol,Manual,Like New,Corolla,41406.0
+631,Hyundai,2024,0.0,Electric,Automatic,Used,i20,35341.0
+632,BMW,2022,1.5,Diesel,Manual,Used,X3,48851.0
+633,Maruti,2011,1.5,Diesel,Manual,New,Brezza,29555.0
+634,Audi,2025,2.5,Petrol,Automatic,New,Q5,65616.0
+635,Honda,2011,1.8,Petrol,Automatic,Used,CR-V,25596.0
+636,Tesla,2018,1.5,Petrol,Manual,Used,Model X,43893.0
+637,Tesla,2011,0.0,Electric,Automatic,New,Model S,36278.0
+638,BMW,2019,2.0,Petrol,Manual,Like New,X5,49038.0
+639,Toyota,2008,1.8,Petrol,Automatic,New,Corolla,28480.0
+640,Mercedes,2021,1.0,Petrol,Manual,New,GLA,48508.0
+641,Toyota,2021,1.8,Petrol,Manual,Used,Fortuner,38225.0
+642,Audi,2014,1.0,Diesel,Manual,Like New,Q7,35843.0
+643,Honda,2011,1.0,Petrol,Manual,New,Amaze,25271.0
+644,Kia,2018,3.0,Petrol,Manual,Used,Carens,43365.0
+645,Kia,2015,2.0,Petrol,Automatic,Used,Sonet,31340.0
+646,Mahindra,2022,1.5,Diesel,Automatic,Used,Scorpio,42461.0
+647,Ford,2012,1.0,Diesel,Automatic,Like New,Mustang,26596.0
+648,Maruti,2025,1.0,Petrol,Automatic,New,Brezza,45923.0
+649,Kia,2012,2.5,Diesel,Manual,New,Carens,37348.0
+650,Hyundai,2025,2.0,Petrol,Automatic,Used,Verna,45220.0
+651,Honda,2009,1.2,Diesel,Manual,Used,CR-V,19004.0
+652,Mercedes,2011,3.0,Petrol,Automatic,Used,GLC,43508.0
+653,Tata,2009,1.0,Diesel,Manual,New,Harrier,22051.0
+654,Hyundai,2017,1.2,Petrol,Automatic,Used,Creta,29616.0
+655,Audi,2025,1.0,Diesel,Manual,Used,Q7,47275.0
+656,Tesla,2022,1.2,Petrol,Automatic,Used,Model X,48722.0
+657,BMW,2012,2.0,Diesel,Automatic,Used,X1,38430.0
+658,Honda,2018,1.5,Petrol,Manual,Used,Civic,31428.0
+659,Honda,2023,1.8,Diesel,Manual,Like New,CR-V,43775.0
+660,Tesla,2009,1.2,Petrol,Manual,Used,Model S,30560.0
+661,Hyundai,2008,2.5,Petrol,Manual,Used,Tucson,23623.0
+662,Maruti,2023,0.0,Electric,Manual,New,Dzire,39944.0
+663,Kia,2017,1.5,Diesel,Manual,New,Carnival,38334.0
+664,Toyota,2021,2.5,Diesel,Manual,New,Innova,51763.0
+665,Maruti,2011,3.0,Diesel,Automatic,Used,Swift,35004.0
+666,BMW,2021,1.5,Petrol,Manual,New,X5,52900.0
+667,Hyundai,2012,3.0,Diesel,Automatic,Used,i20,36518.0
+668,Kia,2014,2.0,Petrol,Manual,New,Sonet,35763.0
+669,Kia,2011,2.5,Petrol,Manual,New,Sonet,34170.0
+670,Tata,2010,1.5,Diesel,Automatic,Like New,Altroz,25961.0
+671,Maruti,2008,2.0,Petrol,Automatic,New,Swift,27741.0
+672,Tata,2023,1.5,Petrol,Automatic,New,Altroz,46265.0
+673,Mahindra,2014,3.0,Petrol,Manual,New,Bolero,43717.0
+674,Kia,2021,1.2,Petrol,Automatic,Like New,Carnival,36407.0
+675,Hyundai,2022,2.5,Petrol,Manual,Used,Verna,45391.0
+676,Honda,2008,1.2,Petrol,Automatic,Like New,City,19767.0
+677,Toyota,2014,1.5,Diesel,Automatic,Used,Innova,28004.0
+678,Toyota,2023,1.8,Petrol,Manual,Used,Fortuner,41028.0
+679,Kia,2021,0.0,Electric,Manual,New,Seltos,37658.0
+680,Honda,2018,3.0,Diesel,Manual,Used,Civic,43756.0
+681,Honda,2012,1.5,Petrol,Manual,Like New,Civic,26151.0
+682,Toyota,2009,1.0,Petrol,Manual,New,Corolla,21716.0
+683,Mercedes,2008,0.0,Electric,Automatic,Used,C-Class,24304.0
+684,Kia,2014,0.0,Electric,Manual,New,Seltos,27723.0
+685,Tata,2013,0.0,Electric,Automatic,New,Altroz,27921.0
+686,Audi,2014,0.0,Electric,Automatic,Used,Q7,31083.0
+687,BMW,2017,3.0,Petrol,Manual,Used,X3,51134.0
+688,Mahindra,2024,2.0,Petrol,Manual,Used,Thar,44352.0
+689,Ford,2008,1.0,Diesel,Manual,Used,Explorer,15908.0
+690,Tata,2017,1.5,Petrol,Manual,Used,Harrier,32027.0
+691,Kia,2019,1.0,Petrol,Manual,Like New,Carnival,32661.0
+692,Mercedes,2020,3.0,Petrol,Automatic,Used,GLA,57749.0
+693,BMW,2017,1.8,Petrol,Manual,Used,X5,43328.0
+694,Audi,2010,1.8,Petrol,Automatic,Like New,Q5,35391.0
+695,Mahindra,2018,3.0,Petrol,Automatic,Used,Bolero,46235.0
+696,Tata,2008,2.5,Diesel,Manual,Like New,Nexon,29878.0
+697,Audi,2021,3.0,Diesel,Manual,Like New,Q5,57659.0
+698,Mercedes,2023,2.5,Petrol,Automatic,Used,C-Class,58631.0
+699,Tata,2022,3.0,Diesel,Automatic,New,Nexon,55728.0
+700,Tesla,2015,1.5,Petrol,Manual,Used,Model S,40448.0
+701,Kia,2025,2.0,Petrol,Automatic,Used,Sonet,45273.0
+702,Ford,2011,1.2,Diesel,Manual,Used,Mustang,22741.0
+703,Honda,2018,2.5,Petrol,Manual,Used,City,38690.0
+704,Mahindra,2013,3.0,Petrol,Manual,Used,Thar,36360.0
+705,Ford,2016,3.0,Petrol,Manual,Used,Fiesta,41784.0
+706,Mahindra,2020,0.0,Electric,Manual,Used,XUV700,31040.0
+707,BMW,2019,1.5,Petrol,Automatic,New,X3,49663.0
+708,Mahindra,2013,2.5,Diesel,Manual,Used,Bolero,34678.0
+709,Honda,2011,1.5,Diesel,Manual,New,City,28666.0
+710,Maruti,2011,2.5,Diesel,Manual,Used,Swift,29464.0
+711,Toyota,2012,1.2,Petrol,Automatic,Used,Fortuner,23451.0
+712,Mercedes,2010,1.8,Petrol,Manual,Like New,C-Class,35615.0
+713,Mercedes,2015,0.0,Electric,Manual,New,GLA,39248.0
+714,Mercedes,2022,0.0,Electric,Automatic,Used,C-Class,43157.0
+715,Audi,2013,1.0,Petrol,Manual,Used,Q5,29757.0
+716,Ford,2024,3.0,Diesel,Manual,Used,Fiesta,53511.0
+717,Mahindra,2011,2.5,Petrol,Automatic,Like New,Bolero,34456.0
+718,Ford,2022,0.0,Electric,Automatic,New,Explorer,39296.0
+719,Tata,2015,1.0,Diesel,Manual,New,Safari,32590.0
+720,Mercedes,2015,1.8,Diesel,Automatic,Used,C-Class,42209.0
+721,Mercedes,2025,1.5,Diesel,Manual,Like New,GLC,56486.0
+722,Ford,2024,3.0,Diesel,Automatic,Used,Mustang,54826.0
+723,Audi,2024,0.0,Electric,Automatic,New,Q7,51281.0
+724,Maruti,2019,1.2,Petrol,Manual,New,Swift,35409.0
+725,Mercedes,2017,0.0,Electric,Automatic,Used,C-Class,36420.0
+726,Ford,2018,3.0,Diesel,Automatic,New,EcoSport,52597.0
+727,Ford,2012,1.5,Diesel,Manual,Used,Mustang,25427.0
+728,Tesla,2024,0.0,Electric,Automatic,Like New,Model Y,51436.0
+729,Honda,2011,1.2,Petrol,Automatic,New,City,26889.0
+730,BMW,2014,0.0,Electric,Manual,New,X1,37250.0
+731,BMW,2014,2.0,Diesel,Automatic,Used,X3,42760.0
+732,Maruti,2011,1.2,Diesel,Automatic,Used,Swift,21197.0
+733,Honda,2009,0.0,Electric,Automatic,New,City,20782.0
+734,Mercedes,2021,1.0,Diesel,Manual,Used,GLA,43585.0
+735,Maruti,2011,0.0,Electric,Automatic,Used,Dzire,17261.0
+736,Mercedes,2008,1.5,Diesel,Automatic,New,GLC,37896.0
+737,Maruti,2009,2.0,Diesel,Manual,Used,Dzire,23173.0
+738,Tesla,2025,1.5,Petrol,Automatic,Used,Model 3,56624.0
+739,BMW,2009,0.0,Electric,Automatic,Used,3 Series,25218.0
+740,Audi,2020,2.0,Petrol,Manual,Used,Q5,47010.0
+741,Honda,2013,0.0,Electric,Automatic,Used,CR-V,20667.0
+742,Hyundai,2014,1.2,Diesel,Manual,Used,Tucson,24051.0
+743,BMW,2012,2.5,Petrol,Automatic,Used,X5,42070.0
+744,Honda,2020,1.5,Diesel,Automatic,Like New,Amaze,39462.0
+745,BMW,2021,1.2,Petrol,Manual,Like New,X5,46767.0
+746,Tesla,2011,1.5,Petrol,Automatic,Used,Model S,36727.0
+747,Maruti,2011,1.0,Petrol,Manual,Used,Dzire,18670.0
+748,Kia,2021,3.0,Petrol,Automatic,Like New,Sonet,50984.0
+749,Tata,2012,1.8,Petrol,Automatic,Like New,Safari,28665.0
+750,Tata,2009,1.8,Diesel,Automatic,New,Safari,29877.0
+751,Hyundai,2018,1.5,Petrol,Automatic,Like New,i20,34646.0
+752,Audi,2011,3.0,Petrol,Manual,New,A4,47374.0
+753,Mahindra,2021,1.8,Petrol,Automatic,Like New,XUV700,43481.0
+754,Tesla,2010,1.2,Petrol,Automatic,Like New,Model Y,35814.0
+755,Tesla,2015,2.5,Petrol,Manual,New,Model S,53777.0
+756,Audi,2019,1.5,Petrol,Automatic,Used,A4,43726.0
+757,Audi,2008,1.0,Diesel,Manual,New,Q7,30672.0
+758,Tesla,2014,3.0,Petrol,Automatic,Used,Model 3,50582.0
+759,Audi,2014,1.2,Diesel,Automatic,Used,Q5,34569.0
+760,Honda,2010,1.2,Diesel,Automatic,Used,Amaze,21943.0
+761,Tesla,2025,2.5,Petrol,Manual,Like New,Model 3,63746.0
+762,Maruti,2013,1.0,Diesel,Automatic,Used,Swift,23775.0
+763,Audi,2014,1.2,Petrol,Manual,Like New,Q7,34344.0
+764,Hyundai,2021,1.2,Petrol,Manual,Used,Verna,32683.0
+765,Mahindra,2017,1.8,Petrol,Manual,Like New,XUV700,36892.0
+766,BMW,2025,2.5,Petrol,Manual,Used,3 Series,58998.0
+767,Kia,2013,0.0,Electric,Manual,Used,Sonet,19917.0
+768,Kia,2025,0.0,Electric,Manual,Like New,Carnival,38982.0
+769,Toyota,2012,1.0,Petrol,Automatic,Used,Camry,21742.0
+770,Audi,2021,1.0,Diesel,Manual,Used,Q5,43331.0
+771,Ford,2025,1.8,Diesel,Manual,Used,Mustang,46007.0
+772,Kia,2015,3.0,Petrol,Automatic,New,Carens,45515.0
+773,Hyundai,2010,2.5,Petrol,Automatic,Used,Verna,29568.0
+774,Tata,2011,1.5,Petrol,Manual,Used,Harrier,23583.0
+775,Mahindra,2012,3.0,Petrol,Manual,Used,Scorpio,34749.0
+776,Mercedes,2011,1.5,Diesel,Automatic,Used,E-Class,35233.0
+777,Mahindra,2022,2.0,Petrol,Automatic,New,XUV700,50665.0
+778,Tesla,2020,0.0,Electric,Manual,Used,Model 3,41425.0
+779,Tesla,2025,1.5,Diesel,Automatic,New,Model X,61572.0
+780,Audi,2012,2.0,Petrol,Manual,Used,A4,34990.0
+781,Toyota,2010,1.8,Petrol,Manual,New,Camry,29984.0
+782,Toyota,2012,1.0,Petrol,Manual,Like New,Innova,24150.0
+783,Toyota,2016,1.0,Diesel,Manual,Used,Camry,26083.0
+784,Audi,2015,1.2,Diesel,Automatic,Used,A4,36795.0
+785,Honda,2018,1.8,Diesel,Automatic,Used,CR-V,35720.0
+786,Kia,2013,1.2,Petrol,Manual,Like New,Carnival,24147.0
+787,Tesla,2019,1.2,Petrol,Manual,Like New,Model S,46688.0
+788,Tesla,2022,3.0,Petrol,Automatic,Used,Model 3,61771.0
+789,Tata,2012,2.5,Diesel,Automatic,Used,Altroz,32976.0
+790,Mercedes,2022,2.0,Petrol,Automatic,Used,GLA,52817.0
+791,Mahindra,2020,2.0,Diesel,Manual,Like New,XUV700,42661.0
+792,Hyundai,2021,1.0,Petrol,Manual,Used,Creta,31334.0
+793,Mahindra,2020,3.0,Petrol,Manual,Like New,XUV700,49011.0
+794,Kia,2022,1.0,Petrol,Automatic,Like New,Seltos,37369.0
+795,Ford,2012,1.5,Petrol,Automatic,Like New,Fiesta,28915.0
+796,Maruti,2021,3.0,Petrol,Automatic,Used,Baleno,46579.0
+797,Tata,2020,2.5,Petrol,Manual,Used,Nexon,42802.0
+798,Ford,2019,1.8,Petrol,Manual,Used,Fiesta,37639.0
+799,Ford,2010,2.0,Diesel,Manual,Like New,Mustang,29414.0
+800,BMW,2014,1.2,Diesel,Automatic,New,X5,41699.0
+801,Toyota,2015,1.5,Diesel,Manual,Like New,Corolla,32498.0
+802,BMW,2009,2.5,Petrol,Automatic,Used,X3,37536.0
+803,Honda,2011,2.0,Petrol,Automatic,New,Amaze,32318.0
+804,BMW,2024,0.0,Electric,Automatic,Used,X1,44413.0
+805,Tesla,2008,1.5,Petrol,Automatic,New,Model 3,37319.0
+806,BMW,2017,1.0,Petrol,Automatic,New,3 Series,43407.0
+807,Tata,2011,2.0,Petrol,Manual,Used,Harrier,25449.0
+808,Mercedes,2008,3.0,Diesel,Manual,Used,C-Class,39228.0
+809,Toyota,2016,3.0,Petrol,Automatic,Used,Camry,40861.0
+810,Ford,2009,0.0,Electric,Manual,Like New,Explorer,16220.0
+811,BMW,2020,3.0,Petrol,Manual,Used,X5,54520.0
+812,Tesla,2014,1.8,Diesel,Automatic,New,Model S,48578.0
+813,Audi,2020,1.2,Diesel,Automatic,New,Q5,49349.0
+814,Toyota,2020,1.5,Petrol,Automatic,New,Fortuner,42914.0
+815,Tata,2011,3.0,Petrol,Automatic,Like New,Safari,37082.0
+816,Hyundai,2019,2.0,Diesel,Automatic,Like New,Tucson,42280.0
+817,Kia,2013,1.8,Petrol,Automatic,Used,Carnival,26977.0
+818,Hyundai,2018,1.2,Diesel,Automatic,New,i20,37744.0
+819,Tata,2019,1.5,Petrol,Manual,New,Altroz,38814.0
+820,Audi,2018,1.5,Diesel,Manual,Used,Q7,42437.0
+821,BMW,2025,1.0,Petrol,Automatic,Used,X3,48880.0
+822,Audi,2015,1.2,Diesel,Manual,New,Q7,40422.0
+823,Hyundai,2011,1.2,Diesel,Manual,Like New,i20,24169.0
+824,Kia,2008,3.0,Diesel,Manual,Used,Sonet,29233.0
+825,Maruti,2011,1.2,Diesel,Automatic,New,Swift,28626.0
+826,BMW,2020,1.2,Diesel,Automatic,Like New,3 Series,46627.0
+827,Mercedes,2025,1.5,Diesel,Automatic,Used,GLC,54909.0
+828,Mercedes,2008,3.0,Petrol,Automatic,Used,C-Class,40531.0
+829,Tesla,2009,1.0,Petrol,Automatic,Used,Model 3,30736.0
+830,Toyota,2010,1.5,Diesel,Automatic,New,Corolla,30636.0
+831,BMW,2017,1.2,Petrol,Manual,Used,3 Series,36814.0
+832,Hyundai,2022,2.5,Petrol,Automatic,Like New,i20,47895.0
+833,Tesla,2016,1.0,Petrol,Automatic,Like New,Model 3,40751.0
+834,Toyota,2013,1.5,Diesel,Manual,Used,Fortuner,25483.0
+835,Audi,2009,1.0,Petrol,Manual,Used,Q7,23407.0
+836,Mahindra,2013,1.5,Petrol,Manual,Used,Bolero,25915.0
+837,Toyota,2008,1.0,Petrol,Manual,New,Innova,22190.0
+838,Mercedes,2025,0.0,Electric,Manual,Used,E-Class,47085.0
+839,Kia,2023,1.2,Petrol,Automatic,Used,Carens,38085.0
+840,Tesla,2008,1.0,Petrol,Automatic,New,Model 3,35002.0
+841,Mercedes,2012,3.0,Diesel,Manual,New,C-Class,52416.0
+842,Ford,2015,3.0,Petrol,Automatic,Used,EcoSport,40433.0
+843,Tesla,2021,1.8,Petrol,Manual,Used,Model S,51823.0
+844,Mahindra,2023,3.0,Petrol,Manual,Like New,Thar,53777.0
+845,Audi,2025,3.0,Petrol,Manual,Used,Q7,61525.0
+846,Toyota,2017,1.8,Petrol,Automatic,New,Innova,39835.0
+847,Honda,2018,1.2,Petrol,Automatic,Like New,CR-V,33977.0
+848,Kia,2010,1.2,Petrol,Automatic,Like New,Carens,21720.0
+849,Maruti,2018,2.0,Diesel,Manual,Used,Dzire,36343.0
+850,Tata,2013,0.0,Electric,Manual,Like New,Harrier,22165.0
+851,Mercedes,2015,1.8,Petrol,Automatic,Used,GLC,40831.0
+852,Tata,2023,2.5,Petrol,Manual,Like New,Nexon,49052.0
+853,Tata,2011,3.0,Petrol,Manual,Used,Safari,32574.0
+854,Tata,2017,2.5,Diesel,Manual,New,Harrier,45208.0
+855,Mahindra,2021,1.0,Petrol,Manual,New,XUV700,40627.0
+856,Tata,2018,2.0,Diesel,Automatic,Used,Altroz,36949.0
+857,Tata,2013,1.2,Diesel,Manual,New,Harrier,30272.0
+858,Kia,2014,1.2,Petrol,Automatic,Like New,Sonet,28782.0
+859,Audi,2021,0.0,Electric,Automatic,Used,Q5,41164.0
+860,Maruti,2015,1.5,Petrol,Manual,Like New,Swift,28963.0
+861,Audi,2025,1.2,Diesel,Manual,Used,A3,49956.0
+862,Honda,2019,1.0,Petrol,Manual,New,City,35949.0
+863,Mahindra,2008,2.5,Diesel,Manual,New,Scorpio,33595.0
+864,Toyota,2024,0.0,Electric,Manual,New,Camry,40295.0
+865,Maruti,2011,1.2,Diesel,Automatic,Used,Brezza,22735.0
+866,Honda,2019,3.0,Petrol,Automatic,Used,Civic,46138.0
+867,Tata,2018,1.5,Petrol,Automatic,Used,Harrier,33427.0
+868,BMW,2019,1.8,Diesel,Automatic,Used,X5,46710.0
+869,Ford,2022,0.0,Electric,Automatic,New,EcoSport,39571.0
+870,Maruti,2023,0.0,Electric,Automatic,Used,Swift,34267.0
+871,Mahindra,2025,2.0,Petrol,Automatic,Like New,XUV700,50169.0
+872,Maruti,2020,0.0,Electric,Manual,Like New,Baleno,30425.0
+873,Honda,2023,1.8,Diesel,Automatic,Used,CR-V,43015.0
+874,Honda,2019,1.2,Petrol,Automatic,Used,Civic,31798.0
+875,Tesla,2009,1.8,Diesel,Manual,New,Model S,41150.0
+876,Kia,2020,1.8,Petrol,Manual,New,Sonet,42480.0
+877,Honda,2012,1.2,Diesel,Automatic,Used,Amaze,23928.0
+878,Audi,2010,0.0,Electric,Automatic,Used,A4,24263.0
+879,Tesla,2024,1.0,Diesel,Automatic,Like New,Model X,53448.0
+880,Ford,2017,1.8,Diesel,Manual,Like New,EcoSport,38370.0
+881,Audi,2010,2.0,Diesel,Automatic,Used,A4,34830.0
+882,Tata,2012,1.5,Petrol,Manual,Used,Nexon,24840.0
+883,Hyundai,2009,1.5,Petrol,Manual,Used,i20,18231.0
+884,Mercedes,2022,3.0,Diesel,Automatic,New,C-Class,65632.0
+885,Tesla,2008,2.5,Petrol,Manual,Used,Model Y,38023.0
+886,Hyundai,2021,3.0,Petrol,Manual,Used,i20,46496.0
+887,Mercedes,2012,1.2,Petrol,Manual,Used,GLA,30938.0
+888,Tata,2017,1.2,Diesel,Manual,New,Altroz,36357.0
+889,BMW,2012,2.0,Petrol,Automatic,Like New,X3,39670.0
+890,Tesla,2015,2.0,Diesel,Automatic,New,Model 3,51926.0
+891,Toyota,2021,2.5,Petrol,Manual,Used,Fortuner,43777.0
+892,Honda,2020,1.5,Petrol,Automatic,Used,CR-V,34967.0
+893,Tesla,2022,1.8,Diesel,Manual,Like New,Model X,55671.0
+894,BMW,2012,1.5,Petrol,Manual,New,X3,39613.0
+895,Hyundai,2021,3.0,Diesel,Manual,Like New,i20,49918.0
+896,Toyota,2019,2.0,Petrol,Manual,Used,Innova,37793.0
+897,Hyundai,2009,2.0,Diesel,Automatic,Used,Tucson,24633.0
+898,Ford,2019,2.0,Diesel,Manual,Like New,Mustang,40538.0
+899,Ford,2013,1.0,Diesel,Manual,Used,Fiesta,24655.0
+900,Tata,2010,1.2,Petrol,Manual,Used,Harrier,19392.0
+901,Audi,2008,1.8,Petrol,Manual,Used,Q5,28079.0
+902,BMW,2013,3.0,Petrol,Manual,Used,X1,44182.0
+903,Tesla,2015,1.2,Petrol,Manual,Used,Model X,39276.0
+904,Maruti,2010,1.5,Diesel,Manual,Used,Dzire,22161.0
+905,Mercedes,2020,1.2,Diesel,Automatic,New,GLC,52386.0
+906,Kia,2025,1.8,Petrol,Manual,Used,Carnival,44765.0
+907,Honda,2019,1.2,Diesel,Manual,Used,CR-V,31329.0
+908,Tata,2024,1.8,Petrol,Manual,Used,Altroz,42557.0
+909,Audi,2008,0.0,Electric,Automatic,Like New,Q5,25478.0
+910,Tata,2011,1.2,Diesel,Automatic,Used,Altroz,21694.0
+911,Hyundai,2018,0.0,Electric,Automatic,Used,i20,26496.0
+912,Mahindra,2014,0.0,Electric,Manual,Like New,Bolero,23971.0
+913,Mahindra,2019,2.0,Petrol,Manual,New,Thar,45589.0
+914,Mercedes,2017,1.8,Petrol,Automatic,Like New,GLC,45746.0
+915,Toyota,2013,1.2,Diesel,Automatic,Used,Camry,25472.0
+916,BMW,2023,2.5,Petrol,Manual,Like New,X1,56804.0
+917,Hyundai,2015,1.5,Petrol,Automatic,New,Tucson,34692.0
+918,Maruti,2011,1.0,Diesel,Automatic,Used,Baleno,19182.0
+919,Kia,2012,0.0,Electric,Automatic,Like New,Carnival,20628.0
+920,Tesla,2018,1.5,Petrol,Automatic,Like New,Model X,48324.0
+921,Maruti,2011,0.0,Electric,Manual,Used,Brezza,15444.0
+922,Ford,2014,2.0,Diesel,Manual,Like New,Fiesta,33420.0
+923,Honda,2018,1.5,Diesel,Automatic,Like New,Amaze,37874.0
+924,Audi,2020,1.5,Petrol,Automatic,Like New,A3,47265.0
+925,Kia,2015,1.2,Petrol,Manual,Used,Seltos,26028.0
+926,Mercedes,2016,2.5,Petrol,Manual,Used,C-Class,47409.0
+927,BMW,2016,1.0,Petrol,Automatic,Like New,3 Series,39239.0
+928,Toyota,2016,3.0,Petrol,Automatic,Like New,Corolla,44780.0
+929,Maruti,2019,1.0,Petrol,Manual,Used,Baleno,29926.0
+930,Kia,2022,1.5,Diesel,Manual,Like New,Seltos,41199.0
+931,Honda,2010,2.0,Petrol,Manual,Like New,CR-V,27581.0
+932,Mahindra,2018,1.8,Petrol,Manual,New,Scorpio,41575.0
+933,BMW,2023,1.0,Diesel,Manual,New,3 Series,51200.0
+934,Honda,2021,3.0,Diesel,Automatic,Used,Amaze,49858.0
+935,Kia,2020,2.5,Petrol,Manual,Used,Carnival,41755.0
+936,Kia,2011,1.2,Petrol,Manual,Used,Sonet,19554.0
+937,Hyundai,2014,0.0,Electric,Automatic,Like New,Verna,23463.0
+938,Toyota,2020,1.5,Petrol,Automatic,New,Innova,41458.0
+939,Hyundai,2023,1.2,Diesel,Automatic,Used,i20,37963.0
+940,Kia,2009,1.2,Diesel,Manual,Used,Sonet,18352.0
+941,BMW,2022,3.0,Diesel,Automatic,New,X5,66172.0
+942,BMW,2008,2.5,Diesel,Automatic,Used,3 Series,35750.0
+943,Kia,2017,1.0,Petrol,Manual,Used,Carens,28100.0
+944,Honda,2013,1.8,Petrol,Manual,Used,Amaze,27433.0
+945,Mahindra,2013,2.5,Petrol,Manual,New,Bolero,39302.0
+946,Tata,2019,0.0,Electric,Automatic,Used,Altroz,28987.0
+947,Mahindra,2010,1.5,Diesel,Manual,Like New,Bolero,26456.0
+948,Hyundai,2021,1.5,Petrol,Automatic,Used,Creta,37110.0
+949,Kia,2025,1.5,Petrol,Manual,Used,Sonet,41585.0
+950,BMW,2010,2.5,Diesel,Automatic,Used,X3,40596.0
+951,Tata,2016,1.2,Petrol,Automatic,Used,Altroz,27709.0
+952,Hyundai,2009,1.0,Diesel,Manual,New,i20,22657.0
+953,Kia,2018,1.8,Petrol,Automatic,Like New,Carnival,38710.0
+954,Kia,2011,1.2,Petrol,Manual,Used,Seltos,19280.0
+955,Tata,2023,2.5,Petrol,Automatic,New,Safari,52573.0
+956,Maruti,2014,1.2,Diesel,Manual,Like New,Swift,26700.0
+957,Hyundai,2024,3.0,Diesel,Automatic,New,i20,58191.0
+958,Tesla,2019,1.8,Petrol,Automatic,Like New,Model X,52486.0
+959,Maruti,2018,0.0,Electric,Automatic,Used,Dzire,27249.0
+960,Mahindra,2015,1.2,Petrol,Automatic,Used,Bolero,27636.0
+961,Audi,2016,1.5,Diesel,Manual,New,Q5,45894.0
+962,Mercedes,2014,2.5,Petrol,Manual,New,GLC,50255.0
+963,Ford,2011,3.0,Diesel,Manual,Used,EcoSport,34736.0
+964,Hyundai,2015,2.0,Diesel,Automatic,Used,Verna,33558.0
+965,Kia,2012,1.0,Petrol,Automatic,New,Carnival,26609.0
+966,Ford,2009,1.2,Diesel,Manual,New,Mustang,24374.0
+967,Maruti,2024,2.0,Petrol,Manual,Used,Baleno,42107.0
+968,Kia,2025,2.5,Diesel,Manual,Used,Carnival,48587.0
+969,BMW,2015,1.8,Diesel,Manual,New,3 Series,47231.0
+970,Mahindra,2012,1.8,Petrol,Automatic,Used,XUV700,29572.0
+971,Mercedes,2013,1.2,Diesel,Manual,Used,GLA,33742.0
+972,Honda,2025,3.0,Petrol,Manual,Like New,Amaze,55699.0
+973,Honda,2022,1.2,Petrol,Automatic,New,Amaze,43094.0
+974,BMW,2013,1.8,Petrol,Automatic,Used,X1,37930.0
+975,Audi,2023,0.0,Electric,Automatic,Used,A4,43838.0
+976,Maruti,2014,1.2,Diesel,Automatic,Used,Swift,24623.0
+977,Honda,2021,2.0,Petrol,Manual,Like New,Amaze,41746.0
+978,Kia,2020,1.8,Diesel,Manual,Like New,Sonet,40303.0
+979,Toyota,2012,1.5,Petrol,Automatic,New,Fortuner,32275.0
+980,Tesla,2010,2.0,Diesel,Automatic,Used,Model Y,39806.0
+981,Kia,2012,0.0,Electric,Automatic,Like New,Seltos,22511.0
+982,Mercedes,2014,0.0,Electric,Manual,Like New,GLA,33959.0
+983,BMW,2009,1.8,Diesel,Automatic,Like New,X3,34636.0
+984,Audi,2022,1.2,Diesel,Automatic,Used,A3,47226.0
+985,Tesla,2015,1.5,Diesel,Automatic,Like New,Model 3,45201.0
+986,Tesla,2023,1.0,Diesel,Automatic,Like New,Model X,51774.0
+987,Mercedes,2011,1.0,Petrol,Automatic,Like New,GLC,32615.0
+988,Tata,2016,2.0,Petrol,Manual,Like New,Safari,36374.0
+989,Honda,2011,2.0,Petrol,Manual,New,City,32119.0
+990,Hyundai,2009,1.2,Diesel,Automatic,Used,Verna,18213.0
+991,Tesla,2022,0.0,Electric,Automatic,Used,Model X,45969.0
+992,Toyota,2023,3.0,Petrol,Manual,New,Innova,56366.0
+993,Mahindra,2022,2.5,Petrol,Automatic,Like New,Bolero,50984.0
+994,Tata,2020,2.5,Petrol,Manual,Like New,Safari,45435.0
+995,Hyundai,2008,1.5,Petrol,Automatic,Used,Verna,19103.0
+996,Toyota,2022,3.0,Petrol,Automatic,Used,Fortuner,49325.0
+997,Honda,2025,0.0,Electric,Automatic,Used,Amaze,37259.0
+998,Hyundai,2008,3.0,Petrol,Manual,New,Tucson,33262.0
+999,Tesla,2018,1.5,Diesel,Automatic,Used,Model 3,46166.0
+1000,Mercedes,2013,1.5,Diesel,Automatic,Used,E-Class,38543.0
+1001,BMW,2012,2.0,Diesel,Automatic,New,X1,44993.0
+1002,Toyota,2011,1.2,Petrol,Automatic,Like New,Corolla,24168.0
+1003,Audi,2016,1.5,Petrol,Automatic,Used,A4,38105.0
+1004,Honda,2021,2.5,Petrol,Manual,New,Amaze,48145.0
+1005,Maruti,2008,1.2,Petrol,Manual,New,Dzire,20516.0
+1006,Tata,2013,1.5,Petrol,Automatic,Like New,Harrier,29636.0
+1007,BMW,2010,2.5,Petrol,Automatic,Like New,3 Series,39826.0
+1008,Honda,2013,0.0,Electric,Automatic,New,Civic,27273.0
+1009,Mahindra,2015,1.0,Diesel,Manual,Used,Scorpio,27681.0
+1010,Kia,2008,2.0,Petrol,Automatic,New,Carens,28885.0
+1011,Tesla,2013,1.8,Petrol,Automatic,New,Model 3,47739.0
+1012,Mercedes,2020,3.0,Petrol,Automatic,Used,E-Class,57375.0
+1013,Kia,2025,3.0,Diesel,Automatic,New,Seltos,60716.0
+1014,Kia,2010,2.5,Diesel,Manual,New,Sonet,34579.0
+1015,Toyota,2022,0.0,Electric,Manual,Like New,Corolla,34354.0
+1016,Hyundai,2009,3.0,Petrol,Manual,New,Tucson,34969.0
+1017,Tesla,2009,2.0,Diesel,Manual,Used,Model X,36474.0
+1018,Tata,2019,0.0,Electric,Manual,Used,Safari,27729.0
+1019,Kia,2017,1.8,Petrol,Automatic,Used,Carens,32732.0
+1020,Ford,2025,2.0,Diesel,Automatic,New,Fiesta,54745.0
+1021,Tesla,2010,1.8,Petrol,Automatic,Used,Model 3,37091.0
+1022,Mahindra,2018,1.5,Petrol,Manual,Used,XUV700,32532.0
+1023,Maruti,2024,3.0,Petrol,Automatic,Used,Swift,52582.0
+1024,Toyota,2022,3.0,Petrol,Automatic,Used,Innova,48785.0
+1025,Tata,2018,3.0,Petrol,Automatic,Used,Harrier,44264.0
+1026,Kia,2013,1.2,Petrol,Manual,Used,Seltos,21995.0
+1027,Kia,2013,2.0,Petrol,Manual,Used,Carnival,29489.0
+1028,Hyundai,2011,1.5,Petrol,Manual,Used,i20,21970.0
+1029,Kia,2012,2.0,Petrol,Automatic,Like New,Carnival,31731.0
+1030,Mercedes,2014,2.0,Diesel,Automatic,New,C-Class,49279.0
+1031,Tesla,2011,2.0,Petrol,Manual,Like New,Model Y,41633.0
+1032,Maruti,2014,0.0,Electric,Automatic,Like New,Brezza,25028.0
+1033,Hyundai,2012,2.5,Petrol,Manual,Used,i20,30028.0
+1034,Honda,2025,2.0,Diesel,Automatic,New,CR-V,52639.0
+1035,Kia,2019,1.5,Diesel,Manual,Used,Carnival,33326.0
+1036,Toyota,2013,2.5,Petrol,Manual,Like New,Camry,35890.0
+1037,Tata,2013,2.0,Diesel,Automatic,New,Nexon,35906.0
+1038,Maruti,2025,2.5,Diesel,Automatic,Used,Swift,49196.0
+1039,Ford,2017,0.0,Electric,Automatic,New,EcoSport,33938.0
+1040,Hyundai,2016,1.2,Petrol,Manual,Used,Tucson,27836.0
+1041,BMW,2024,0.0,Electric,Manual,Used,X3,44367.0
+1042,Kia,2021,1.0,Diesel,Manual,Used,Sonet,33083.0
+1043,Ford,2023,0.0,Electric,Automatic,Used,Fiesta,34938.0
+1044,Mahindra,2011,2.0,Petrol,Automatic,Used,Bolero,29365.0
+1045,Tata,2023,1.2,Diesel,Automatic,Like New,Altroz,40742.0
+1046,Tesla,2012,1.0,Petrol,Automatic,Used,Model S,33252.0
+1047,Maruti,2008,1.2,Petrol,Automatic,Like New,Brezza,19469.0
+1048,Toyota,2012,1.0,Diesel,Automatic,Like New,Corolla,24391.0
+1049,Tata,2021,2.5,Diesel,Automatic,Like New,Altroz,48387.0
+1050,Audi,2024,2.5,Petrol,Manual,New,Q5,62495.0
+1051,Maruti,2018,1.2,Diesel,Automatic,New,Swift,36469.0
+1052,Audi,2021,1.5,Petrol,Manual,Used,A4,44288.0
+1053,Kia,2013,1.0,Diesel,Automatic,New,Carnival,29327.0
+1054,Hyundai,2012,0.0,Electric,Manual,Used,Verna,18938.0
+1055,Tesla,2022,1.5,Diesel,Automatic,Used,Model S,52423.0
+1056,Ford,2019,1.0,Petrol,Automatic,Used,Explorer,31461.0
+1057,Mercedes,2019,1.5,Petrol,Manual,New,GLA,48880.0
+1058,Mercedes,2011,1.0,Petrol,Automatic,Used,GLA,30735.0
+1059,Tesla,2021,1.2,Diesel,Manual,Like New,Model 3,49227.0
+1060,Mahindra,2021,1.5,Petrol,Automatic,Like New,Bolero,41120.0
+1061,Tesla,2021,1.2,Diesel,Automatic,Used,Model X,48783.0
+1062,Toyota,2008,2.5,Petrol,Manual,New,Innova,32313.0
+1063,Hyundai,2012,1.5,Petrol,Manual,Used,Tucson,22235.0
+1064,Hyundai,2025,2.0,Diesel,Automatic,Like New,i20,49506.0
+1065,Mahindra,2024,2.5,Petrol,Manual,Like New,Bolero,51090.0
+1066,Tata,2018,1.8,Diesel,Automatic,Used,Nexon,36495.0
+1067,Mercedes,2016,0.0,Electric,Automatic,Used,C-Class,34396.0
+1068,Mercedes,2022,2.5,Petrol,Manual,Like New,E-Class,56973.0
+1069,Ford,2022,1.5,Diesel,Manual,Used,Explorer,39956.0
+1070,Honda,2022,2.5,Petrol,Automatic,Used,Amaze,45713.0
+1071,Maruti,2025,2.5,Diesel,Manual,Used,Dzire,48464.0
+1072,Mahindra,2015,1.5,Petrol,Automatic,Used,Bolero,29659.0
+1073,Ford,2021,1.8,Petrol,Manual,Used,Explorer,38330.0
+1074,Maruti,2023,1.0,Petrol,Automatic,Used,Swift,35703.0
+1075,Honda,2019,2.5,Diesel,Manual,Used,Amaze,42101.0
+1076,Mercedes,2010,1.8,Petrol,Manual,Used,GLC,34342.0
+1077,Ford,2012,2.0,Petrol,Manual,Like New,Fiesta,31136.0
+1078,Audi,2018,3.0,Petrol,Manual,Used,A3,50678.0
+1079,Honda,2020,1.0,Petrol,Manual,Used,City,32488.0
+1080,Ford,2017,0.0,Electric,Manual,Like New,Explorer,27628.0
+1081,Mercedes,2017,2.0,Diesel,Manual,Used,GLA,46108.0
+1082,Maruti,2021,1.5,Diesel,Manual,Used,Swift,35659.0
+1083,Audi,2016,2.0,Petrol,Manual,New,A3,47898.0
+1084,Tesla,2020,0.0,Electric,Manual,Used,Model X,41158.0
+1085,Kia,2013,1.8,Diesel,Manual,Used,Sonet,27509.0
+1086,Mercedes,2018,1.8,Diesel,Automatic,Like New,E-Class,49165.0
+1087,Mercedes,2024,1.8,Diesel,Automatic,New,GLA,61493.0
+1088,Audi,2019,2.5,Petrol,Manual,Like New,Q5,51193.0
+1089,Honda,2020,2.0,Petrol,Automatic,Like New,City,42504.0
+1090,Audi,2018,1.8,Petrol,Manual,Used,A4,43388.0
+1091,Tesla,2012,2.5,Petrol,Automatic,New,Model X,50631.0
+1092,Audi,2013,0.0,Electric,Manual,Used,A3,28732.0
+1093,Tesla,2018,1.5,Diesel,Manual,New,Model X,52249.0
+1094,Maruti,2011,2.0,Diesel,Manual,New,Dzire,33185.0
+1095,Maruti,2024,2.0,Diesel,Automatic,Used,Baleno,46575.0
+1096,Honda,2020,2.5,Diesel,Manual,New,Civic,48768.0
+1097,Ford,2023,1.2,Diesel,Automatic,Used,EcoSport,39303.0
+1098,Mahindra,2014,0.0,Electric,Automatic,Used,XUV700,24222.0
+1099,Audi,2024,3.0,Petrol,Automatic,Used,Q5,60614.0
+1100,BMW,2016,1.8,Petrol,Automatic,New,X3,48378.0
+1101,Ford,2014,3.0,Petrol,Automatic,Like New,Mustang,42730.0
+1102,Toyota,2016,2.0,Petrol,Automatic,New,Innova,41047.0
+1103,Ford,2025,2.0,Diesel,Automatic,New,Fiesta,55010.0
+1104,Toyota,2022,1.5,Petrol,Manual,New,Corolla,44611.0
+1105,Honda,2017,0.0,Electric,Manual,Used,CR-V,24199.0
+1106,Maruti,2025,0.0,Electric,Automatic,Used,Swift,36236.0
+1107,BMW,2025,3.0,Petrol,Manual,Used,3 Series,60675.0
+1108,Kia,2017,0.0,Electric,Manual,Used,Carnival,24450.0
+1109,Tesla,2021,1.5,Petrol,Manual,Used,Model S,49810.0
+1110,Kia,2008,3.0,Petrol,Manual,Used,Carens,27814.0
+1111,Tesla,2025,1.2,Diesel,Automatic,Like New,Model Y,55700.0
+1112,Ford,2024,1.0,Petrol,Automatic,Like New,Explorer,41374.0
+1113,Mercedes,2012,3.0,Diesel,Manual,New,C-Class,52077.0
+1114,Maruti,2015,2.5,Petrol,Manual,Like New,Swift,37261.0
+1115,Ford,2018,1.5,Petrol,Manual,New,Fiesta,38531.0
+1116,BMW,2010,2.5,Diesel,Manual,New,X3,44285.0
+1117,Tesla,2018,1.8,Petrol,Manual,New,Model 3,53554.0
+1118,Tesla,2015,2.5,Petrol,Manual,Like New,Model S,50203.0
+1119,Maruti,2021,2.5,Petrol,Manual,Like New,Dzire,46083.0
+1120,Tesla,2024,2.0,Petrol,Manual,Like New,Model Y,59535.0
+1121,BMW,2016,1.8,Petrol,Automatic,Like New,X3,44056.0
+1122,Mahindra,2021,1.8,Diesel,Automatic,Used,XUV700,41001.0
+1123,Hyundai,2017,1.2,Diesel,Automatic,New,Tucson,36656.0
+1124,Ford,2024,2.5,Petrol,Automatic,Used,Explorer,48477.0
+1125,Ford,2009,0.0,Electric,Automatic,Used,Explorer,16341.0
+1126,BMW,2022,1.5,Petrol,Automatic,Used,X5,48358.0
+1127,Hyundai,2025,1.0,Petrol,Manual,Used,i20,37151.0
+1128,Audi,2025,1.2,Petrol,Manual,Like New,A4,50694.0
+1129,Kia,2016,1.5,Petrol,Manual,New,Carens,33942.0
+1130,Tesla,2009,1.5,Diesel,Manual,Used,Model S,32920.0
+1131,Maruti,2017,0.0,Electric,Manual,Used,Brezza,24414.0
+1132,Ford,2018,1.0,Petrol,Manual,Like New,EcoSport,32871.0
+1133,Honda,2008,1.5,Diesel,Manual,Used,CR-V,20090.0
+1134,Mahindra,2012,2.5,Diesel,Automatic,New,Bolero,40808.0
+1135,Maruti,2021,3.0,Diesel,Automatic,Used,Baleno,49352.0
+1136,Ford,2014,0.0,Electric,Automatic,Like New,Explorer,26192.0
+1137,BMW,2024,0.0,Electric,Automatic,Like New,X1,46947.0
+1138,Honda,2011,1.2,Diesel,Manual,Like New,Amaze,22889.0
+1139,Hyundai,2021,1.5,Petrol,Automatic,Like New,Tucson,39972.0
+1140,BMW,2012,1.2,Diesel,Automatic,Used,X5,32679.0
+1141,Mercedes,2024,2.0,Petrol,Automatic,Used,GLA,54647.0
+1142,Kia,2014,2.5,Diesel,Manual,Like New,Carens,36012.0
+1143,Hyundai,2018,0.0,Electric,Automatic,New,i20,34077.0
+1144,Hyundai,2010,2.0,Diesel,Automatic,Like New,Creta,28982.0
+1145,Ford,2025,3.0,Petrol,Manual,Used,Fiesta,53983.0
+1146,Kia,2011,1.0,Petrol,Automatic,New,Carnival,25696.0
+1147,Audi,2022,2.0,Petrol,Manual,Like New,Q7,51177.0
+1148,Toyota,2014,2.5,Petrol,Manual,Used,Camry,34077.0
+1149,Ford,2015,0.0,Electric,Automatic,Like New,Fiesta,26237.0
+1150,Audi,2013,2.0,Petrol,Manual,Like New,A3,39706.0
+1151,Kia,2009,1.8,Petrol,Manual,Used,Seltos,22466.0
+1152,Kia,2020,0.0,Electric,Automatic,Like New,Carens,32585.0
+1153,Tesla,2010,0.0,Electric,Manual,Used,Model S,28679.0
+1154,Mercedes,2021,1.5,Diesel,Automatic,Used,GLA,47821.0
+1155,Tata,2015,1.2,Petrol,Automatic,Used,Altroz,26525.0
+1156,Mercedes,2013,0.0,Electric,Automatic,New,E-Class,36519.0
+1157,Tesla,2018,0.0,Electric,Automatic,Used,Model S,39925.0
+1158,BMW,2010,0.0,Electric,Automatic,Used,X5,25371.0
+1159,BMW,2010,3.0,Petrol,Manual,Used,X1,40281.0
+1160,Maruti,2009,1.2,Petrol,Manual,Used,Swift,17107.0
+1161,Hyundai,2012,3.0,Diesel,Manual,Used,Verna,33820.0
+1162,Mercedes,2014,1.8,Petrol,Automatic,New,E-Class,45743.0
+1163,Hyundai,2017,0.0,Electric,Manual,Used,i20,25684.0
+1164,Kia,2016,1.8,Diesel,Manual,New,Sonet,37761.0
+1165,Honda,2015,3.0,Petrol,Automatic,New,Amaze,45237.0
+1166,Tata,2019,2.0,Diesel,Manual,Used,Safari,39380.0
+1167,Honda,2009,1.0,Diesel,Automatic,Used,Civic,19195.0
+1168,BMW,2017,1.0,Petrol,Automatic,Used,X5,38776.0
+1169,Tata,2023,1.0,Diesel,Manual,New,Altroz,43498.0
+1170,Kia,2018,0.0,Electric,Manual,Like New,Carens,29589.0
+1171,Toyota,2010,3.0,Diesel,Automatic,New,Innova,39178.0
+1172,Toyota,2022,0.0,Electric,Manual,Used,Corolla,31864.0
+1173,Maruti,2012,2.0,Petrol,Automatic,Used,Baleno,28378.0
+1174,Honda,2014,1.8,Petrol,Automatic,Used,CR-V,29220.0
+1175,BMW,2025,0.0,Electric,Manual,Like New,X5,49213.0
+1176,Mercedes,2022,0.0,Electric,Manual,Used,GLA,42051.0
+1177,Audi,2012,1.0,Diesel,Manual,New,Q7,36077.0
+1178,Tata,2008,2.0,Diesel,Automatic,Used,Harrier,24293.0
+1179,Toyota,2016,2.0,Petrol,Automatic,New,Fortuner,40018.0
+1180,Hyundai,2021,1.0,Petrol,Automatic,Used,Creta,34453.0
+1181,Maruti,2020,1.0,Petrol,Automatic,Used,Dzire,32397.0
+1182,Kia,2025,3.0,Diesel,Manual,Like New,Sonet,55756.0
+1183,Ford,2017,1.2,Petrol,Manual,Used,Fiesta,30635.0
+1184,Toyota,2025,1.8,Petrol,Automatic,Like New,Camry,47366.0
+1185,Toyota,2024,2.0,Petrol,Automatic,New,Camry,52618.0
+1186,Kia,2022,3.0,Petrol,Automatic,New,Carnival,54607.0
+1187,Hyundai,2015,1.0,Petrol,Manual,New,Creta,30078.0
+1188,Kia,2015,2.0,Petrol,Manual,New,Carnival,36791.0
+1189,Audi,2010,2.5,Petrol,Manual,Used,A4,35384.0
+1190,BMW,2008,2.5,Petrol,Manual,Like New,X5,36309.0
+1191,Hyundai,2014,3.0,Petrol,Automatic,Used,Creta,37680.0
+1192,Mahindra,2019,1.2,Diesel,Automatic,Like New,XUV700,37003.0
+1193,Mercedes,2015,2.5,Diesel,Automatic,New,E-Class,54158.0
+1194,Kia,2009,1.2,Petrol,Manual,Used,Sonet,16347.0
+1195,Audi,2008,1.0,Petrol,Manual,Used,A4,22853.0
+1196,Maruti,2017,1.0,Diesel,Automatic,Like New,Baleno,31422.0
+1197,Tesla,2022,1.0,Diesel,Automatic,New,Model S,55394.0
+1198,Tata,2022,2.0,Petrol,Manual,New,Safari,47823.0
+1199,Maruti,2018,2.0,Diesel,Manual,Used,Brezza,35665.0
+1200,Hyundai,2023,2.0,Petrol,Manual,Like New,i20,45061.0
+1201,Ford,2013,1.5,Diesel,Manual,Like New,Mustang,28536.0
+1202,Audi,2009,3.0,Petrol,Manual,New,Q7,45502.0
+1203,Hyundai,2025,3.0,Diesel,Automatic,New,Creta,59295.0
+1204,Mercedes,2013,1.8,Petrol,Automatic,Used,E-Class,39126.0
+1205,Maruti,2010,1.0,Diesel,Manual,Used,Baleno,17622.0
+1206,Hyundai,2018,2.0,Diesel,Manual,New,Tucson,42313.0
+1207,Honda,2018,1.2,Diesel,Manual,Used,City,30453.0
+1208,Tata,2025,1.2,Diesel,Automatic,Like New,Safari,44592.0
+1209,Tata,2014,1.2,Diesel,Manual,Used,Altroz,26005.0
+1210,Maruti,2019,1.2,Petrol,Automatic,Like New,Baleno,33428.0
+1211,Honda,2014,3.0,Diesel,Automatic,Used,Civic,39141.0
+1212,Toyota,2025,0.0,Electric,Manual,Used,Corolla,37136.0
+1213,Audi,2025,0.0,Electric,Manual,Used,A4,44724.0
+1214,Ford,2019,3.0,Diesel,Manual,Used,Explorer,45829.0
+1215,Honda,2023,2.5,Petrol,Automatic,New,Civic,52487.0
+1216,Ford,2013,0.0,Electric,Automatic,Used,EcoSport,22487.0
+1217,Tesla,2022,0.0,Electric,Automatic,Used,Model X,45630.0
+1218,Maruti,2010,0.0,Electric,Manual,Used,Brezza,15633.0
+1219,Ford,2008,1.8,Petrol,Automatic,New,Explorer,27728.0
+1220,Audi,2011,1.5,Petrol,Manual,New,A3,36509.0
+1221,Tata,2024,1.5,Petrol,Manual,Used,Nexon,40507.0
+1222,Ford,2024,2.0,Diesel,Manual,Like New,Explorer,48751.0
+1223,Mahindra,2016,1.8,Diesel,Manual,Like New,Scorpio,35581.0
+1224,BMW,2011,2.0,Diesel,Manual,New,X1,41809.0
+1225,Maruti,2016,1.8,Petrol,Manual,Used,Swift,31583.0
+1226,Mahindra,2018,2.0,Petrol,Automatic,New,XUV700,45249.0
+1227,Mahindra,2014,1.0,Petrol,Automatic,New,Bolero,32494.0
+1228,Tesla,2011,2.5,Diesel,Manual,Like New,Model S,46309.0
+1229,Kia,2020,1.0,Diesel,Manual,Like New,Sonet,35260.0
+1230,Honda,2021,2.5,Petrol,Manual,Like New,Amaze,45586.0
+1231,Tata,2009,0.0,Electric,Manual,Like New,Altroz,17503.0
+1232,Mahindra,2012,1.8,Petrol,Automatic,Used,Scorpio,29066.0
+1233,Maruti,2012,3.0,Diesel,Manual,Used,Baleno,33274.0
+1234,Mercedes,2019,3.0,Diesel,Automatic,Used,C-Class,55686.0
+1235,Mercedes,2008,0.0,Electric,Manual,Used,GLC,21991.0
+1236,Toyota,2020,2.5,Petrol,Manual,Used,Innova,42248.0
+1237,Tesla,2015,2.5,Petrol,Automatic,New,Model S,55518.0
+1238,BMW,2023,1.0,Petrol,Manual,Used,X5,45718.0
+1239,Tesla,2010,3.0,Petrol,Automatic,New,Model 3,51545.0
+1240,BMW,2008,1.0,Petrol,Automatic,Used,X5,26388.0
+1241,Honda,2019,2.5,Diesel,Manual,Like New,City,42745.0
+1242,Honda,2010,3.0,Diesel,Manual,New,Amaze,38464.0
+1243,Kia,2020,2.5,Petrol,Manual,Like New,Carnival,44579.0
+1244,Mercedes,2016,1.8,Petrol,Manual,Used,GLA,41354.0
+1245,Honda,2012,1.8,Petrol,Manual,Like New,CR-V,28526.0
+1246,Tesla,2024,2.5,Petrol,Automatic,Used,Model 3,59980.0
+1247,Ford,2021,1.8,Petrol,Manual,Like New,Mustang,41005.0
+1248,Maruti,2014,3.0,Petrol,Automatic,Like New,Baleno,40215.0
+1249,BMW,2025,0.0,Electric,Manual,New,X5,52363.0
+1250,Tesla,2014,1.5,Petrol,Manual,Like New,Model X,41003.0
+1251,Audi,2008,3.0,Petrol,Manual,Like New,A4,38702.0
+1252,Ford,2010,1.8,Petrol,Manual,Used,EcoSport,24155.0
+1253,Audi,2024,1.5,Petrol,Manual,New,Q7,55544.0
+1254,Honda,2014,1.2,Petrol,Manual,Used,City,25431.0
+1255,Maruti,2008,1.2,Petrol,Automatic,Used,Dzire,16984.0
+1256,Mercedes,2022,2.0,Diesel,Manual,Used,E-Class,52127.0
+1257,Mahindra,2009,3.0,Petrol,Automatic,Used,Scorpio,32907.0
+1258,BMW,2023,1.8,Diesel,Manual,Used,X3,52305.0
+1259,Mahindra,2024,2.5,Petrol,Manual,Used,Thar,48481.0
+1260,Maruti,2020,2.5,Diesel,Manual,Used,Brezza,42694.0
+1261,Toyota,2013,0.0,Electric,Automatic,Used,Corolla,20345.0
+1262,Mercedes,2019,1.8,Petrol,Automatic,Like New,GLA,49576.0
+1263,Honda,2014,2.5,Petrol,Automatic,Like New,Amaze,36792.0
+1264,Hyundai,2016,2.0,Diesel,Manual,New,Creta,40113.0
+1265,BMW,2016,3.0,Petrol,Automatic,Used,X5,50464.0
+1266,Tata,2013,2.5,Diesel,Automatic,Used,Harrier,33959.0
+1267,Hyundai,2025,1.8,Diesel,Automatic,Used,i20,46367.0
+1268,BMW,2012,1.0,Petrol,Automatic,Used,X5,31964.0
+1269,Toyota,2016,3.0,Diesel,Automatic,New,Corolla,47876.0
+1270,Ford,2010,2.5,Petrol,Automatic,Like New,Fiesta,32687.0
+1271,Kia,2013,1.8,Diesel,Manual,Like New,Sonet,29211.0
+1272,Honda,2008,1.2,Petrol,Automatic,Like New,Civic,20164.0
+1273,Mahindra,2013,2.5,Diesel,Automatic,New,XUV700,41739.0
+1274,Mercedes,2018,1.2,Diesel,Automatic,Used,C-Class,42219.0
+1275,BMW,2022,2.0,Diesel,Automatic,Used,X5,52323.0
+1276,Toyota,2021,3.0,Diesel,Manual,Used,Camry,48501.0
+1277,Toyota,2021,2.0,Petrol,Manual,Like New,Innova,43264.0
+1278,Kia,2022,0.0,Electric,Manual,Used,Sonet,32557.0
+1279,Maruti,2012,3.0,Petrol,Manual,New,Dzire,40021.0
+1280,Audi,2008,0.0,Electric,Automatic,Used,Q7,23357.0
+1281,Toyota,2022,1.2,Petrol,Manual,Used,Corolla,36643.0
+1282,Ford,2011,3.0,Petrol,Manual,Used,Mustang,32805.0
+1283,Audi,2019,2.0,Diesel,Manual,Used,A4,46015.0
+1284,Tesla,2013,1.0,Petrol,Automatic,New,Model 3,41674.0
+1285,Ford,2021,2.0,Petrol,Automatic,Like New,Mustang,45179.0
+1286,Ford,2016,1.2,Diesel,Manual,Used,Explorer,29546.0
+1287,Maruti,2021,0.0,Electric,Automatic,New,Brezza,36501.0
+1288,Toyota,2014,3.0,Petrol,Automatic,Used,Camry,37593.0
+1289,Tesla,2016,1.5,Diesel,Manual,Used,Model Y,42486.0
+1290,Maruti,2012,2.0,Petrol,Automatic,Used,Baleno,26647.0
+1291,Audi,2016,0.0,Electric,Automatic,Like New,A3,36685.0
+1292,Tata,2018,3.0,Diesel,Manual,Used,Safari,44170.0
+1293,Hyundai,2009,2.5,Petrol,Manual,Used,Verna,26078.0
+1294,BMW,2008,1.2,Diesel,Manual,Used,3 Series,27215.0
+1295,Hyundai,2011,2.0,Petrol,Automatic,Used,Creta,26645.0
+1296,Honda,2011,1.0,Diesel,Manual,New,City,25028.0
+1297,Mahindra,2009,0.0,Electric,Automatic,Used,Thar,15455.0
+1298,Honda,2018,1.5,Petrol,Automatic,Used,Amaze,32764.0
+1299,Tesla,2025,0.0,Electric,Manual,Used,Model Y,48365.0
+1300,Kia,2019,2.5,Diesel,Automatic,Used,Seltos,42646.0
+1301,Tesla,2025,2.5,Petrol,Automatic,Used,Model S,63415.0
+1302,Maruti,2011,1.8,Diesel,Automatic,Used,Swift,26682.0
+1303,Kia,2012,0.0,Electric,Automatic,Like New,Seltos,22130.0
+1304,Tata,2021,3.0,Petrol,Automatic,Used,Safari,48973.0
+1305,Kia,2019,1.8,Diesel,Automatic,New,Seltos,42504.0
+1306,Tata,2012,2.5,Petrol,Automatic,Like New,Safari,34140.0
+1307,Honda,2012,2.5,Petrol,Manual,Used,City,31220.0
+1308,BMW,2009,1.2,Petrol,Manual,New,X5,33503.0
+1309,Tesla,2018,0.0,Electric,Automatic,New,Model Y,47182.0
+1310,Toyota,2023,1.0,Petrol,Manual,New,Camry,42597.0
+1311,Kia,2021,2.5,Diesel,Automatic,Like New,Carnival,46517.0
+1312,Audi,2023,3.0,Petrol,Automatic,Used,A3,58331.0
+1313,Tata,2008,0.0,Electric,Manual,Like New,Safari,14676.0
+1314,Ford,2013,2.0,Petrol,Automatic,Used,Mustang,29661.0
+1315,Hyundai,2015,2.0,Petrol,Automatic,New,Tucson,37175.0
+1316,Hyundai,2017,1.5,Diesel,Manual,Used,Creta,30188.0
+1317,Honda,2022,1.0,Petrol,Manual,New,CR-V,39827.0
+1318,Hyundai,2021,0.0,Electric,Manual,Used,Creta,30533.0
+1319,Hyundai,2014,2.0,Petrol,Automatic,Like New,Creta,32402.0
+1320,Toyota,2022,1.8,Petrol,Manual,Like New,Camry,43815.0
+1321,Ford,2019,0.0,Electric,Manual,New,Mustang,34589.0
+1322,Audi,2025,3.0,Petrol,Manual,Used,A3,60666.0
+1323,Kia,2016,2.0,Diesel,Automatic,Used,Sonet,34756.0
+1324,Audi,2022,0.0,Electric,Manual,New,Q7,47406.0
+1325,Mahindra,2016,1.8,Diesel,Manual,Used,Thar,33384.0
+1326,Mercedes,2015,1.5,Diesel,Manual,New,C-Class,44869.0
+1327,Tata,2016,2.5,Petrol,Manual,Like New,Harrier,38318.0
+1328,Tata,2020,1.8,Diesel,Automatic,Used,Safari,38331.0
+1329,Tesla,2013,1.8,Petrol,Manual,Used,Model S,39799.0
+1330,Audi,2025,1.5,Petrol,Automatic,Like New,Q7,53906.0
+1331,Maruti,2016,1.2,Petrol,Manual,Used,Swift,26858.0
+1332,Tata,2012,1.2,Petrol,Manual,New,Safari,28751.0
+1333,Maruti,2016,2.0,Diesel,Manual,New,Brezza,39063.0
+1334,Honda,2020,2.5,Diesel,Automatic,Used,City,43055.0
+1335,Tesla,2014,3.0,Diesel,Manual,New,Model 3,57556.0
+1336,Ford,2021,1.8,Diesel,Manual,Used,Mustang,40100.0
+1337,Toyota,2025,2.0,Petrol,Manual,Used,Corolla,46849.0
+1338,Tesla,2023,2.0,Petrol,Manual,Like New,Model Y,56661.0
+1339,Ford,2023,1.2,Petrol,Automatic,New,Explorer,45379.0
+1340,Hyundai,2023,3.0,Petrol,Manual,Used,Creta,48657.0
+1341,Audi,2023,2.5,Diesel,Manual,Like New,A3,58414.0
+1342,Mercedes,2015,1.8,Diesel,Manual,Used,E-Class,41109.0
+1343,Maruti,2021,3.0,Petrol,Automatic,Used,Dzire,46274.0
+1344,Ford,2021,0.0,Electric,Automatic,Used,Explorer,31795.0
+1345,Tesla,2022,1.2,Petrol,Manual,Like New,Model 3,49509.0
+1346,Audi,2021,1.5,Petrol,Manual,New,Q5,51826.0
+1347,Kia,2015,1.0,Petrol,Automatic,Used,Sonet,25676.0
+1348,BMW,2012,2.5,Diesel,Automatic,New,3 Series,48475.0
+1349,Mahindra,2019,2.0,Diesel,Automatic,Used,Thar,39913.0
+1350,Audi,2009,2.5,Diesel,Manual,Like New,Q5,37473.0
+1351,Tata,2014,1.2,Diesel,Automatic,Used,Harrier,27827.0
+1352,Mercedes,2015,1.0,Petrol,Manual,New,GLC,39831.0
+1353,Hyundai,2018,3.0,Petrol,Automatic,Used,Verna,43633.0
+1354,BMW,2024,2.0,Diesel,Automatic,Used,X1,54414.0
+1355,Tata,2018,1.2,Diesel,Automatic,Used,Altroz,33590.0
+1356,Tesla,2020,0.0,Electric,Automatic,Used,Model 3,41847.0
+1357,Mercedes,2008,2.5,Petrol,Manual,Like New,GLC,37981.0
+1358,Tata,2024,1.5,Petrol,Manual,Like New,Altroz,42430.0
+1359,Toyota,2012,1.8,Diesel,Manual,Like New,Fortuner,28617.0
+1360,BMW,2021,0.0,Electric,Automatic,Used,X5,41942.0
+1361,Mercedes,2012,1.5,Diesel,Automatic,Used,C-Class,35297.0
+1362,Mahindra,2022,1.0,Petrol,Manual,Like New,Bolero,38478.0
+1363,Maruti,2020,1.0,Diesel,Manual,Used,Baleno,31519.0
+1364,Honda,2021,2.5,Diesel,Manual,New,Civic,49755.0
+1365,Mercedes,2018,1.8,Petrol,Manual,Used,GLC,44231.0
+1366,Kia,2014,2.0,Petrol,Manual,Like New,Carens,33375.0
+1367,Mercedes,2022,0.0,Electric,Automatic,New,C-Class,49256.0
+1368,Tata,2008,1.0,Petrol,Automatic,Used,Safari,15091.0
+1369,BMW,2010,2.5,Petrol,Manual,New,X5,43219.0
+1370,BMW,2012,0.0,Electric,Manual,Used,3 Series,27537.0
+1371,Honda,2024,0.0,Electric,Automatic,New,CR-V,42874.0
+1372,Kia,2015,0.0,Electric,Manual,Used,Carens,21348.0
+1373,Mercedes,2022,1.8,Petrol,Automatic,Used,C-Class,52107.0
+1374,Mahindra,2009,2.0,Petrol,Automatic,Used,Scorpio,24617.0
+1375,Tata,2014,0.0,Electric,Automatic,Used,Altroz,23454.0
+1376,BMW,2009,1.2,Petrol,Manual,New,X3,33928.0
+1377,Maruti,2008,1.2,Diesel,Automatic,New,Baleno,22724.0
+1378,Honda,2024,1.2,Petrol,Automatic,Used,CR-V,38541.0
+1379,BMW,2015,2.0,Petrol,Automatic,Like New,X5,45038.0
+1380,Tesla,2020,1.5,Diesel,Automatic,New,Model S,54889.0
+1381,Tesla,2020,0.0,Electric,Automatic,New,Model Y,50099.0
+1382,Toyota,2019,1.2,Petrol,Manual,Used,Innova,31368.0
+1383,Mercedes,2020,0.0,Electric,Manual,Used,E-Class,39091.0
+1384,Tesla,2014,2.5,Diesel,Manual,Used,Model X,47028.0
+1385,Tata,2016,0.0,Electric,Automatic,Like New,Nexon,27705.0
+1386,Hyundai,2012,1.0,Petrol,Automatic,Like New,Creta,23013.0
+1387,Honda,2022,2.0,Petrol,Automatic,Used,Amaze,41619.0
+1388,Maruti,2017,0.0,Electric,Automatic,New,Dzire,31681.0
+1389,Ford,2021,1.2,Petrol,Automatic,New,EcoSport,41533.0
+1390,Maruti,2010,1.8,Petrol,Manual,Used,Swift,22572.0
+1391,Audi,2012,2.5,Diesel,Automatic,Used,A4,41298.0
+1392,Audi,2009,2.0,Petrol,Manual,Like New,Q5,33725.0
+1393,Tata,2010,1.2,Diesel,Manual,Used,Safari,21154.0
+1394,Ford,2022,1.5,Petrol,Automatic,New,Fiesta,45247.0
+1395,Hyundai,2012,1.0,Petrol,Manual,New,Tucson,25430.0
+1396,Hyundai,2008,1.2,Petrol,Automatic,Used,Verna,17511.0
+1397,BMW,2016,2.0,Diesel,Manual,Used,X1,43700.0
+1398,Mercedes,2022,3.0,Diesel,Manual,Like New,E-Class,63240.0
+1399,Honda,2016,1.2,Petrol,Automatic,New,Amaze,35162.0
+1400,Mahindra,2015,0.0,Electric,Manual,Used,XUV700,23165.0
+1401,Ford,2012,2.5,Diesel,Manual,Used,Fiesta,32458.0
+1402,Honda,2022,1.8,Diesel,Manual,Like New,Civic,44274.0
+1403,Mercedes,2013,1.0,Petrol,Automatic,Used,GLC,34356.0
+1404,Maruti,2019,0.0,Electric,Automatic,New,Dzire,35213.0
+1405,Mercedes,2014,0.0,Electric,Automatic,New,E-Class,37556.0
+1406,Tata,2020,2.0,Petrol,Automatic,Used,Nexon,40089.0
+1407,Maruti,2025,0.0,Electric,Manual,Used,Dzire,35234.0
+1408,Toyota,2016,0.0,Electric,Automatic,Used,Innova,24264.0
+1409,Kia,2025,1.5,Petrol,Automatic,New,Carnival,49146.0
+1410,Hyundai,2010,0.0,Electric,Manual,New,Creta,21625.0
+1411,Hyundai,2015,1.8,Diesel,Manual,New,Verna,35760.0
+1412,Mahindra,2013,0.0,Electric,Automatic,Used,Scorpio,22420.0
+1413,Tata,2016,0.0,Electric,Manual,Used,Altroz,24532.0
+1414,Toyota,2012,1.0,Diesel,Manual,Used,Camry,21535.0
+1415,Tata,2011,3.0,Petrol,Manual,Like New,Harrier,35737.0
+1416,Ford,2009,2.0,Petrol,Manual,Like New,Mustang,25888.0
+1417,Maruti,2020,1.5,Petrol,Automatic,Used,Swift,35627.0
+1418,Mercedes,2014,3.0,Petrol,Automatic,Like New,C-Class,50647.0
+1419,BMW,2008,2.0,Diesel,Manual,Like New,X3,33664.0
+1420,Toyota,2025,2.0,Diesel,Automatic,New,Innova,53401.0
+1421,Mercedes,2009,1.5,Diesel,Automatic,Used,C-Class,31383.0
+1422,Kia,2013,1.5,Diesel,Manual,Like New,Seltos,27660.0
+1423,Mercedes,2016,1.8,Petrol,Automatic,Used,GLA,43815.0
+1424,Tesla,2018,1.5,Petrol,Automatic,Like New,Model X,48642.0
+1425,Mahindra,2011,3.0,Diesel,Automatic,Used,Bolero,36603.0
+1426,Hyundai,2018,1.5,Petrol,Manual,New,Verna,36843.0
+1427,Audi,2020,1.8,Diesel,Manual,Used,Q5,46733.0
+1428,Honda,2016,1.0,Petrol,Manual,Used,CR-V,24581.0
+1429,Ford,2008,1.0,Petrol,Manual,Used,Explorer,15046.0
+1430,Mahindra,2019,3.0,Petrol,Automatic,New,XUV700,53648.0
+1431,Tesla,2014,1.8,Petrol,Automatic,Used,Model X,41272.0
+1432,Tata,2022,1.2,Petrol,Manual,Like New,Altroz,38711.0
+1433,Mercedes,2021,3.0,Diesel,Manual,New,GLA,64884.0
+1434,Tata,2022,1.0,Diesel,Manual,Used,Altroz,34951.0
+1435,Kia,2015,1.8,Petrol,Automatic,New,Carens,37347.0
+1436,Ford,2008,2.0,Petrol,Automatic,New,Mustang,29527.0
+1437,Kia,2021,1.0,Diesel,Automatic,New,Sonet,40747.0
+1438,Maruti,2019,3.0,Petrol,Manual,Used,Swift,44380.0
+1439,Ford,2018,3.0,Diesel,Automatic,Used,EcoSport,46028.0
+1440,Ford,2024,2.5,Diesel,Automatic,Used,EcoSport,50517.0
+1441,Ford,2010,1.2,Petrol,Manual,Used,Fiesta,18924.0
+1442,Kia,2011,1.2,Diesel,Manual,Like New,Carens,23705.0
+1443,BMW,2019,2.0,Diesel,Automatic,New,X1,54428.0
+1444,BMW,2015,3.0,Diesel,Manual,Used,3 Series,47810.0
+1445,Kia,2024,1.0,Diesel,Manual,Used,Sonet,38821.0
+1446,Toyota,2025,2.5,Petrol,Manual,New,Camry,54696.0
+1447,Audi,2011,2.0,Diesel,Automatic,Used,Q7,35489.0
+1448,Maruti,2010,1.8,Diesel,Automatic,Used,Baleno,25253.0
+1449,Hyundai,2020,2.0,Petrol,Automatic,Used,Creta,39726.0
+1450,Toyota,2009,2.5,Diesel,Manual,Used,Corolla,27154.0
+1451,Honda,2022,2.0,Petrol,Automatic,New,Civic,48865.0
+1452,Ford,2013,1.5,Petrol,Automatic,New,Fiesta,33627.0
+1453,Mercedes,2025,3.0,Diesel,Manual,Like New,GLA,66447.0
+1454,Tesla,2013,2.0,Diesel,Manual,New,Model X,48310.0
+1455,Ford,2017,1.8,Petrol,Manual,Used,Explorer,33791.0
+1456,Tesla,2009,1.5,Petrol,Manual,Used,Model X,32761.0
+1457,Tata,2009,2.5,Petrol,Manual,New,Safari,32311.0
+1458,Hyundai,2018,3.0,Petrol,Automatic,Used,i20,42798.0
+1459,Tesla,2020,1.0,Diesel,Manual,New,Model S,49941.0
+1460,Hyundai,2013,2.0,Diesel,Automatic,New,Creta,36797.0
+1461,Maruti,2021,1.8,Petrol,Manual,Used,Baleno,37154.0
+1462,Tata,2013,1.2,Diesel,Automatic,New,Safari,31203.0
+1463,Maruti,2009,0.0,Electric,Automatic,Like New,Dzire,16787.0
+1464,Honda,2012,1.0,Diesel,Manual,Like New,Civic,24416.0
+1465,Kia,2009,1.2,Petrol,Manual,Used,Carens,17508.0
+1466,Tata,2011,1.2,Petrol,Manual,Like New,Safari,22322.0
+1467,Tata,2024,2.0,Diesel,Manual,Used,Harrier,44395.0
+1468,Audi,2012,1.5,Petrol,Automatic,Used,Q7,33103.0
+1469,Honda,2009,3.0,Petrol,Automatic,New,CR-V,36011.0
+1470,Hyundai,2015,1.2,Petrol,Automatic,New,Tucson,32151.0
+1471,Ford,2011,1.2,Petrol,Manual,New,EcoSport,28154.0
+1472,Honda,2022,1.5,Petrol,Automatic,Used,City,39156.0
+1473,Tata,2012,1.2,Petrol,Automatic,Used,Harrier,23546.0
+1474,BMW,2014,0.0,Electric,Manual,Used,X3,30780.0
+1475,Ford,2014,0.0,Electric,Manual,Used,Fiesta,22242.0
+1476,Tata,2018,2.5,Petrol,Automatic,Used,Safari,40037.0
+1477,Honda,2012,2.0,Petrol,Automatic,Like New,Amaze,29851.0
+1478,BMW,2012,1.2,Petrol,Manual,Used,3 Series,32158.0
+1479,Kia,2008,2.0,Diesel,Automatic,Used,Seltos,23412.0
+1480,Tesla,2022,1.2,Petrol,Manual,Used,Model S,47098.0
+1481,Maruti,2022,1.8,Petrol,Manual,New,Brezza,45809.0
+1482,Hyundai,2016,0.0,Electric,Manual,Like New,i20,26918.0
+1483,Toyota,2020,0.0,Electric,Automatic,New,Fortuner,35810.0
+1484,Mercedes,2017,1.5,Diesel,Manual,Used,GLC,42947.0
+1485,Maruti,2010,1.2,Petrol,Automatic,Used,Dzire,19841.0
+1486,Audi,2012,1.2,Diesel,Automatic,New,Q7,38721.0
+1487,Toyota,2011,1.8,Petrol,Manual,Used,Corolla,25131.0
+1488,Mercedes,2014,1.8,Diesel,Manual,New,GLC,46770.0
+1489,Tesla,2008,3.0,Petrol,Automatic,Used,Model X,42552.0
+1490,Kia,2008,1.2,Diesel,Automatic,New,Carnival,24896.0
+1491,Tesla,2023,3.0,Diesel,Manual,Used,Model X,62683.0
+1492,Mahindra,2013,2.0,Petrol,Manual,Like New,XUV700,31823.0
+1493,Toyota,2022,0.0,Electric,Automatic,Used,Corolla,34249.0
+1494,Ford,2017,3.0,Diesel,Automatic,New,EcoSport,49454.0
+1495,Ford,2023,1.8,Petrol,Manual,Like New,Explorer,44475.0
+1496,Ford,2022,1.2,Petrol,Manual,Used,EcoSport,37672.0
+1497,Hyundai,2014,2.0,Petrol,Manual,Like New,Verna,31897.0
+1498,Maruti,2021,2.5,Petrol,Manual,New,Brezza,47477.0
+1499,Honda,2019,3.0,Petrol,Automatic,Used,CR-V,45220.0
+1500,BMW,2019,1.0,Petrol,Automatic,Like New,X1,43112.0
+1501,Mercedes,2010,1.0,Diesel,Automatic,New,E-Class,37097.0
+1502,Toyota,2023,1.8,Diesel,Automatic,Used,Fortuner,44515.0
+1503,Audi,2008,2.0,Petrol,Automatic,Used,Q5,31199.0
+1504,Ford,2017,1.0,Petrol,Automatic,Used,EcoSport,30083.0
+1505,Ford,2015,1.0,Petrol,Automatic,Like New,Mustang,28761.0
+1506,Kia,2009,1.8,Diesel,Automatic,New,Sonet,30091.0
+1507,Hyundai,2014,1.0,Diesel,Automatic,New,Verna,29744.0
+1508,Ford,2009,2.0,Petrol,Manual,New,EcoSport,30295.0
+1509,BMW,2017,3.0,Petrol,Automatic,Used,3 Series,51176.0
+1510,Mahindra,2015,1.5,Diesel,Manual,New,Thar,36807.0
+1511,Mahindra,2025,1.0,Petrol,Automatic,Used,Thar,41851.0
+1512,Honda,2015,1.8,Petrol,Automatic,Like New,City,32823.0
+1513,Kia,2022,3.0,Petrol,Manual,Like New,Carens,50755.0
+1514,BMW,2014,1.5,Petrol,Manual,Like New,X5,39016.0
+1515,Maruti,2012,1.2,Petrol,Manual,New,Brezza,26115.0
+1516,Mahindra,2014,3.0,Diesel,Manual,Used,XUV700,38257.0
+1517,Maruti,2013,0.0,Electric,Automatic,Used,Swift,19336.0
+1518,Ford,2010,1.0,Petrol,Automatic,Used,EcoSport,18457.0
+1519,Maruti,2022,0.0,Electric,Automatic,Used,Swift,31696.0
+1520,Toyota,2021,1.5,Diesel,Manual,Used,Innova,36500.0
+1521,Tesla,2011,1.5,Diesel,Manual,Used,Model 3,34525.0
+1522,Honda,2009,1.0,Diesel,Automatic,New,Amaze,23953.0
+1523,Tata,2020,1.5,Petrol,Manual,Like New,Nexon,37880.0
+1524,Mercedes,2012,1.5,Petrol,Automatic,Used,E-Class,35236.0
+1525,BMW,2014,1.8,Diesel,Manual,Like New,X3,40807.0
+1526,Hyundai,2021,0.0,Electric,Manual,New,i20,36113.0
+1527,Tata,2014,0.0,Electric,Manual,Used,Altroz,20122.0
+1528,Tesla,2016,2.0,Diesel,Manual,New,Model Y,51806.0
+1529,Maruti,2013,1.2,Diesel,Manual,Like New,Swift,25159.0
+1530,Toyota,2025,1.5,Diesel,Manual,Used,Corolla,42751.0
+1531,BMW,2017,1.0,Petrol,Automatic,Used,3 Series,36963.0
+1532,Honda,2021,3.0,Diesel,Manual,Like New,City,50948.0
+1533,Mahindra,2016,1.5,Diesel,Manual,New,Scorpio,36545.0
+1534,BMW,2024,0.0,Electric,Manual,Like New,3 Series,47720.0
+1535,Maruti,2018,3.0,Petrol,Manual,Used,Dzire,41458.0
+1536,Mahindra,2019,3.0,Diesel,Automatic,Like New,Scorpio,51110.0
+1537,Ford,2012,1.2,Petrol,Manual,New,Fiesta,28434.0
+1538,Honda,2020,1.2,Petrol,Manual,New,City,38559.0
+1539,Honda,2010,1.5,Petrol,Manual,New,City,27230.0
+1540,Tesla,2008,1.0,Diesel,Automatic,New,Model S,35510.0
+1541,Maruti,2010,1.0,Petrol,Automatic,Used,Swift,18411.0
+1542,Maruti,2017,2.0,Diesel,Manual,Used,Swift,33699.0
+1543,Kia,2024,1.5,Petrol,Automatic,Like New,Carnival,44909.0
+1544,Toyota,2015,2.0,Petrol,Automatic,Used,Camry,33108.0
+1545,Hyundai,2025,1.8,Petrol,Automatic,New,i20,51702.0
+1546,Audi,2021,1.2,Petrol,Manual,Used,A4,41585.0
+1547,Toyota,2019,1.8,Petrol,Automatic,Like New,Corolla,40783.0
+1548,Hyundai,2021,1.8,Diesel,Automatic,Used,Tucson,40808.0
+1549,Tesla,2014,1.0,Petrol,Manual,Used,Model 3,35906.0
+1550,Ford,2022,0.0,Electric,Manual,Used,Explorer,34252.0
+1551,Honda,2023,1.8,Diesel,Automatic,Used,Amaze,42581.0
+1552,Honda,2023,2.0,Petrol,Manual,Used,Amaze,42303.0
+1553,Audi,2019,1.8,Diesel,Manual,Used,Q5,45490.0
+1554,Ford,2023,3.0,Diesel,Manual,New,EcoSport,58515.0
+1555,Ford,2015,2.0,Diesel,Automatic,New,Explorer,39489.0
+1556,Ford,2021,0.0,Electric,Manual,Used,Explorer,31167.0
+1557,Toyota,2019,2.5,Diesel,Manual,Like New,Camry,45471.0
+1558,Hyundai,2016,1.5,Diesel,Automatic,Used,i20,31777.0
+1559,Mercedes,2018,2.0,Petrol,Automatic,Used,C-Class,46484.0
+1560,Ford,2023,2.0,Petrol,Automatic,Used,Explorer,44475.0
+1561,Ford,2019,1.5,Diesel,Automatic,New,Fiesta,42787.0
+1562,Kia,2009,1.2,Diesel,Manual,Like New,Carnival,20543.0
+1563,Audi,2009,3.0,Petrol,Manual,Used,Q7,37422.0
+1564,Hyundai,2018,1.2,Diesel,Manual,Used,Verna,30654.0
+1565,Kia,2022,3.0,Petrol,Manual,New,Seltos,53130.0
+1566,Toyota,2019,1.8,Diesel,Manual,Used,Corolla,36930.0
+1567,Maruti,2012,1.5,Diesel,Automatic,Used,Baleno,25920.0
+1568,Mercedes,2019,2.0,Petrol,Automatic,Used,GLC,48791.0
+1569,Toyota,2022,1.8,Petrol,Automatic,Used,Fortuner,40971.0
+1570,Ford,2018,1.8,Diesel,Automatic,Like New,Mustang,40587.0
+1571,Kia,2019,1.0,Petrol,Manual,Like New,Carens,31281.0
+1572,Audi,2021,2.0,Diesel,Automatic,Used,Q5,49729.0
+1573,Tesla,2009,1.8,Diesel,Automatic,Like New,Model S,39011.0
+1574,Kia,2022,1.8,Diesel,Manual,Used,Carnival,39762.0
+1575,Tata,2024,0.0,Electric,Automatic,Like New,Altroz,39604.0
+1576,Honda,2008,1.8,Petrol,Manual,Like New,City,22117.0
+1577,Hyundai,2009,1.5,Petrol,Automatic,Used,Verna,20323.0
+1578,Tata,2016,1.2,Petrol,Manual,Used,Nexon,27321.0
+1579,Honda,2019,2.0,Petrol,Manual,Used,City,35967.0
+1580,Tata,2020,1.0,Petrol,Automatic,Used,Nexon,32269.0
+1581,Honda,2024,1.0,Petrol,Manual,Used,City,37254.0
+1582,Tata,2013,2.0,Petrol,Manual,Like New,Safari,31697.0
+1583,Mahindra,2013,0.0,Electric,Automatic,New,XUV700,29168.0
+1584,Tesla,2019,1.5,Petrol,Automatic,Used,Model Y,48209.0
+1585,BMW,2020,2.0,Petrol,Automatic,Like New,3 Series,51014.0
+1586,Toyota,2015,1.0,Diesel,Automatic,Like New,Fortuner,28959.0
+1587,Mercedes,2018,2.5,Petrol,Automatic,Used,GLA,49606.0
+1588,Mercedes,2025,1.0,Petrol,Automatic,Used,E-Class,50927.0
+1589,Hyundai,2016,0.0,Electric,Automatic,New,Verna,31098.0
+1590,BMW,2016,1.5,Petrol,Manual,Used,X5,39440.0
+1591,Mahindra,2014,2.5,Diesel,Automatic,Used,Scorpio,38027.0
+1592,Tesla,2014,1.0,Petrol,Automatic,Like New,Model Y,39710.0
+1593,Audi,2018,2.0,Diesel,Manual,Used,Q7,43962.0
+1594,Kia,2014,2.0,Petrol,Manual,Like New,Sonet,32276.0
+1595,Mahindra,2011,1.5,Diesel,Manual,New,Thar,31481.0
+1596,Tata,2023,1.5,Diesel,Automatic,Used,Nexon,41307.0
+1597,Honda,2013,1.5,Petrol,Manual,New,City,30546.0
+1598,BMW,2025,3.0,Diesel,Automatic,New,3 Series,69060.0
+1599,Mahindra,2011,3.0,Petrol,Automatic,Used,XUV700,34826.0
+1600,Mercedes,2018,2.0,Diesel,Automatic,Like New,C-Class,49906.0
+1601,Hyundai,2009,1.8,Diesel,Manual,Used,Creta,22346.0
+1602,Ford,2012,2.0,Petrol,Manual,Used,Mustang,27138.0
+1603,Toyota,2016,1.5,Petrol,Automatic,Like New,Camry,34453.0
+1604,Audi,2020,2.0,Diesel,Manual,Like New,Q7,50126.0
+1605,Mercedes,2018,3.0,Petrol,Automatic,Like New,C-Class,56766.0
+1606,Audi,2016,2.0,Diesel,Manual,Like New,A4,45380.0
+1607,Kia,2008,2.0,Petrol,Automatic,Used,Carnival,23660.0
+1608,Ford,2014,0.0,Electric,Automatic,New,Explorer,30090.0
+1609,Kia,2014,0.0,Electric,Manual,New,Carens,27231.0
+1610,Hyundai,2025,2.5,Petrol,Automatic,Used,Tucson,50201.0
+1611,Hyundai,2017,1.8,Diesel,Automatic,Used,Tucson,34265.0
+1612,Mahindra,2014,1.8,Diesel,Automatic,New,XUV700,37992.0
+1613,Toyota,2014,2.5,Petrol,Manual,New,Corolla,40659.0
+1614,Ford,2008,1.0,Diesel,Manual,New,Explorer,22623.0
+1615,Ford,2011,1.0,Petrol,Manual,Used,Fiesta,18591.0
+1616,Mercedes,2012,1.8,Petrol,Automatic,Used,E-Class,36766.0
+1617,Hyundai,2025,2.0,Diesel,Manual,Used,Creta,45560.0
+1618,Kia,2013,1.5,Petrol,Manual,Used,Sonet,25972.0
+1619,Toyota,2011,3.0,Petrol,Manual,Used,Fortuner,32992.0
+1620,BMW,2016,1.8,Petrol,Automatic,Like New,X5,43547.0
+1621,Maruti,2019,3.0,Diesel,Manual,Used,Dzire,44603.0
+1622,Mercedes,2020,1.8,Petrol,Manual,Used,GLA,46702.0
+1623,Maruti,2024,2.5,Diesel,Automatic,Used,Swift,47860.0
+1624,Ford,2011,1.8,Petrol,Manual,Used,Fiesta,26032.0
+1625,Mahindra,2009,3.0,Diesel,Manual,Used,Scorpio,31467.0
+1626,Mahindra,2024,1.2,Diesel,Manual,Like New,Bolero,43359.0
+1627,Audi,2019,1.0,Diesel,Automatic,Used,A3,39684.0
+1628,Kia,2020,2.5,Petrol,Manual,Like New,Carens,44664.0
+1629,Mercedes,2017,1.5,Petrol,Manual,Used,C-Class,42242.0
+1630,Mahindra,2025,2.5,Diesel,Automatic,Used,Scorpio,53331.0
+1631,Mahindra,2017,0.0,Electric,Automatic,Like New,XUV700,30452.0
+1632,Audi,2021,3.0,Diesel,Automatic,New,Q7,62430.0
+1633,Kia,2018,1.5,Petrol,Manual,Like New,Seltos,33731.0
+1634,Ford,2015,3.0,Petrol,Automatic,Like New,EcoSport,43383.0
+1635,Ford,2012,1.2,Petrol,Manual,New,Explorer,28199.0
+1636,Mercedes,2015,1.5,Petrol,Manual,Used,E-Class,37745.0
+1637,Mercedes,2018,3.0,Petrol,Automatic,Like New,GLC,56318.0
+1638,Maruti,2010,1.2,Petrol,Automatic,Used,Swift,18473.0
+1639,Tesla,2009,0.0,Electric,Automatic,Used,Model Y,26844.0
+1640,Mercedes,2020,0.0,Electric,Automatic,Used,E-Class,40413.0
+1641,Honda,2024,1.8,Petrol,Automatic,New,Amaze,49894.0
+1642,Hyundai,2016,1.0,Petrol,Manual,Used,i20,26157.0
+1643,Kia,2017,3.0,Petrol,Automatic,Used,Sonet,42365.0
+1644,Mercedes,2019,0.0,Electric,Manual,Used,E-Class,38041.0
+1645,Maruti,2024,3.0,Petrol,Manual,New,Baleno,55484.0
+1646,Honda,2008,1.5,Petrol,Manual,Used,Civic,18459.0
+1647,Tesla,2018,1.2,Petrol,Automatic,Like New,Model Y,44911.0
+1648,Mahindra,2014,1.5,Petrol,Automatic,New,Scorpio,34344.0
+1649,Tata,2024,2.0,Diesel,Manual,Like New,Nexon,48274.0
+1650,Audi,2009,1.0,Petrol,Automatic,Like New,A3,29141.0
+1651,Toyota,2016,0.0,Electric,Automatic,Used,Fortuner,25887.0
+1652,Ford,2017,1.2,Petrol,Manual,Used,EcoSport,29086.0
+1653,Honda,2019,1.5,Diesel,Automatic,Used,Amaze,36237.0
+1654,Audi,2019,1.8,Petrol,Manual,Like New,Q5,46231.0
+1655,Kia,2008,1.5,Petrol,Automatic,New,Carnival,25138.0
+1656,Toyota,2008,1.5,Petrol,Automatic,Used,Fortuner,19082.0
+1657,BMW,2021,1.2,Diesel,Automatic,Like New,X5,49311.0
+1658,BMW,2020,2.0,Petrol,Manual,Used,X1,47546.0
+1659,Audi,2009,1.2,Diesel,Automatic,Used,Q5,27460.0
+1660,Audi,2018,2.0,Petrol,Manual,Used,A4,43128.0
+1661,Maruti,2025,2.5,Diesel,Manual,Like New,Brezza,51275.0
+1662,BMW,2022,3.0,Petrol,Manual,Like New,X3,60205.0
+1663,Maruti,2020,1.8,Petrol,Automatic,Used,Swift,36649.0
+1664,Audi,2012,0.0,Electric,Automatic,New,A4,33165.0
+1665,Tata,2016,1.5,Diesel,Automatic,Like New,Harrier,34829.0
+1666,Hyundai,2022,1.5,Diesel,Automatic,Used,Verna,40169.0
+1667,Tata,2011,2.5,Petrol,Manual,Used,Harrier,30194.0
+1668,Mercedes,2016,1.8,Petrol,Automatic,Like New,GLA,44592.0
+1669,Kia,2010,2.5,Petrol,Manual,New,Seltos,32989.0
+1670,Audi,2016,1.0,Diesel,Manual,New,A4,41711.0
+1671,Maruti,2017,1.2,Petrol,Manual,New,Dzire,33983.0
+1672,Mercedes,2014,1.8,Diesel,Automatic,Like New,E-Class,43031.0
+1673,Mercedes,2013,2.0,Petrol,Manual,New,E-Class,46072.0
+1674,Mercedes,2019,1.0,Diesel,Automatic,Like New,GLC,45111.0
+1675,Tata,2012,1.8,Diesel,Manual,Used,Harrier,27830.0
+1676,Hyundai,2023,1.5,Diesel,Manual,New,Verna,44738.0
+1677,BMW,2015,1.2,Petrol,Manual,Like New,X1,37026.0
+1678,BMW,2013,0.0,Electric,Automatic,Used,X5,31190.0
+1679,Mahindra,2013,0.0,Electric,Manual,Like New,Thar,23182.0
+1680,Mahindra,2024,1.5,Petrol,Automatic,New,Thar,49810.0
+1681,Mahindra,2017,1.2,Diesel,Automatic,Used,Scorpio,31984.0
+1682,Mahindra,2014,1.2,Diesel,Automatic,Like New,Bolero,29888.0
+1683,Tesla,2018,3.0,Diesel,Automatic,Like New,Model 3,60437.0
+1684,Honda,2021,2.5,Diesel,Automatic,Used,CR-V,46138.0
+1685,Hyundai,2013,3.0,Diesel,Automatic,Like New,Verna,39022.0
+1686,BMW,2013,1.8,Diesel,Manual,Used,X1,37092.0
+1687,Ford,2020,2.0,Petrol,Automatic,Used,Fiesta,40094.0
+1688,Hyundai,2014,2.0,Petrol,Manual,Used,Creta,29690.0
+1689,Tata,2010,3.0,Petrol,Automatic,New,Harrier,39341.0
+1690,Tesla,2024,3.0,Petrol,Manual,New,Model X,69596.0
+1691,Audi,2019,2.5,Diesel,Manual,Like New,A3,51329.0
+1692,Mahindra,2014,1.8,Diesel,Automatic,Used,Thar,31265.0
+1693,Hyundai,2008,2.0,Petrol,Automatic,Used,Creta,21288.0
+1694,Tata,2014,0.0,Electric,Manual,Like New,Nexon,23860.0
+1695,Tesla,2020,3.0,Petrol,Automatic,Used,Model Y,59024.0
+1696,BMW,2022,1.8,Petrol,Automatic,New,X5,56883.0
+1697,Ford,2019,1.2,Diesel,Manual,Like New,Explorer,36981.0
+1698,BMW,2015,1.8,Petrol,Automatic,Used,X5,41169.0
+1699,Toyota,2023,3.0,Petrol,Automatic,Used,Camry,51551.0
+1700,Ford,2015,2.0,Petrol,Automatic,Used,Fiesta,34006.0
+1701,Kia,2024,1.2,Petrol,Automatic,Used,Carnival,39848.0
+1702,BMW,2014,1.0,Petrol,Automatic,Like New,X1,36124.0
+1703,Audi,2012,1.2,Diesel,Automatic,Like New,A3,35540.0
+1704,Mahindra,2023,1.5,Petrol,Automatic,Used,Bolero,41921.0
+1705,Tata,2025,0.0,Electric,Automatic,Used,Nexon,37141.0
+1706,Ford,2015,1.8,Petrol,Automatic,New,Fiesta,38080.0
+1707,Tesla,2022,1.5,Diesel,Automatic,Like New,Model X,54230.0
+1708,Tata,2013,1.8,Petrol,Manual,Like New,Altroz,29247.0
+1709,Tata,2019,1.5,Diesel,Automatic,Used,Safari,35030.0
+1710,BMW,2013,3.0,Petrol,Automatic,Like New,3 Series,48617.0
+1711,Honda,2024,1.0,Diesel,Manual,Used,Amaze,37696.0
+1712,Tata,2017,2.0,Petrol,Automatic,Used,Safari,35789.0
+1713,Tesla,2017,2.5,Diesel,Automatic,New,Model X,57164.0
+1714,BMW,2018,1.0,Diesel,Manual,Like New,3 Series,41505.0
+1715,Tata,2024,2.5,Petrol,Automatic,New,Nexon,55084.0
+1716,Mahindra,2017,1.2,Diesel,Manual,Like New,Bolero,33920.0
+1717,Kia,2016,0.0,Electric,Automatic,New,Seltos,29837.0
+1718,Audi,2020,2.5,Diesel,Manual,Used,A4,50496.0
+1719,Tesla,2022,2.5,Diesel,Manual,New,Model X,63856.0
+1720,Hyundai,2014,0.0,Electric,Automatic,Like New,Creta,23230.0
+1721,BMW,2016,2.5,Petrol,Automatic,Like New,3 Series,49214.0
+1722,Honda,2016,0.0,Electric,Manual,Used,City,24421.0
+1723,Hyundai,2022,1.8,Petrol,Manual,Like New,i20,41071.0
+1724,Mercedes,2010,2.5,Petrol,Automatic,Like New,GLA,42073.0
+1725,Mercedes,2021,1.2,Petrol,Manual,New,GLA,50118.0
+1726,Maruti,2017,0.0,Electric,Manual,Used,Brezza,23779.0
+1727,Audi,2017,1.0,Petrol,Automatic,Used,A3,36936.0
+1728,Ford,2013,1.2,Petrol,Automatic,Used,EcoSport,25189.0
+1729,Honda,2025,2.5,Diesel,Automatic,New,CR-V,57734.0
+1730,Mercedes,2014,0.0,Electric,Manual,New,GLC,36386.0
+1731,BMW,2025,1.0,Petrol,Manual,Like New,3 Series,49528.0
+1732,Tesla,2013,3.0,Petrol,Automatic,Like New,Model 3,50527.0
+1733,Mercedes,2022,3.0,Diesel,Automatic,New,E-Class,67828.0
+1734,Honda,2011,2.0,Diesel,Manual,Used,CR-V,26238.0
+1735,Tesla,2015,3.0,Petrol,Automatic,Used,Model 3,52917.0
+1736,Tata,2017,2.5,Diesel,Automatic,Used,Harrier,40859.0
+1737,Honda,2012,1.5,Diesel,Automatic,New,CR-V,32013.0
+1738,Ford,2024,3.0,Diesel,Automatic,New,Fiesta,60100.0
+1739,Honda,2016,0.0,Electric,Manual,Like New,Amaze,27092.0
+1740,Mercedes,2020,1.5,Petrol,Automatic,Used,E-Class,45912.0
+1741,Tesla,2017,1.0,Petrol,Automatic,Like New,Model Y,43439.0
+1742,Tata,2012,2.0,Diesel,Automatic,Like New,Safari,32143.0
+1743,Toyota,2022,3.0,Petrol,Manual,Used,Innova,48428.0
+1744,Tata,2011,1.8,Petrol,Manual,Used,Nexon,23884.0
+1745,Audi,2011,1.2,Petrol,Manual,Like New,Q5,31982.0
+1746,Maruti,2010,1.0,Petrol,Automatic,New,Swift,24188.0
+1747,Mercedes,2013,1.8,Petrol,Automatic,Used,GLA,39916.0
+1748,Hyundai,2018,1.8,Petrol,Manual,New,Verna,39908.0
+1749,Audi,2014,3.0,Petrol,Manual,New,A4,51395.0
+1750,Mahindra,2024,1.2,Petrol,Automatic,Used,Bolero,42025.0
+1751,Kia,2008,1.5,Petrol,Manual,Used,Seltos,18248.0
+1752,BMW,2019,1.0,Diesel,Automatic,Like New,X5,43608.0
+1753,Toyota,2024,1.5,Petrol,Manual,Like New,Camry,42801.0
+1754,Hyundai,2020,3.0,Diesel,Automatic,New,Tucson,53541.0
+1755,Mahindra,2024,2.5,Diesel,Manual,Used,Bolero,48926.0
+1756,BMW,2010,0.0,Electric,Automatic,New,X1,30940.0
+1757,Kia,2010,2.0,Petrol,Manual,Like New,Carnival,26840.0
+1758,Tesla,2025,1.2,Petrol,Manual,New,Model S,58735.0
+1759,Ford,2009,1.2,Diesel,Manual,Like New,Fiesta,21686.0
+1760,Kia,2025,2.5,Petrol,Automatic,Used,Carnival,48960.0
+1761,Audi,2009,3.0,Diesel,Manual,Used,Q5,39511.0
+1762,BMW,2014,1.0,Petrol,Automatic,Like New,X3,35030.0
+1763,Toyota,2008,1.5,Diesel,Manual,Like New,Fortuner,20981.0
+1764,Honda,2009,3.0,Petrol,Automatic,Used,City,31998.0
+1765,Ford,2011,1.0,Diesel,Automatic,New,Explorer,27151.0
+1766,Toyota,2013,2.0,Diesel,Automatic,Used,Fortuner,31474.0
+1767,BMW,2019,1.0,Petrol,Manual,Used,X1,39797.0
+1768,Tesla,2014,1.2,Petrol,Automatic,Used,Model Y,37546.0
+1769,Tesla,2016,1.0,Petrol,Manual,Used,Model X,37881.0
+1770,Audi,2023,3.0,Diesel,Automatic,New,Q5,67345.0
+1771,Ford,2025,2.5,Diesel,Automatic,Used,Explorer,51978.0
+1772,Toyota,2013,1.8,Diesel,Automatic,Used,Fortuner,29060.0
+1773,Tata,2020,1.2,Petrol,Manual,Like New,Nexon,35047.0
+1774,Maruti,2020,2.0,Petrol,Manual,Like New,Baleno,41050.0
+1775,Maruti,2009,3.0,Petrol,Automatic,Used,Swift,30352.0
+1776,Toyota,2009,1.8,Diesel,Automatic,Like New,Innova,26443.0
+1777,Maruti,2015,3.0,Petrol,Automatic,New,Swift,45940.0
+1778,Tesla,2020,2.5,Diesel,Automatic,Used,Model Y,56318.0
+1779,Audi,2014,2.0,Diesel,Automatic,Used,A4,40055.0
+1780,Tesla,2012,2.5,Petrol,Manual,Used,Model S,43755.0
+1781,Audi,2010,0.0,Electric,Manual,Used,A4,24539.0
+1782,Audi,2012,2.0,Diesel,Automatic,New,Q5,43899.0
+1783,Audi,2017,2.0,Petrol,Automatic,Used,Q5,43762.0
+1784,Mahindra,2009,1.2,Diesel,Automatic,Used,Scorpio,21902.0
+1785,BMW,2010,2.0,Petrol,Automatic,Used,X1,35279.0
+1786,Tata,2008,0.0,Electric,Automatic,Like New,Harrier,15310.0
+1787,Tata,2009,0.0,Electric,Automatic,Used,Altroz,15556.0
+1788,Toyota,2021,0.0,Electric,Automatic,Used,Camry,32457.0
+1789,Audi,2018,1.2,Diesel,Automatic,Like New,A3,43263.0
+1790,Ford,2012,2.0,Diesel,Automatic,Used,Fiesta,30072.0
+1791,Mercedes,2016,1.5,Petrol,Manual,Used,GLC,39853.0
+1792,Tata,2023,2.0,Petrol,Manual,Used,Altroz,42994.0
+1793,Toyota,2021,1.2,Diesel,Manual,Used,Innova,36604.0
+1794,Ford,2016,1.0,Petrol,Automatic,New,EcoSport,33496.0
+1795,Tesla,2019,3.0,Petrol,Manual,Used,Model X,57329.0
+1796,Tata,2010,3.0,Diesel,Manual,Used,Altroz,32463.0
+1797,Tesla,2022,3.0,Petrol,Manual,Used,Model Y,59963.0
+1798,Maruti,2015,2.5,Petrol,Manual,Used,Swift,35078.0
+1799,Honda,2018,1.5,Petrol,Manual,Like New,City,35391.0
+1800,Hyundai,2019,1.2,Petrol,Manual,Used,i20,31455.0
+1801,Tesla,2023,0.0,Electric,Manual,Used,Model Y,45617.0
+1802,Ford,2017,1.8,Diesel,Automatic,Used,Explorer,36673.0
+1803,Hyundai,2024,1.8,Petrol,Automatic,New,Verna,50200.0
+1804,Maruti,2022,1.8,Diesel,Automatic,Used,Swift,41715.0
+1805,Ford,2008,0.0,Electric,Automatic,Used,Fiesta,15849.0
+1806,Kia,2022,2.0,Petrol,Manual,New,Carens,46137.0
+1807,Mahindra,2011,2.5,Petrol,Manual,Used,Bolero,29725.0
+1808,Hyundai,2022,2.0,Petrol,Manual,New,Creta,46237.0
+1809,Mercedes,2013,2.5,Petrol,Automatic,Used,E-Class,44489.0
+1810,Hyundai,2013,1.8,Petrol,Automatic,Used,Tucson,28067.0
+1811,Hyundai,2025,3.0,Diesel,Manual,Used,Creta,52501.0
+1812,Mercedes,2021,0.0,Electric,Manual,Used,GLA,40317.0
+1813,Maruti,2020,0.0,Electric,Manual,Used,Brezza,28825.0
+1814,Mahindra,2010,1.2,Petrol,Automatic,New,Bolero,28597.0
+1815,Tata,2008,2.5,Diesel,Automatic,Used,Altroz,27273.0
+1816,Maruti,2011,0.0,Electric,Automatic,Used,Brezza,17041.0
+1817,BMW,2013,3.0,Diesel,Automatic,Like New,X3,49162.0
+1818,Kia,2010,1.5,Petrol,Manual,New,Seltos,27500.0
+1819,Tesla,2025,1.8,Diesel,Manual,Used,Model S,57865.0
+1820,Toyota,2010,2.0,Diesel,Manual,Used,Fortuner,26465.0
+1821,Audi,2019,3.0,Diesel,Manual,Used,Q5,52486.0
+1822,Mercedes,2021,0.0,Electric,Automatic,New,E-Class,48145.0
+1823,Mahindra,2012,1.8,Petrol,Manual,Like New,Scorpio,29948.0
+1824,BMW,2019,1.0,Diesel,Manual,Used,X1,39590.0
+1825,Honda,2014,1.2,Petrol,Manual,Used,Amaze,24557.0
+1826,Honda,2016,1.2,Petrol,Manual,New,Civic,34209.0
+1827,Hyundai,2015,1.8,Diesel,Automatic,Used,Creta,30808.0
+1828,Mahindra,2024,1.5,Petrol,Automatic,New,Thar,48121.0
+1829,BMW,2025,0.0,Electric,Automatic,New,X1,52537.0
+1830,Tesla,2025,1.0,Petrol,Automatic,New,Model 3,56919.0
+1831,Maruti,2023,1.8,Petrol,Manual,Like New,Dzire,42878.0
+1832,Tesla,2008,1.2,Diesel,Manual,Used,Model S,29108.0
+1833,Ford,2020,1.5,Petrol,Automatic,Used,EcoSport,37267.0
+1834,Tesla,2021,0.0,Electric,Automatic,Used,Model S,44540.0
+1835,Mercedes,2014,1.8,Diesel,Automatic,Used,GLA,41919.0
+1836,Kia,2018,1.0,Petrol,Automatic,Used,Seltos,29726.0
+1837,Hyundai,2014,1.0,Diesel,Automatic,Like New,Tucson,28168.0
+1838,Honda,2016,3.0,Diesel,Automatic,Used,Civic,41080.0
+1839,Tesla,2017,1.8,Petrol,Automatic,Like New,Model Y,48259.0
+1840,Audi,2020,2.5,Petrol,Manual,Used,A3,50573.0
+1841,Tesla,2009,1.2,Diesel,Automatic,New,Model 3,37023.0
+1842,Hyundai,2009,1.2,Diesel,Manual,Like New,Tucson,19515.0
+1843,Tesla,2008,0.0,Electric,Automatic,Like New,Model 3,28113.0
+1844,Toyota,2008,3.0,Diesel,Manual,New,Corolla,36952.0
+1845,Mercedes,2021,1.8,Diesel,Manual,Used,GLA,49127.0
+1846,Kia,2025,0.0,Electric,Automatic,New,Carens,42190.0
+1847,Maruti,2014,0.0,Electric,Manual,Used,Dzire,19341.0
+1848,Tata,2010,2.5,Diesel,Automatic,New,Safari,35200.0
+1849,Honda,2021,1.8,Diesel,Automatic,New,City,46956.0
+1850,Tata,2016,2.5,Diesel,Manual,Used,Nexon,36811.0
+1851,Kia,2012,1.8,Petrol,Automatic,Used,Seltos,26624.0
+1852,Ford,2021,1.2,Petrol,Automatic,Used,Fiesta,36952.0
+1853,Hyundai,2022,3.0,Petrol,Automatic,Used,i20,48937.0
+1854,Mercedes,2023,3.0,Petrol,Automatic,Like New,GLA,63938.0
+1855,Maruti,2013,1.2,Petrol,Manual,Like New,Dzire,25471.0
+1856,BMW,2010,3.0,Petrol,Manual,Like New,3 Series,42564.0
+1857,Mahindra,2022,1.0,Diesel,Manual,Used,Thar,37408.0
+1858,BMW,2021,1.8,Petrol,Automatic,Used,X3,50166.0
+1859,Tata,2024,2.5,Diesel,Manual,New,Harrier,55497.0
+1860,Ford,2010,0.0,Electric,Manual,New,Mustang,21338.0
+1861,BMW,2018,1.0,Petrol,Automatic,Used,X5,38663.0
+1862,Tesla,2018,2.5,Diesel,Manual,Like New,Model 3,54935.0
+1863,Mahindra,2011,1.0,Petrol,Automatic,New,Scorpio,28127.0
+1864,Ford,2020,2.5,Petrol,Manual,New,Explorer,48223.0
+1865,Hyundai,2025,1.0,Diesel,Manual,New,Tucson,44983.0
+1866,Ford,2024,1.0,Diesel,Automatic,New,Mustang,45189.0
+1867,Tesla,2009,1.8,Petrol,Manual,Used,Model X,33412.0
+1868,Honda,2020,1.2,Diesel,Manual,Like New,Civic,37078.0
+1869,Tesla,2012,2.5,Petrol,Manual,New,Model S,47990.0
+1870,Hyundai,2023,0.0,Electric,Manual,Used,Tucson,32052.0
+1871,BMW,2025,1.8,Petrol,Manual,Used,X3,52556.0
+1872,BMW,2013,1.8,Petrol,Manual,Like New,3 Series,39036.0
+1873,Maruti,2019,0.0,Electric,Manual,New,Baleno,33832.0
+1874,Ford,2017,1.5,Petrol,Automatic,Used,Fiesta,32052.0
+1875,Hyundai,2012,1.0,Diesel,Automatic,Like New,Creta,23767.0
+1876,Mahindra,2025,1.2,Diesel,Automatic,Used,XUV700,44257.0
+1877,BMW,2016,1.0,Petrol,Manual,Like New,X3,36731.0
+1878,Audi,2015,2.5,Petrol,Manual,Used,A3,44096.0
+1879,Tata,2020,1.8,Diesel,Automatic,Like New,Nexon,41826.0
+1880,Toyota,2021,1.2,Diesel,Automatic,Used,Innova,36076.0
+1881,Hyundai,2023,0.0,Electric,Manual,Like New,Tucson,34994.0
+1882,Kia,2013,2.0,Petrol,Manual,Like New,Seltos,30854.0
+1883,Kia,2011,1.0,Petrol,Automatic,Used,Sonet,20373.0
+1884,Honda,2021,1.5,Petrol,Automatic,Like New,City,40561.0
+1885,Maruti,2016,1.2,Petrol,Automatic,Like New,Baleno,29016.0
+1886,Mahindra,2016,2.5,Petrol,Manual,Used,Scorpio,38417.0
+1887,Maruti,2022,2.5,Petrol,Manual,Used,Swift,43407.0
+1888,Tata,2022,1.2,Petrol,Manual,New,Harrier,41785.0
+1889,Tata,2011,1.8,Petrol,Manual,Like New,Altroz,27642.0
+1890,Audi,2011,0.0,Electric,Automatic,Used,A3,26423.0
+1891,Ford,2008,1.2,Petrol,Automatic,Used,Fiesta,17967.0
+1892,Hyundai,2016,1.2,Petrol,Manual,Like New,Verna,28260.0
+1893,Toyota,2014,1.0,Diesel,Automatic,Used,Innova,26432.0
+1894,Tata,2008,3.0,Diesel,Automatic,New,Nexon,36563.0
+1895,Toyota,2016,2.5,Petrol,Automatic,New,Fortuner,45032.0
+1896,Tata,2018,2.5,Diesel,Manual,New,Altroz,45160.0
+1897,Tesla,2020,1.5,Diesel,Automatic,Used,Model Y,48757.0
+1898,Mahindra,2017,1.0,Petrol,Automatic,Used,XUV700,30479.0
+1899,Tata,2014,1.0,Petrol,Manual,Like New,Nexon,25158.0
+1900,Mercedes,2022,1.2,Petrol,Automatic,New,GLA,52614.0
+1901,Kia,2019,1.0,Petrol,Automatic,Like New,Sonet,33076.0
+1902,Tesla,2016,1.2,Diesel,Automatic,Like New,Model Y,43543.0
+1903,Kia,2011,2.0,Petrol,Automatic,New,Carens,33187.0
+1904,Honda,2022,1.2,Petrol,Automatic,Used,City,35576.0
+1905,Honda,2013,3.0,Diesel,Automatic,Used,Civic,38804.0
+1906,Tata,2018,2.0,Petrol,Automatic,Used,Altroz,36828.0
+1907,Honda,2012,1.2,Petrol,Manual,Used,Civic,22302.0
+1908,Ford,2022,3.0,Diesel,Automatic,Like New,Mustang,53657.0
+1909,BMW,2009,3.0,Diesel,Manual,Like New,3 Series,43286.0
+1910,Hyundai,2022,1.5,Petrol,Manual,Used,i20,37475.0
+1911,Kia,2019,2.0,Diesel,Manual,New,Seltos,42688.0
+1912,Kia,2014,0.0,Electric,Manual,Used,Sonet,21210.0
+1913,Honda,2008,2.0,Diesel,Manual,Like New,CR-V,24226.0
+1914,Kia,2011,0.0,Electric,Automatic,Like New,Sonet,20670.0
+1915,Mercedes,2020,1.8,Diesel,Manual,Used,GLA,49386.0
+1916,Toyota,2025,0.0,Electric,Manual,Like New,Camry,38537.0
+1917,BMW,2020,1.0,Diesel,Automatic,New,X3,48384.0
+1918,Maruti,2024,1.8,Petrol,Automatic,Used,Brezza,43916.0
+1919,Mercedes,2010,1.5,Petrol,Automatic,New,C-Class,39437.0
+1920,Tata,2016,1.8,Diesel,Manual,Used,Nexon,32007.0
+1921,Honda,2025,1.8,Petrol,Automatic,New,City,51119.0
+1922,Toyota,2008,1.2,Diesel,Automatic,Like New,Corolla,20215.0
+1923,Toyota,2011,3.0,Petrol,Manual,Used,Camry,33218.0
+1924,Tesla,2021,2.5,Petrol,Manual,New,Model S,61754.0
+1925,Tata,2022,1.2,Diesel,Manual,New,Safari,43452.0
+1926,Maruti,2021,1.0,Diesel,Automatic,Used,Dzire,33419.0
+1927,Tesla,2018,2.0,Petrol,Automatic,New,Model X,54584.0
+1928,BMW,2020,1.2,Petrol,Manual,New,3 Series,48607.0
+1929,Toyota,2014,2.0,Petrol,Manual,New,Camry,35397.0
+1930,BMW,2018,2.5,Petrol,Automatic,Used,3 Series,49256.0
+1931,Ford,2009,1.2,Petrol,Automatic,Used,EcoSport,18809.0
+1932,Hyundai,2022,1.2,Petrol,Manual,New,Verna,40627.0
+1933,Kia,2021,1.0,Diesel,Automatic,Used,Carens,34109.0
+1934,Ford,2010,1.8,Petrol,Manual,Used,Fiesta,24426.0
+1935,Tata,2021,0.0,Electric,Manual,Used,Nexon,30553.0
+1936,Audi,2025,1.5,Diesel,Manual,Used,Q7,52209.0
+1937,Tata,2009,1.0,Petrol,Automatic,Like New,Safari,18978.0
+1938,Mercedes,2024,3.0,Petrol,Automatic,Like New,GLA,64245.0
+1939,Kia,2021,1.5,Petrol,Automatic,Used,Carens,36962.0
+1940,Honda,2011,1.8,Petrol,Manual,Used,Amaze,23224.0
+1941,Ford,2013,0.0,Electric,Automatic,Used,Mustang,22191.0
+1942,Mahindra,2023,1.2,Diesel,Automatic,Used,Thar,41229.0
+1943,Toyota,2010,3.0,Petrol,Manual,Used,Corolla,32104.0
+1944,Tata,2024,2.5,Petrol,Manual,Like New,Nexon,51043.0
+1945,Mercedes,2021,1.8,Petrol,Manual,New,GLC,54612.0
+1946,Audi,2011,0.0,Electric,Automatic,Like New,Q7,29338.0
+1947,BMW,2022,3.0,Petrol,Automatic,Used,X1,58268.0
+1948,Maruti,2018,0.0,Electric,Manual,Used,Dzire,25271.0
+1949,Tata,2022,0.0,Electric,Automatic,Like New,Harrier,36607.0
+1950,Honda,2013,1.2,Petrol,Automatic,New,City,30269.0
+1951,Toyota,2011,2.0,Diesel,Manual,Used,Camry,28009.0
+1952,Audi,2024,0.0,Electric,Automatic,Used,A4,45606.0
+1953,Tesla,2015,1.2,Diesel,Manual,Like New,Model S,41266.0
+1954,Ford,2015,0.0,Electric,Manual,New,EcoSport,28758.0
+1955,Hyundai,2025,0.0,Electric,Automatic,Like New,Creta,39246.0
+1956,Audi,2024,1.2,Diesel,Manual,Used,Q5,46628.0
+1957,Tata,2015,0.0,Electric,Manual,Like New,Nexon,24422.0
+1958,Tata,2025,1.0,Petrol,Manual,Used,Altroz,38012.0
+1959,Mercedes,2018,0.0,Electric,Manual,Like New,C-Class,39847.0
+1960,Tesla,2021,1.8,Petrol,Automatic,Used,Model Y,52648.0
+1961,Kia,2008,0.0,Electric,Manual,Used,Carens,11527.0
+1962,Mahindra,2009,1.0,Petrol,Automatic,Used,Scorpio,17568.0
+1963,Maruti,2023,0.0,Electric,Manual,Used,Baleno,31860.0
+1964,Tesla,2024,1.8,Diesel,Automatic,Used,Model X,57150.0
+1965,Hyundai,2012,2.5,Diesel,Automatic,Like New,Verna,34407.0
+1966,Tata,2018,1.5,Diesel,Automatic,Like New,Nexon,37199.0
+1967,Hyundai,2019,2.5,Diesel,Manual,Used,Creta,39960.0
+1968,Maruti,2012,2.5,Diesel,Manual,Like New,Swift,32616.0
+1969,Honda,2015,2.5,Diesel,Manual,Like New,CR-V,37461.0
+1970,Kia,2019,2.0,Petrol,Automatic,New,Sonet,44665.0
+1971,Audi,2014,2.0,Diesel,Automatic,Used,A3,40073.0
+1972,Maruti,2017,1.0,Petrol,Manual,Used,Dzire,27164.0
+1973,Maruti,2016,1.2,Petrol,Automatic,Used,Dzire,27303.0
+1974,Mahindra,2009,1.8,Diesel,Manual,Used,Thar,23377.0
+1975,Tata,2008,3.0,Diesel,Automatic,Used,Altroz,30200.0
+1976,Tata,2014,1.0,Diesel,Manual,Like New,Harrier,26231.0
+1977,Toyota,2014,1.5,Petrol,Automatic,Like New,Fortuner,30792.0
+1978,Tesla,2014,1.8,Diesel,Automatic,Used,Model 3,43423.0
+1979,Mahindra,2024,2.5,Petrol,Automatic,New,XUV700,55907.0
+1980,Honda,2008,1.5,Petrol,Manual,Used,Civic,17306.0
+1981,Tesla,2010,1.2,Petrol,Manual,New,Model Y,36194.0
+1982,BMW,2022,0.0,Electric,Automatic,Like New,3 Series,45543.0
+1983,Mercedes,2009,1.5,Petrol,Automatic,New,E-Class,38127.0
+1984,BMW,2011,2.0,Petrol,Automatic,Like New,3 Series,39252.0
+1985,Kia,2025,1.0,Petrol,Manual,Like New,Carens,39607.0
+1986,Kia,2009,2.5,Diesel,Automatic,New,Carens,34713.0
+1987,BMW,2014,3.0,Petrol,Manual,Like New,X3,47754.0
+1988,Honda,2022,0.0,Electric,Automatic,Used,City,33115.0
+1989,BMW,2014,1.0,Petrol,Manual,Used,X5,32907.0
+1990,Audi,2023,0.0,Electric,Manual,Used,A3,42894.0
+1991,Toyota,2016,2.5,Petrol,Automatic,New,Innova,43040.0
+1992,Hyundai,2015,0.0,Electric,Automatic,Like New,Verna,25759.0
+1993,Tesla,2008,3.0,Diesel,Manual,Like New,Model X,44765.0
+1994,Tesla,2017,1.8,Petrol,Manual,New,Model S,51755.0
+1995,Honda,2009,1.8,Diesel,Manual,Like New,Civic,24180.0
+1996,Hyundai,2023,2.5,Petrol,Manual,New,i20,50942.0
+1997,Honda,2014,1.5,Diesel,Manual,Used,City,27813.0
+1998,Mahindra,2022,1.2,Petrol,Manual,Like New,Bolero,40087.0
+1999,Mercedes,2009,1.8,Petrol,Manual,Used,GLC,33050.0
+2000,Mahindra,2022,1.5,Petrol,Manual,New,XUV700,44710.0
+2001,Kia,2011,0.0,Electric,Automatic,Used,Seltos,18819.0
+2002,Ford,2015,1.2,Diesel,Automatic,New,Fiesta,34692.0
+2003,Toyota,2008,1.5,Diesel,Manual,Used,Corolla,18503.0
+2004,Mahindra,2021,2.0,Diesel,Manual,Used,Bolero,42053.0
+2005,Mahindra,2017,2.5,Petrol,Manual,Used,Thar,38207.0
+2006,Mercedes,2019,0.0,Electric,Manual,New,E-Class,44777.0
+2007,Honda,2019,1.2,Petrol,Automatic,Like New,City,35669.0
+2008,Hyundai,2014,3.0,Petrol,Automatic,Used,Creta,38928.0
+2009,Ford,2023,1.5,Diesel,Manual,New,Mustang,46131.0
+2010,Ford,2011,1.8,Petrol,Manual,Like New,EcoSport,28374.0
+2011,BMW,2019,2.5,Petrol,Automatic,Used,X3,50897.0
+2012,Mahindra,2020,1.8,Petrol,Automatic,Used,XUV700,39193.0
+2013,Mercedes,2011,2.0,Petrol,Manual,New,GLC,41665.0
+2014,Hyundai,2019,0.0,Electric,Automatic,Like New,Creta,30544.0
+2015,Hyundai,2020,2.5,Petrol,Automatic,Like New,Verna,45141.0
+2016,Honda,2008,0.0,Electric,Automatic,New,Amaze,20380.0
+2017,BMW,2017,1.5,Diesel,Manual,New,X5,46149.0
+2018,Maruti,2020,1.0,Diesel,Manual,New,Brezza,38489.0
+2019,Honda,2017,1.2,Petrol,Automatic,Used,Civic,28993.0
+2020,Tesla,2014,0.0,Electric,Manual,Like New,Model X,36273.0
+2021,BMW,2011,1.0,Petrol,Automatic,Used,X5,28452.0
+2022,Honda,2011,0.0,Electric,Automatic,Used,City,16955.0
+2023,Audi,2008,2.0,Petrol,Automatic,Used,Q7,30008.0
+2024,Maruti,2022,2.5,Petrol,Automatic,Used,Brezza,45778.0
+2025,Maruti,2013,0.0,Electric,Automatic,New,Swift,26550.0
+2026,Toyota,2008,1.5,Petrol,Automatic,Used,Fortuner,20810.0
+2027,Mahindra,2020,1.2,Petrol,Automatic,Used,XUV700,35520.0
+2028,Mahindra,2012,2.0,Diesel,Automatic,Used,XUV700,31609.0
+2029,Tesla,2011,1.8,Diesel,Manual,Used,Model 3,37643.0
+2030,Toyota,2022,1.5,Diesel,Manual,Used,Fortuner,38377.0
+2031,Mahindra,2015,0.0,Electric,Manual,New,Bolero,29519.0
+2032,Tata,2018,1.2,Petrol,Manual,Used,Altroz,30463.0
+2033,Tata,2021,2.0,Petrol,Manual,Used,Safari,38952.0
+2034,Maruti,2019,2.0,Diesel,Manual,Used,Brezza,38087.0
+2035,Mahindra,2009,2.0,Diesel,Automatic,New,Thar,32170.0
+2036,Hyundai,2012,1.0,Diesel,Manual,Used,Verna,20407.0
+2037,Ford,2022,1.2,Diesel,Manual,New,Fiesta,43265.0
+2038,Mahindra,2009,0.0,Electric,Automatic,New,Scorpio,23012.0
+2039,Tesla,2008,0.0,Electric,Manual,Like New,Model 3,28121.0
+2040,Mahindra,2008,3.0,Petrol,Manual,Used,Thar,30371.0
+2041,Mahindra,2016,1.0,Petrol,Manual,Like New,Thar,30168.0
+2042,Maruti,2018,2.5,Petrol,Manual,New,Swift,44225.0
+2043,BMW,2015,1.5,Petrol,Manual,Like New,X1,40209.0
+2044,Honda,2009,3.0,Petrol,Automatic,Used,Civic,30036.0
+2045,Honda,2017,0.0,Electric,Manual,Like New,Amaze,27532.0
+2046,Hyundai,2010,1.8,Petrol,Manual,Used,Tucson,22740.0
+2047,BMW,2021,1.2,Petrol,Manual,New,3 Series,48889.0
+2048,Audi,2023,1.2,Diesel,Manual,Used,A4,47592.0
+2049,Tesla,2018,0.0,Electric,Automatic,Used,Model X,41225.0
+2050,Mahindra,2014,2.0,Petrol,Automatic,New,Thar,39365.0
+2051,Toyota,2017,2.5,Petrol,Manual,New,Fortuner,43466.0
+2052,Kia,2022,1.2,Petrol,Manual,New,Sonet,40785.0
+2053,Kia,2020,1.5,Diesel,Automatic,Like New,Carens,38543.0
+2054,Honda,2016,1.2,Petrol,Manual,New,City,34133.0
+2055,Audi,2016,2.5,Petrol,Automatic,New,A4,51364.0
+2056,Mercedes,2020,1.0,Petrol,Manual,New,C-Class,47670.0
+2057,BMW,2017,1.5,Petrol,Automatic,Like New,3 Series,43308.0
+2058,Toyota,2017,2.0,Diesel,Automatic,Like New,Innova,38458.0
+2059,Mercedes,2011,2.0,Diesel,Manual,Used,C-Class,37366.0
+2060,Toyota,2025,3.0,Petrol,Automatic,Like New,Innova,56286.0
+2061,Tesla,2025,2.5,Petrol,Manual,Used,Model 3,61343.0
+2062,Honda,2021,1.5,Petrol,Automatic,Used,CR-V,36395.0
+2063,Tata,2009,3.0,Diesel,Manual,New,Harrier,37597.0
+2064,Mercedes,2015,3.0,Diesel,Manual,New,E-Class,55901.0
+2065,Mahindra,2013,3.0,Petrol,Automatic,Used,XUV700,37643.0
+2066,Maruti,2008,1.5,Diesel,Manual,Like New,Brezza,19670.0
+2067,Honda,2016,2.0,Petrol,Automatic,New,Civic,38800.0
+2068,Maruti,2015,1.2,Petrol,Automatic,Used,Dzire,27303.0
+2069,Ford,2021,2.5,Petrol,Manual,New,Mustang,51002.0
+2070,Kia,2019,1.8,Petrol,Automatic,Used,Carens,37148.0
+2071,Mercedes,2015,3.0,Petrol,Automatic,Like New,E-Class,53638.0
+2072,Ford,2022,1.2,Diesel,Manual,Used,Explorer,36959.0
+2073,Toyota,2024,3.0,Diesel,Automatic,Used,Camry,54740.0
+2074,Kia,2016,2.5,Diesel,Automatic,Used,Carnival,37485.0
+2075,Honda,2017,1.2,Diesel,Manual,New,Civic,35134.0
+2076,Tesla,2022,3.0,Diesel,Manual,Used,Model X,60629.0
+2077,Audi,2013,2.0,Petrol,Automatic,Used,A4,37715.0
+2078,Honda,2016,0.0,Electric,Manual,Used,City,23172.0
+2079,Maruti,2016,1.8,Petrol,Manual,Used,Baleno,30160.0
+2080,Kia,2019,2.0,Petrol,Manual,Like New,Carnival,39117.0
+2081,Kia,2022,1.5,Petrol,Automatic,Used,Carens,37457.0
+2082,Honda,2025,2.5,Diesel,Automatic,Like New,City,54523.0
+2083,Mahindra,2019,1.0,Diesel,Manual,Used,Thar,32274.0
+2084,Tesla,2013,1.2,Petrol,Automatic,New,Model X,42625.0
+2085,Audi,2013,2.0,Diesel,Automatic,Used,A4,38734.0
+2086,Hyundai,2019,1.2,Petrol,Manual,Used,Tucson,32169.0
+2087,Toyota,2014,1.2,Petrol,Automatic,Used,Corolla,26829.0
+2088,Audi,2020,3.0,Petrol,Manual,New,A3,59775.0
+2089,Honda,2018,3.0,Diesel,Automatic,New,Civic,50700.0
+2090,Kia,2015,1.8,Diesel,Manual,Like New,Carnival,33899.0
+2091,Kia,2024,1.0,Diesel,Automatic,Used,Carnival,39323.0
+2092,BMW,2021,2.5,Petrol,Automatic,New,X5,58756.0
+2093,Tata,2014,1.8,Petrol,Manual,Used,Safari,28458.0
+2094,Mercedes,2022,0.0,Electric,Manual,Used,GLA,43282.0
+2095,Toyota,2010,1.5,Petrol,Automatic,Used,Fortuner,21356.0
+2096,Honda,2024,1.8,Petrol,Manual,Used,Civic,43316.0
+2097,Tata,2019,2.5,Petrol,Automatic,Like New,Safari,44564.0
+2098,Mahindra,2025,0.0,Electric,Automatic,Used,Thar,38104.0
+2099,Kia,2014,1.2,Petrol,Manual,Used,Sonet,24724.0
+2100,Tata,2010,1.5,Diesel,Manual,Used,Safari,23050.0
+2101,Mahindra,2010,1.0,Petrol,Manual,Like New,XUV700,20924.0
+2102,Honda,2008,2.0,Petrol,Automatic,Like New,Civic,26398.0
+2103,Kia,2010,3.0,Petrol,Manual,Used,Seltos,31675.0
+2104,Mahindra,2017,1.8,Diesel,Automatic,Used,Bolero,36014.0
+2105,Toyota,2010,2.5,Diesel,Manual,New,Corolla,35581.0
+2106,Kia,2022,1.0,Diesel,Manual,New,Seltos,40819.0
+2107,Mahindra,2014,2.0,Petrol,Manual,Like New,Scorpio,34994.0
+2108,Maruti,2025,1.2,Petrol,Manual,Used,Dzire,38583.0
+2109,BMW,2018,1.0,Petrol,Automatic,Used,X3,38163.0
+2110,Tata,2018,1.5,Petrol,Manual,Like New,Harrier,34951.0
+2111,Ford,2021,2.0,Diesel,Automatic,Used,Explorer,42800.0
+2112,Kia,2021,2.0,Petrol,Automatic,Used,Carnival,41437.0
+2113,Tesla,2009,1.2,Petrol,Automatic,Used,Model Y,30005.0
+2114,Tata,2014,0.0,Electric,Automatic,Like New,Safari,23802.0
+2115,Tata,2008,1.8,Petrol,Manual,New,Nexon,27589.0
+2116,Mahindra,2020,1.5,Diesel,Automatic,Used,XUV700,38149.0
+2117,Maruti,2011,1.2,Petrol,Automatic,Like New,Baleno,24089.0
+2118,Audi,2023,2.0,Petrol,Automatic,Used,Q7,51818.0
+2119,Mahindra,2021,1.0,Diesel,Manual,Used,XUV700,34673.0
+2120,Tesla,2025,3.0,Diesel,Manual,New,Model S,71561.0
+2121,Toyota,2015,1.5,Petrol,Automatic,Used,Fortuner,28468.0
+2122,Mahindra,2019,0.0,Electric,Manual,Used,XUV700,28385.0
+2123,Ford,2020,1.0,Petrol,Manual,Like New,Mustang,34512.0
+2124,Maruti,2021,3.0,Petrol,Manual,New,Brezza,51861.0
+2125,Mahindra,2015,1.2,Petrol,Automatic,Like New,Thar,30470.0
+2126,Maruti,2018,1.5,Diesel,Automatic,New,Baleno,40390.0
+2127,Maruti,2012,1.8,Diesel,Automatic,New,Brezza,34034.0
+2128,Tata,2020,2.5,Diesel,Manual,Used,Nexon,42204.0
+2129,Tata,2014,1.2,Petrol,Manual,Used,Harrier,24305.0
+2130,Maruti,2023,2.5,Petrol,Automatic,Like New,Dzire,49042.0
+2131,Tesla,2013,2.5,Petrol,Manual,Used,Model S,43724.0
+2132,Maruti,2008,0.0,Electric,Automatic,New,Brezza,18961.0
+2133,Hyundai,2008,0.0,Electric,Automatic,Used,Verna,13440.0
+2134,Tesla,2020,1.8,Diesel,Automatic,Used,Model X,52777.0
+2135,Audi,2009,1.0,Petrol,Automatic,Used,Q5,26285.0
+2136,Ford,2009,3.0,Petrol,Manual,Like New,Mustang,32340.0
+2137,Maruti,2011,1.5,Diesel,Automatic,Like New,Swift,25617.0
+2138,Tesla,2008,1.8,Petrol,Automatic,Used,Model 3,33324.0
+2139,Honda,2010,3.0,Diesel,Manual,Used,Amaze,32900.0
+2140,Honda,2025,3.0,Diesel,Automatic,Used,City,55086.0
+2141,Mercedes,2012,3.0,Petrol,Manual,Used,GLC,45019.0
+2142,Mahindra,2017,1.2,Diesel,Automatic,New,Scorpio,38243.0
+2143,Kia,2010,3.0,Petrol,Automatic,Used,Carnival,31303.0
+2144,Tesla,2014,2.5,Diesel,Automatic,Used,Model S,47123.0
+2145,Kia,2023,1.5,Petrol,Manual,Used,Sonet,38310.0
+2146,BMW,2015,2.5,Diesel,Automatic,Used,3 Series,45553.0
+2147,Tesla,2009,1.2,Diesel,Manual,Used,Model Y,31933.0
+2148,Tata,2011,3.0,Petrol,Manual,Used,Altroz,31802.0
+2149,Maruti,2008,3.0,Diesel,Automatic,Used,Swift,29096.0
+2150,Tata,2008,1.5,Petrol,Manual,Used,Safari,18419.0
+2151,Honda,2019,1.8,Petrol,Automatic,New,Amaze,43137.0
+2152,Audi,2012,3.0,Diesel,Manual,Used,Q7,42604.0
+2153,Toyota,2021,1.0,Diesel,Automatic,Like New,Corolla,37316.0
+2154,Toyota,2018,0.0,Electric,Manual,Used,Innova,26988.0
+2155,BMW,2008,1.2,Diesel,Automatic,Used,X1,27960.0
+2156,Honda,2019,3.0,Diesel,Manual,Like New,CR-V,46521.0
+2157,Mahindra,2025,1.2,Petrol,Automatic,Used,Bolero,42353.0
+2158,Honda,2021,1.2,Diesel,Manual,New,Amaze,40722.0
+2159,Tesla,2021,1.2,Diesel,Automatic,Used,Model 3,47621.0
+2160,Tesla,2017,2.0,Petrol,Manual,Like New,Model X,50239.0
+2161,Ford,2015,0.0,Electric,Manual,Used,Explorer,22210.0
+2162,Mahindra,2020,3.0,Petrol,Automatic,New,Bolero,54844.0
+2163,Audi,2009,1.5,Diesel,Automatic,Like New,A4,33351.0
+2164,Ford,2016,0.0,Electric,Automatic,Like New,Mustang,29387.0
+2165,Mercedes,2013,0.0,Electric,Manual,Used,C-Class,28973.0
+2166,Mahindra,2022,2.0,Diesel,Automatic,Used,XUV700,45547.0
+2167,Tesla,2016,3.0,Petrol,Manual,Used,Model S,52327.0
+2168,Ford,2024,0.0,Electric,Manual,Used,Mustang,35150.0
+2169,BMW,2023,2.0,Petrol,Automatic,Used,X1,53992.0
+2170,Tata,2021,1.0,Petrol,Automatic,Like New,Nexon,35744.0
+2171,Tesla,2015,1.0,Petrol,Manual,Used,Model X,36910.0
+2172,Maruti,2009,3.0,Petrol,Manual,New,Baleno,35264.0
+2173,Maruti,2009,3.0,Diesel,Automatic,New,Brezza,38061.0
+2174,Kia,2017,2.0,Petrol,Automatic,Used,Seltos,35250.0
+2175,Mercedes,2014,0.0,Electric,Manual,Used,GLC,31134.0
+2176,Ford,2011,2.0,Petrol,Manual,Like New,Fiesta,30365.0
+2177,Mahindra,2009,0.0,Electric,Manual,Used,XUV700,16174.0
+2178,Maruti,2025,1.5,Diesel,Automatic,New,Baleno,49434.0
+2179,Tesla,2023,0.0,Electric,Automatic,Used,Model 3,47592.0
+2180,Tata,2016,3.0,Petrol,Manual,Used,Altroz,39119.0
+2181,Tesla,2023,1.5,Petrol,Automatic,New,Model 3,59656.0
+2182,Hyundai,2013,1.0,Petrol,Automatic,Used,i20,23292.0
+2183,Maruti,2017,1.8,Diesel,Manual,Like New,Dzire,34710.0
+2184,Tesla,2019,1.5,Diesel,Manual,New,Model Y,53056.0
+2185,Toyota,2018,1.0,Petrol,Manual,Like New,Camry,30992.0
+2186,Hyundai,2014,1.0,Diesel,Manual,New,Creta,29326.0
+2187,BMW,2023,1.8,Petrol,Automatic,Like New,X5,53439.0
+2188,BMW,2008,1.2,Petrol,Automatic,Used,3 Series,27231.0
+2189,BMW,2017,2.0,Diesel,Manual,Used,X3,45755.0
+2190,Tata,2021,1.0,Petrol,Manual,Used,Altroz,33921.0
+2191,Ford,2017,3.0,Petrol,Automatic,Used,Explorer,43547.0
+2192,Tesla,2025,3.0,Diesel,Automatic,Used,Model Y,65989.0
+2193,Hyundai,2010,1.2,Diesel,Manual,Used,Verna,19316.0
+2194,BMW,2013,2.5,Petrol,Automatic,New,X1,49593.0
+2195,Maruti,2011,1.0,Diesel,Automatic,New,Dzire,25495.0
+2196,Maruti,2016,2.5,Petrol,Manual,Like New,Baleno,38418.0
+2197,Hyundai,2014,2.5,Petrol,Manual,Like New,Creta,36188.0
+2198,Tesla,2024,0.0,Electric,Automatic,Used,Model X,47614.0
+2199,Honda,2015,1.8,Petrol,Manual,Used,Amaze,30108.0
+2200,Audi,2024,1.0,Petrol,Automatic,New,A4,51673.0
+2201,Mahindra,2016,1.0,Petrol,Automatic,New,Thar,34711.0
+2202,Maruti,2008,2.0,Petrol,Manual,New,Brezza,26593.0
+2203,Mahindra,2023,1.0,Petrol,Manual,New,XUV700,42391.0
+2204,Tata,2009,1.2,Petrol,Automatic,Like New,Safari,21998.0
+2205,Mahindra,2022,2.0,Petrol,Manual,Like New,Thar,46075.0
+2206,Hyundai,2018,1.5,Diesel,Automatic,Like New,Verna,37026.0
+2207,Tata,2022,1.2,Diesel,Automatic,New,Harrier,45127.0
+2208,Ford,2010,1.5,Diesel,Automatic,Used,Fiesta,24574.0
+2209,Maruti,2019,1.0,Diesel,Manual,Like New,Swift,31976.0
+2210,Mercedes,2013,2.5,Diesel,Automatic,Used,E-Class,43582.0
+2211,Audi,2015,1.0,Diesel,Manual,Used,Q5,33926.0
+2212,Hyundai,2012,1.2,Petrol,Manual,Like New,i20,23771.0
+2213,Mahindra,2010,2.5,Diesel,Manual,Used,Bolero,29387.0
+2214,Audi,2018,2.0,Petrol,Automatic,Used,Q7,45128.0
+2215,Tata,2017,2.5,Petrol,Automatic,Used,Altroz,39908.0
+2216,BMW,2019,3.0,Diesel,Manual,Like New,X3,56015.0
+2217,Honda,2012,0.0,Electric,Automatic,New,City,24132.0
+2218,Hyundai,2025,2.5,Petrol,Automatic,New,i20,56136.0
+2219,Tata,2022,1.2,Diesel,Manual,Used,Harrier,37163.0
+2220,Kia,2018,1.0,Petrol,Manual,Like New,Sonet,30370.0
+2221,BMW,2012,1.8,Petrol,Automatic,Like New,3 Series,38304.0
+2222,Ford,2020,1.8,Petrol,Automatic,Used,EcoSport,38351.0
+2223,Hyundai,2023,2.0,Petrol,Automatic,Used,Tucson,43515.0
+2224,Kia,2018,0.0,Electric,Manual,New,Sonet,32592.0
+2225,Ford,2025,1.8,Petrol,Manual,Like New,Mustang,47297.0
+2226,Tesla,2018,3.0,Petrol,Automatic,New,Model X,62216.0
+2227,Toyota,2008,1.8,Petrol,Automatic,New,Corolla,28736.0
+2228,Audi,2014,1.8,Diesel,Manual,Used,A3,38750.0
+2229,Audi,2017,0.0,Electric,Manual,Like New,Q5,34903.0
+2230,Ford,2019,1.2,Diesel,Manual,Used,EcoSport,32661.0
+2231,Maruti,2017,2.0,Petrol,Manual,New,Swift,39018.0
+2232,Toyota,2017,2.0,Petrol,Automatic,Like New,Fortuner,37687.0
+2233,Ford,2010,1.5,Petrol,Automatic,Used,EcoSport,22578.0
+2234,Hyundai,2024,2.5,Diesel,Manual,Like New,i20,50172.0
+2235,Toyota,2011,3.0,Petrol,Automatic,Used,Innova,35164.0
+2236,Tata,2022,1.2,Diesel,Automatic,Like New,Nexon,41365.0
+2237,Kia,2008,0.0,Electric,Manual,Like New,Sonet,13608.0
+2238,Tesla,2020,1.0,Petrol,Automatic,Used,Model S,43905.0
+2239,BMW,2023,1.2,Diesel,Automatic,Like New,3 Series,52241.0
+2240,Maruti,2021,3.0,Diesel,Automatic,Used,Swift,48137.0
+2241,Maruti,2010,1.0,Petrol,Manual,Used,Brezza,16394.0
+2242,Kia,2011,1.0,Petrol,Manual,Used,Seltos,17383.0
+2243,Mercedes,2013,1.5,Diesel,Manual,Used,GLC,37341.0
+2244,BMW,2014,1.2,Diesel,Automatic,New,X3,42862.0
+2245,BMW,2023,3.0,Petrol,Automatic,Used,X3,59038.0
+2246,Tata,2024,1.8,Petrol,Manual,New,Safari,48461.0
+2247,Maruti,2015,1.2,Petrol,Manual,Used,Brezza,24249.0
+2248,Audi,2025,0.0,Electric,Manual,Like New,Q5,47160.0
+2249,Mahindra,2015,0.0,Electric,Manual,Used,XUV700,24236.0
+2250,Kia,2024,2.0,Petrol,Manual,Used,Seltos,44581.0
+2251,Tata,2010,1.2,Petrol,Manual,Like New,Altroz,20587.0
+2252,Toyota,2020,3.0,Diesel,Manual,Used,Camry,46950.0
+2253,Audi,2012,1.8,Petrol,Manual,Like New,A3,35628.0
+2254,Toyota,2014,1.2,Petrol,Manual,New,Camry,30299.0
+2255,Ford,2023,1.2,Diesel,Manual,New,Explorer,44944.0
+2256,Ford,2017,2.0,Diesel,Manual,Used,Fiesta,35223.0
+2257,Tata,2019,0.0,Electric,Automatic,Used,Harrier,30190.0
+2258,Toyota,2015,1.5,Petrol,Automatic,Used,Camry,29266.0
+2259,Toyota,2008,1.0,Petrol,Automatic,Used,Fortuner,17221.0
+2260,Honda,2009,2.0,Petrol,Manual,Used,Amaze,22623.0
+2261,BMW,2008,1.8,Petrol,Manual,Used,X3,29160.0
+2262,Tesla,2014,0.0,Electric,Manual,New,Model S,40554.0
+2263,Hyundai,2014,0.0,Electric,Automatic,Used,Verna,21843.0
+2264,Audi,2015,1.2,Petrol,Manual,Used,Q7,34203.0
+2265,Mercedes,2019,1.2,Petrol,Automatic,New,E-Class,49106.0
+2266,Tata,2012,1.8,Diesel,Automatic,Used,Safari,27411.0
+2267,Tesla,2025,0.0,Electric,Manual,Used,Model X,48835.0
+2268,Kia,2025,1.5,Petrol,Automatic,New,Carens,48845.0
+2269,Tata,2025,3.0,Petrol,Manual,Like New,Altroz,55285.0
+2270,Tesla,2020,1.0,Petrol,Automatic,Like New,Model Y,46414.0
+2271,Mahindra,2010,1.5,Petrol,Automatic,Used,XUV700,23088.0
+2272,Toyota,2019,1.5,Petrol,Manual,New,Camry,40464.0
+2273,Mahindra,2018,0.0,Electric,Manual,New,Thar,33029.0
+2274,Kia,2009,1.8,Diesel,Automatic,Like New,Carens,26178.0
+2275,BMW,2024,0.0,Electric,Manual,Used,X3,45529.0
+2276,Honda,2013,1.0,Petrol,Automatic,Used,City,23796.0
+2277,Tata,2024,1.8,Diesel,Manual,New,Altroz,50254.0
+2278,Audi,2013,1.2,Petrol,Automatic,Used,A4,32531.0
+2279,Tesla,2011,2.0,Diesel,Manual,New,Model S,45099.0
+2280,Ford,2008,2.5,Petrol,Automatic,Used,Explorer,27863.0
+2281,Toyota,2023,3.0,Petrol,Automatic,Used,Corolla,51629.0
+2282,Mercedes,2008,1.0,Petrol,Automatic,Like New,C-Class,28766.0
+2283,Mercedes,2021,2.0,Petrol,Manual,New,C-Class,56880.0
+2284,Toyota,2015,3.0,Petrol,Manual,Used,Fortuner,38020.0
+2285,Tata,2018,2.0,Diesel,Automatic,Used,Nexon,37919.0
+2286,Honda,2019,2.0,Diesel,Automatic,Used,Civic,38218.0
+2287,Kia,2020,1.2,Petrol,Manual,Used,Carens,32593.0
+2288,Tesla,2020,1.5,Petrol,Automatic,Used,Model X,47492.0
+2289,Mercedes,2018,1.5,Petrol,Automatic,Used,GLC,43739.0
+2290,Mahindra,2009,1.0,Petrol,Automatic,Like New,Thar,20864.0
+2291,Audi,2021,1.0,Diesel,Manual,New,Q5,47948.0
+2292,BMW,2012,1.5,Petrol,Manual,Used,X5,33268.0
+2293,Toyota,2009,3.0,Petrol,Automatic,Like New,Corolla,33040.0
+2294,Mercedes,2015,2.0,Petrol,Automatic,Used,GLC,44159.0
+2295,Audi,2019,1.5,Petrol,Manual,Like New,A3,44366.0
+2296,BMW,2010,1.8,Petrol,Manual,Used,X3,31451.0
+2297,Mercedes,2013,3.0,Petrol,Manual,Like New,C-Class,48909.0
+2298,Mercedes,2013,1.2,Diesel,Automatic,Used,GLC,34946.0
+2299,Maruti,2008,3.0,Petrol,Manual,Like New,Baleno,29640.0
+2300,Mahindra,2017,1.0,Diesel,Manual,Used,XUV700,29989.0
+2301,Mahindra,2011,1.8,Petrol,Manual,Used,Thar,25873.0
+2302,Toyota,2009,2.5,Petrol,Manual,Like New,Corolla,29950.0
+2303,Ford,2024,0.0,Electric,Manual,Used,Fiesta,35114.0
+2304,Maruti,2019,1.2,Petrol,Manual,New,Dzire,35579.0
+2305,Audi,2024,1.0,Petrol,Manual,New,Q7,50753.0
+2306,Honda,2025,3.0,Diesel,Manual,Like New,City,56353.0
+2307,Kia,2011,1.0,Diesel,Manual,New,Carens,25950.0
+2308,Maruti,2016,2.0,Petrol,Automatic,New,Swift,38994.0
+2309,Hyundai,2011,3.0,Petrol,Manual,Used,Tucson,33466.0
+2310,Toyota,2020,2.0,Diesel,Automatic,Used,Fortuner,41047.0
+2311,Toyota,2023,1.0,Petrol,Automatic,Used,Camry,36859.0
+2312,Mahindra,2011,0.0,Electric,Manual,New,XUV700,24799.0
+2313,Mercedes,2022,2.5,Diesel,Automatic,Used,GLC,56252.0
+2314,Honda,2008,2.0,Petrol,Automatic,Used,CR-V,22213.0
+2315,Mercedes,2021,2.5,Petrol,Automatic,New,GLC,59702.0
+2316,Kia,2017,1.5,Petrol,Automatic,Like New,Carnival,35128.0
+2317,Kia,2012,1.2,Petrol,Automatic,Used,Seltos,23209.0
+2318,Ford,2019,0.0,Electric,Manual,New,Mustang,34373.0
+2319,Honda,2018,2.5,Diesel,Automatic,New,City,47951.0
+2320,Ford,2015,1.5,Petrol,Manual,New,Mustang,33601.0
+2321,Toyota,2010,2.0,Petrol,Automatic,Like New,Fortuner,28682.0
+2322,Tesla,2018,1.2,Petrol,Automatic,New,Model S,50327.0
+2323,Hyundai,2015,3.0,Petrol,Automatic,New,Creta,46187.0
+2324,Tata,2014,0.0,Electric,Automatic,Used,Safari,22382.0
+2325,Tata,2023,2.5,Diesel,Automatic,Used,Altroz,48880.0
+2326,Audi,2013,2.5,Diesel,Automatic,New,A4,48118.0
+2327,Honda,2010,1.8,Petrol,Manual,Used,CR-V,22165.0
+2328,BMW,2012,0.0,Electric,Automatic,Used,X1,28704.0
+2329,Ford,2011,1.8,Petrol,Manual,Used,Explorer,25413.0
+2330,Hyundai,2021,0.0,Electric,Automatic,Used,Verna,30561.0
+2331,Tesla,2019,1.2,Diesel,Manual,New,Model S,50761.0
+2332,Ford,2025,1.5,Petrol,Automatic,Used,Fiesta,42927.0
+2333,Mahindra,2023,2.0,Petrol,Manual,Used,Bolero,45083.0
+2334,BMW,2009,1.0,Petrol,Manual,New,X1,31840.0
+2335,Toyota,2024,1.8,Petrol,Manual,Used,Innova,43039.0
+2336,Ford,2020,1.0,Diesel,Automatic,Used,Explorer,33522.0
+2337,Maruti,2022,1.8,Petrol,Automatic,New,Brezza,47351.0
+2338,Audi,2014,2.0,Diesel,Manual,Used,A4,40106.0
+2339,Ford,2018,0.0,Electric,Automatic,Used,Fiesta,28375.0
+2340,Maruti,2014,0.0,Electric,Manual,Used,Swift,21390.0
+2341,BMW,2009,1.8,Petrol,Automatic,New,3 Series,37584.0
+2342,Tata,2020,1.5,Petrol,Automatic,Used,Safari,35847.0
+2343,Kia,2013,1.2,Petrol,Manual,New,Sonet,28764.0
+2344,Toyota,2017,1.0,Diesel,Manual,Like New,Innova,31702.0
+2345,Mahindra,2020,3.0,Petrol,Automatic,Used,Bolero,48970.0
+2346,Ford,2021,2.5,Diesel,Manual,Used,EcoSport,45832.0
+2347,BMW,2019,1.8,Petrol,Automatic,Used,3 Series,45577.0
+2348,Kia,2011,1.8,Petrol,Manual,New,Seltos,29617.0
+2349,Hyundai,2016,1.8,Petrol,Automatic,Used,i20,31472.0
+2350,BMW,2010,1.0,Petrol,Automatic,Used,X3,28836.0
+2351,Tesla,2023,1.8,Diesel,Automatic,Like New,Model Y,59117.0
+2352,Ford,2024,2.5,Petrol,Manual,Like New,EcoSport,49764.0
+2353,Honda,2021,1.2,Petrol,Manual,Used,CR-V,33678.0
+2354,Tesla,2023,3.0,Diesel,Manual,Like New,Model S,64550.0
+2355,Mahindra,2012,2.5,Petrol,Manual,Used,XUV700,31942.0
+2356,BMW,2014,0.0,Electric,Automatic,Like New,X3,34242.0
+2357,BMW,2010,2.5,Petrol,Manual,New,X1,42456.0
+2358,BMW,2018,3.0,Diesel,Manual,New,X3,59660.0
+2359,Maruti,2017,0.0,Electric,Automatic,Used,Brezza,25747.0
+2360,Audi,2022,1.5,Diesel,Manual,New,Q7,52417.0
+2361,Honda,2008,0.0,Electric,Automatic,Used,City,14732.0
+2362,Maruti,2008,1.2,Petrol,Automatic,Used,Baleno,17158.0
+2363,Tata,2022,3.0,Petrol,Automatic,Used,Safari,50495.0
+2364,Audi,2015,2.5,Petrol,Automatic,Like New,Q7,47012.0
+2365,Toyota,2013,2.0,Diesel,Manual,New,Camry,35942.0
+2366,Tesla,2020,1.5,Diesel,Manual,Like New,Model X,51699.0
+2367,Kia,2021,3.0,Petrol,Manual,New,Seltos,51332.0
+2368,BMW,2016,2.0,Petrol,Automatic,Like New,X1,46504.0
+2369,Maruti,2014,3.0,Petrol,Manual,New,Dzire,42550.0
+2370,Maruti,2021,1.8,Petrol,Automatic,Like New,Brezza,42022.0
+2371,Toyota,2013,1.8,Petrol,Automatic,Like New,Fortuner,30998.0
+2372,Audi,2015,2.5,Petrol,Manual,Used,A3,43799.0
+2373,Maruti,2020,0.0,Electric,Manual,Used,Dzire,27477.0
+2374,Mahindra,2010,1.2,Diesel,Automatic,Used,Thar,21246.0
+2375,Hyundai,2014,1.0,Petrol,Automatic,Used,i20,24882.0
+2376,Maruti,2014,1.2,Petrol,Manual,Used,Baleno,22541.0
+2377,Audi,2010,1.2,Diesel,Automatic,Used,Q5,29506.0
+2378,Tata,2025,3.0,Petrol,Manual,Used,Safari,53353.0
+2379,Hyundai,2013,2.5,Diesel,Manual,Used,Tucson,32342.0
+2380,Kia,2016,1.2,Petrol,Automatic,Used,Carnival,28334.0
+2381,Ford,2009,0.0,Electric,Automatic,Used,Explorer,16167.0
+2382,Hyundai,2017,1.8,Diesel,Automatic,Like New,Creta,36460.0
+2383,Hyundai,2015,1.8,Petrol,Automatic,Used,Tucson,31663.0
+2384,Toyota,2010,1.0,Diesel,Manual,Used,Camry,17829.0
+2385,Mahindra,2015,2.5,Petrol,Manual,Used,Scorpio,35799.0
+2386,Kia,2008,0.0,Electric,Manual,Used,Seltos,11299.0
+2387,Audi,2016,1.8,Petrol,Manual,New,A4,46310.0
+2388,Maruti,2017,2.0,Diesel,Automatic,New,Baleno,41787.0
+2389,Hyundai,2024,1.2,Diesel,Manual,New,Tucson,44710.0
+2390,Hyundai,2021,1.8,Petrol,Manual,New,Verna,43970.0
+2391,BMW,2013,3.0,Petrol,Manual,Used,X5,45549.0
+2392,Mercedes,2018,1.2,Diesel,Manual,New,GLC,46793.0
+2393,Hyundai,2013,1.0,Petrol,Manual,Like New,Verna,24193.0
+2394,Hyundai,2013,3.0,Petrol,Automatic,Used,i20,37005.0
+2395,Hyundai,2014,1.2,Petrol,Manual,New,Creta,29997.0
+2396,Audi,2019,1.5,Petrol,Automatic,Used,A4,44082.0
+2397,Toyota,2024,0.0,Electric,Manual,Used,Innova,35407.0
+2398,Hyundai,2023,1.5,Diesel,Manual,Used,Tucson,40841.0
+2399,Audi,2009,2.0,Diesel,Manual,Used,Q5,32652.0
+2400,Ford,2018,2.0,Petrol,Automatic,Used,Mustang,38665.0
+2401,Maruti,2023,1.0,Diesel,Automatic,Used,Brezza,37288.0
+2402,Maruti,2009,2.0,Diesel,Automatic,Like New,Swift,26483.0
+2403,Honda,2012,2.5,Diesel,Manual,Used,City,30966.0
+2404,Hyundai,2018,1.0,Diesel,Automatic,New,i20,36840.0
+2405,Hyundai,2022,1.5,Petrol,Manual,Used,Verna,36103.0
+2406,Audi,2014,1.2,Diesel,Manual,Used,A4,33668.0
+2407,Maruti,2010,1.8,Petrol,Manual,Used,Dzire,21880.0
+2408,Hyundai,2012,1.8,Petrol,Automatic,New,i20,31897.0
+2409,Mercedes,2013,2.0,Diesel,Manual,Like New,E-Class,43697.0
+2410,Mahindra,2017,0.0,Electric,Automatic,New,Thar,32836.0
+2411,BMW,2017,1.5,Petrol,Manual,New,X1,45559.0
+2412,Tesla,2022,3.0,Diesel,Automatic,Used,Model S,63093.0
+2413,Audi,2018,0.0,Electric,Manual,Used,Q7,33975.0
+2414,Tata,2021,3.0,Petrol,Automatic,Like New,Altroz,51167.0
+2415,Honda,2011,1.0,Petrol,Manual,Used,Amaze,18938.0
+2416,Toyota,2020,2.0,Diesel,Automatic,Like New,Corolla,42938.0
+2417,Mahindra,2022,2.0,Petrol,Automatic,Used,Scorpio,44010.0
+2418,Mercedes,2013,1.8,Petrol,Manual,Used,GLC,37750.0
+2419,BMW,2009,3.0,Diesel,Manual,New,X3,46918.0
+2420,Honda,2020,1.2,Petrol,Manual,New,City,39170.0
+2421,Kia,2012,2.0,Diesel,Manual,Used,Seltos,29059.0
+2422,Tata,2021,1.2,Diesel,Manual,Used,Altroz,36348.0
+2423,Ford,2022,2.0,Diesel,Manual,Like New,Mustang,45704.0
+2424,Tata,2024,1.0,Diesel,Manual,New,Altroz,43261.0
+2425,Ford,2013,1.2,Petrol,Automatic,New,Fiesta,30081.0
+2426,Ford,2011,0.0,Electric,Automatic,New,Fiesta,24687.0
+2427,Kia,2009,3.0,Diesel,Automatic,Used,Sonet,31542.0
+2428,Toyota,2021,1.0,Petrol,Manual,Like New,Camry,36709.0
+2429,Mercedes,2008,1.5,Diesel,Manual,Like New,C-Class,31036.0
+2430,Kia,2017,0.0,Electric,Manual,Used,Carnival,24476.0
+2431,Mercedes,2018,2.0,Petrol,Automatic,New,E-Class,54027.0
+2432,Tata,2020,2.0,Petrol,Manual,New,Altroz,43748.0
+2433,Tata,2019,1.0,Petrol,Manual,Like New,Safari,32058.0
+2434,Honda,2021,1.5,Diesel,Automatic,Used,Civic,38073.0
+2435,Kia,2009,3.0,Petrol,Manual,Used,Carnival,30228.0
+2436,Tata,2016,0.0,Electric,Automatic,Like New,Safari,26894.0
+2437,Kia,2012,3.0,Petrol,Manual,Used,Carnival,33381.0
+2438,BMW,2015,0.0,Electric,Automatic,Used,X3,34147.0
+2439,Tata,2024,2.5,Diesel,Manual,Used,Safari,48176.0
+2440,Tata,2018,2.5,Petrol,Automatic,Like New,Safari,42468.0
+2441,Kia,2010,3.0,Petrol,Manual,Like New,Carnival,32510.0
+2442,BMW,2023,2.5,Petrol,Automatic,Used,X5,57358.0
+2443,Tata,2024,0.0,Electric,Automatic,Used,Nexon,36207.0
+2444,Audi,2023,1.5,Petrol,Manual,Used,A4,46921.0
+2445,Tata,2011,3.0,Diesel,Manual,Used,Harrier,34113.0
+2446,BMW,2017,1.5,Petrol,Automatic,Like New,X3,44755.0
+2447,Tesla,2013,1.0,Petrol,Manual,New,Model Y,40063.0
+2448,Tata,2015,3.0,Petrol,Manual,Used,Harrier,39245.0
+2449,Maruti,2019,2.0,Petrol,Manual,Like New,Brezza,39168.0
+2450,Tata,2013,1.5,Petrol,Manual,New,Nexon,31018.0
+2451,Hyundai,2009,1.5,Petrol,Manual,Used,Creta,20012.0
+2452,BMW,2019,0.0,Electric,Automatic,Used,3 Series,39315.0
+2453,Ford,2021,3.0,Diesel,Manual,Used,Explorer,49136.0
+2454,Audi,2014,2.5,Petrol,Automatic,Used,Q7,42575.0
+2455,Honda,2018,0.0,Electric,Automatic,Used,CR-V,27809.0
+2456,Tata,2008,0.0,Electric,Automatic,Used,Harrier,13860.0
+2457,Audi,2020,1.2,Diesel,Automatic,Used,Q5,42961.0
+2458,BMW,2011,1.5,Diesel,Manual,Used,X3,31919.0
+2459,Audi,2012,2.5,Diesel,Automatic,New,A3,47765.0
+2460,Kia,2020,1.2,Petrol,Manual,Used,Carens,32843.0
+2461,Maruti,2008,2.5,Petrol,Automatic,Used,Baleno,24551.0
+2462,BMW,2013,1.5,Petrol,Manual,Used,3 Series,34105.0
+2463,Mercedes,2018,1.8,Diesel,Automatic,Used,E-Class,47460.0
+2464,Hyundai,2018,1.5,Petrol,Manual,Like New,Creta,33667.0
+2465,Mercedes,2013,1.0,Diesel,Manual,Used,GLA,34004.0
+2466,Tesla,2018,1.0,Diesel,Manual,Used,Model Y,43080.0
+2467,Mercedes,2011,1.8,Diesel,Automatic,New,C-Class,42599.0
+2468,Toyota,2023,1.5,Petrol,Manual,Like New,Corolla,41691.0
+2469,Tata,2019,1.8,Petrol,Manual,Like New,Harrier,38079.0
+2470,Toyota,2018,1.0,Petrol,Manual,Used,Innova,28655.0
+2471,Tesla,2018,1.2,Diesel,Automatic,Used,Model S,43757.0
+2472,Hyundai,2022,1.2,Petrol,Automatic,New,Tucson,43196.0
+2473,Tata,2019,1.0,Petrol,Automatic,Like New,Harrier,33951.0
+2474,Maruti,2008,2.0,Diesel,Automatic,New,Swift,29481.0
+2475,Tata,2014,1.2,Diesel,Manual,Used,Harrier,25316.0
+2476,Mercedes,2019,1.5,Diesel,Automatic,New,GLA,51637.0
+2477,Audi,2015,2.0,Diesel,Automatic,Like New,A4,44434.0
+2478,Mahindra,2010,2.5,Diesel,Automatic,Used,Scorpio,32030.0
+2479,Audi,2022,0.0,Electric,Automatic,New,A3,47931.0
+2480,Audi,2013,3.0,Diesel,Manual,Used,A3,44610.0
+2481,Kia,2014,0.0,Electric,Automatic,Like New,Sonet,24051.0
+2482,Tata,2025,2.0,Petrol,Automatic,Used,Nexon,47176.0
+2483,Ford,2024,2.0,Diesel,Manual,Used,Mustang,46703.0
+2484,Ford,2010,3.0,Petrol,Manual,Like New,EcoSport,33721.0
+2485,Tata,2017,0.0,Electric,Automatic,New,Nexon,32064.0
+2486,Kia,2020,3.0,Diesel,Manual,Used,Seltos,47070.0
+2487,Mercedes,2011,3.0,Diesel,Manual,New,GLA,51354.0
+2488,Honda,2008,0.0,Electric,Manual,Like New,Civic,15269.0
+2489,Tata,2016,1.5,Petrol,Automatic,New,Altroz,36821.0
+2490,Audi,2016,1.8,Petrol,Automatic,Used,Q5,41551.0
+2491,Honda,2017,1.2,Diesel,Automatic,Used,Civic,29583.0
+2492,Honda,2013,1.8,Petrol,Manual,Like New,Amaze,28712.0
+2493,Tesla,2017,3.0,Diesel,Manual,Used,Model X,55307.0
+2494,BMW,2021,1.8,Diesel,Manual,Used,X5,48721.0
+2495,Mercedes,2023,1.2,Petrol,Automatic,Used,GLA,49439.0
+2496,BMW,2009,1.8,Diesel,Manual,Like New,3 Series,35531.0
+2497,Maruti,2017,1.5,Petrol,Manual,New,Baleno,36309.0
+2498,Honda,2011,1.2,Diesel,Automatic,New,City,28274.0
+2499,Ford,2021,2.5,Diesel,Automatic,Like New,EcoSport,48632.0
+2500,Maruti,2020,1.8,Diesel,Manual,Used,Swift,37792.0
